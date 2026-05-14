@@ -13,7 +13,7 @@ OUTPUT_DIR = Path("pos_output")
 # Valores menores deixam entrar mais falsos positivos.
 VERB_SCORE_THRESHOLD = 2.0
 
-# Anchors genéricos de ação. Eles ajudam a favorecer verbos ligados a ações.
+# Anchors genéricos de ação, para favorecer verbos ligados a ações.
 ACTION_ANCHOR_NAMES = {
     "act.v.01",
     "move.v.02",
