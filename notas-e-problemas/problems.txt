@@ -1,0 +1,12 @@
+resolver duplicações de comandos (está enviando o original e o 
+modificado ao mesmo tempo).
+
+separar tokens por classes gramaticais - e palavras não reconhecidas também
+"recriar" palavras não reconhecidas
+utilizar outro método de similaridade mais adequado
+
+
+as classes não estão sendo corretamente separadas.
+
+
+fight para suicide sem motivo aparente

@@ -1,0 +1,23 @@
+existe uma palavra mais adequada do que dicionário (?)
+
+casos:
+1)
+go w 
+go w
+go n
+go n
+-- research leaves --
+2) 
+open leaflet e opening leaflet
+
+3)
+exmine
+lok
+opn
+
+4)
+usaram lematização em jogos antigos de FI?
+
+5)
+
+receive e catch funcionando para get leaflet

@@ -1,0 +1,8 @@
+separar tokens por classes gramaticais - e palavras não reconhecidas também
+"recriar" palavras não reconhecidas
+utilizar outro método de similaridade mais adequado
+
+
+1. Separar verbos
+2. Confirmar verbos manualmente e com LLM para melhorar performance
+3. 

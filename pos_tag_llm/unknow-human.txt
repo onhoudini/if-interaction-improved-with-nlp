@@ -1,0 +1,165 @@
+activa → activate
+air-p → air-pump
+ancien → ancient
+and → and
+antiqu → antique
+aviato → aviator
+beauti → beautiful
+begone → begone
+beneat → beneath
+blessi → blessing
+boarde → boarded / /
+bookle → booklet
+bracel → bracelet
+brandi → brandish / branding
+burnin → burning
+chalic → chalice
+chimne → chimney
+clockw → clockwise / clockwork
+coloni → colony / colonial
+comman → command
+consum → consume
+contai → contain
+contro → control
+crysta → crystal
+cyclop → cyclops
+deflat → deflate
+derang → derange / deranged
+descri → describe
+destro → destroy
+diagno → diagnose
+diamon → diamond
+disemb → disembowel / disembark
+disenc → disenchant
+dispat → dispatch
+dumbwa → dumbwaiter
+egypti → egyptian
+elonga → elongate
+emeral → emerald
+enchan → enchant
+encrus → encrust
+engrav → engrave
+enormo → enormous
+examin → examine
+exorci → exorcise
+exquis → exquisite
+exting → extinguish
+figuri → figurine
+finepr → fineprint
+flamin → flaming
+flathe → flathead
+foobar → foobar
+footpa → footpath
+for → for
+froboz → frobozz
+from → from
+glamdr → glamdring
+granit → granite
+gratin → gratin
+grue → grue
+guideb → guidebook
+hemloc → hemlock
+her → her
+him → him
+impass → impasse / impassable
+incant → incantation / incant --- incant is a archaic word, not necessarily unknown
+incine → incinerate
+inflat → inflate
+inscri → inscribe
+intnum → ------- trash from dictionary
+into → into ----- i still don't know why
+invisi → invisible
+jewele → jeweled / jeweler
+kitche → kitchen
+lanter → lantern
+leafle → leaflet
+leathe → leather
+liquif → liquify
+lowere → lowered
+lubric → lubricate
+lurkin → lurking
+machin → machine
+mailbo → mailbox
+massiv → massive
+matchb → matchbook
+matche → matches --- but can be a weird english word for pair
+materi → material
+monste → monster
+mounta → mountain
+myself → myself
+northe → northern
+northw → northwest
+odysse → odyssey
+of → of --- i don't know why
+onto → onto
+oops → oops
+orcris → orcrist
+overbo → overboard
+painti → painting
+parchm → parchment
+pedest → pedestal
+plasti → plastic
+platin → platinum
+plugh → plugh
+poseid → poseidon
+procee → proceed
+punctu → puncture / punctuation
+quanti → quantity
+railin → railing
+rainbo → rainbow
+reflec → reflect
+releas → release
+restar → restart
+restor → restore
+ricket → rickety / ricket ---- it's a real word of british english
+sandwi → sandwich
+sapphi → sapphire
+scepte → scepter
+sceptr → sceptre / scepter
+screwd → screwed / screw
+seawor → seaworthy
+sinist → sinister
+skelet → skeleton
+songbi → songbird
+southe → southern
+southw → southwest
+squeez → squeeze
+stairc → staircase
+stairw → stairway
+startl → startle
+stilet → stiletto
+strang → strange
+surpri → surprise
+surrou → surround
+suspic → suspicious / suspect
+swallo → swallow
+the → the
+them → them
+throug → through
+thru → through
+to → to
+toolch → toolchest
+trapdo → trapdoor
+treasu → treasure
+triden → trident
+twisti → twisting / twist
+ulysse → ulysses
+unatta → unattached / unattainable
+undern → underneath
+unfast → unfasten
+unrust → unrust
+unscri → unscrew
+useles → useless
+vampir → vampire
+verbos → verbose
+versio → version
+viciou → vicious
+viscou → viscous
+vitreo → vitreous
+what → what ----- error
+whats → what’s / whats ----- error
+where → where ----- error
+windin → winding ----- error
+winnag → winnage / winch? / -
+with → with
+writin → writing

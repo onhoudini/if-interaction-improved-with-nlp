@@ -1,0 +1,5 @@
+#define VERSION "2.55pre"
+#define RELEASE_NOTES "Development release."
+#define GIT_HASH "421a7a93db5fb2e23748ace1ffa14f4c3dca0159"
+#define GIT_HASH_SHORT "421a7a93"
+#define GIT_DATE "2023-05-14 12:10:22 -0700"

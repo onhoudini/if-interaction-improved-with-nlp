@@ -1,0 +1,12 @@
+#ifndef CURSES_DEFINES_H
+#define CURSES_DEFINES_H
+#define USE_NCURSES_H
+#define CONFIG_DIR "/etc"
+#define SOUND_TYPE "none"
+#define SAMPLERATE 44100
+#define BUFFSIZE 4096
+#define DEFAULT_CONVERTER SRC_SINC_MEDIUM_QUALITY
+#define COLOR_SUPPORT
+#define ITALIC_SUPPORT
+#define USE_UTF8
+#endif /* CURSES_DEFINES_H */
