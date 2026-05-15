@@ -3,6 +3,12 @@
 
 ## Uso
 
+Uso com ambiente virtual do python.
+
+```bash
+pip install -r requirements.txt
+```
+
 ```bash
 # Modo com algoritmo (padrão)
 python main.py 1
@@ -45,3 +51,7 @@ Edite `config.py` para ajustar:
 - Python 3.10+
 - NLTK com WordNet
 - Arquivo de jogo Z3 compatível
+
+## Créditos
+Arquivo do jogo 
+https://github.com/the-infocom-files/zork1

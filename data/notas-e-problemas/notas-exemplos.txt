@@ -1,0 +1,1 @@
+remain é um verbo e não é aceito, logs.txt mostra isso.

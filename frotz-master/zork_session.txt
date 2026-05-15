@@ -1,0 +1,374 @@
+Script started on 2026-05-14 20:54:43-03:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="102" LINES="21"]
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ docker ps [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pclear
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker compose up -d[A]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ./dfrotz zork1-r119-s880429.z3 [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kz  [7mzork1-r88-s840726.z3[27mzork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>advert
+There was no verb in that sentence!
+
+>air
+There was no verb in that sentence!
+
+>answe
+I don't know the word "answe".
+
+>ap  answer
+ West of House                                    Score: 0        Moves: 1
+
+Nobody seems to be awaiting your answer.
+
+>apply
+What do you want to apply?
+
+>attach
+What do you want to attach?
+
+>attack
+What do you want to attack?
+
+>awake
+What do you want to awake?
+
+>ax
+ West of House                                    Score: 0        Moves: 2
+
+You can't see any ax here!
+
+>axe
+There was no verb in that sentence!
+
+>back
+ West of House                                    Score: 0        Moves: 3
+
+Sorry, my memory is poor. Please give a direction.
+
+>banish
+What do you want to banish?
+
+>bar
+ West of House                                    Score: 0        Moves: 4
+
+You can't see any bar here!
+
+>bare
+You used the word "bare" in a way that I don't understand.
+
+>barf
+ West of House                                    Score: 0        Moves: 5
+
+Preposterous!
+
+>bat
+There was no verb in that sentence!
+
+>bathe
+ West of House                                    Score: 0        Moves: 6
+
+Go jump in a lake!
+
+>beetle
+There was no verb in that sentence!
+
+>exit
+ West of House                                    Score: 0        Moves: 7
+
+You can't go that way.
+
+>out
+ West of House                                    Score: 0        Moves: 8
+
+You can't go that way.
+
+>quit
+Your score is 0 (total of 350 points), in 8 moves.
+This gives you the rank of Beginner.
+Do you wish to leave the game? (Y is affirmative): >y
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ çs[K[Kls
+[?2004l[0m[01;32mAUTHORS[0m       [01;32mINSTALL_DOS[0m    [01;32mREADME.1st[0m                  [01;32mfrotz.lsm[0m    [01;32mzork1-r119-s880429.z3[0m
+[01;32mCONTRIBUTORS[0m  [01;32mINSTALL_PDP10[0m  [01;32mREADME.md[0m                   [01;32mfrotz.prj[0m    [01;32mzork1-r88-s840726.z3[0m
+[01;32mCOPYING[0m       [01;32mMakefile[0m       [01;32mTODO[0m                        [34;42mgames[0m        [01;32mzork_session.txt[0m
+[01;32mChangeLog[0m     [01;32mMakefile.kcc[0m   [01;32mZorkianStories1-GUE.zblorb[0m  [01;32mowbuild.bat[0m
+[01;32mDUMB[0m          [01;32mMakefile.ow[0m    [01;32mdfrotz[0m                      [01;32msay[0m
+[01;32mHOW_TO_PLAY[0m   [01;32mMakefile.tc[0m    [34;42mdoc[0m                         [34;42msrc[0m
+[01;32mINSTALL[0m       [01;32mREADME[0m         [34;42mfonts[0m                       [01;32mtcbuild.bat[0m
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ls./dfrotz zork1-r88-s840726.z3[A]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kls./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>bare
+You used the word "bare" in a way that I don't understand.
+
+>be
+I don't know the word "be".
+
+>bloody
+You used the word "bloody" in a way that I don't understand.
+
+>brown
+You used the word "brown" in a way that I don't understand.
+
+>carve
+I don't know the word "carve".
+
+>clear
+You used the word "clear" in a way that I don't understand.
+
+>cleave
+I don't know the word "cleave".
+
+>coin
+I don't know the word "coin".
+
+>enamel
+You used the word "enamel" in a way that I don't understand.
+
+>ghost
+I don't know the word "ghost".
+
+>jade
+You used the word "jade" in a way that I don't understand.
+
+>yelow
+I don't know the word "yelow".
+
+>yellow
+You used the word "yellow" in a way that I don't understand.
+
+>use
+I don't know the word "use".
+
+>tan
+You used the word "tan" in a way that I don't understand.
+
+>storm
+You used the word "storm" in a way that I don't understand.
+
+>sheer
+You used the word "sheer" in a way that I don't understand.
+
+>wait
+ West of House                                    Score: 0        Moves: 3
+
+Time passes...
+
+>turn
+What do you want to turn?
+
+>fine
+What do you want to turn the fine with?
+
+>forbid
+You don't have that!
+
+>ghost
+I don't know the word "ghost".
+
+>glass
+You used the word "glass" in a way that I don't understand.
+
+>use
+I don't know the word "use".
+
+>grace
+I don't know the word "grace".
+
+>carve
+I don't know the word "carve".
+
+>clear
+You used the word "clear" in a way that I don't understand.
+
+>coin
+I don't know the word "coin".
+
+>enamel
+You used the word "enamel" in a way that I don't understand.
+
+>fine
+You used the word "fine" in a way that I don't understand.
+
+>forbid
+You used the word "forbid" in a way that I don't understand.
+
+>wear
+What do you want to wear?
+
+>wave
+What do you want to wave?
+
+>wish
+ West of House                                    Score: 0        Moves: 4
+
+With luck, your wish will come true.
+
+>own
+You used the word "own" in a way that I don't understand.
+
+>pine
+I don't know the word "pine".
+
+>yell
+ West of House                                    Score: 0        Moves: 5
+
+Aaaarrrrgggghhhh!
+
+>up
+ West of House                                    Score: 0        Moves: 6
+
+You can't go that way.
+
+>da  wade
+ West of House                                    Score: 0        Moves: 7
+
+Go jump in a lake!
+
+>throw
+What do you want to throw?
+
+>roll
+What do you want to roll up?
+
+>shut
+What do you want to shut?
+
+>repent
+ West of House                                    Score: 0        Moves: 8
+
+It could very well be too late!
+
+>pat
+What do you want to pat?
+
+>paste
+ West of House                                    Score: 0        Moves: 9
+
+You can't see any paste here!
+
+>pickel
+I don't know the word "pickel".
+
+>aviato
+There was no verb in that sentence!
+
+>blessi
+There was no verb in that sentence!
+
+>begone
+What do you want to begone?
+
+>beneat
+There was no verb in that sentence!
+
+>activa
+What do you want to activa?
+
+>ti hiefs
+ West of House                                    Score: 0        Moves: 10
+
+You can't see any thiefs here!
+
+>superb
+Super-brief descriptions.
+>tooth
+There was no verb in that sentence!
+>tomb
+There was no verb in that sentence!
+>timb
+I don't know the word "timb".
+>trap
+You used the word "trap" in a way that I don't understand.
+>valve
+There was no verb in that sentence!
+>under
+There was no verb in that sentence!
+>c 
+EOT
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>rocky
+You used the word "rocky" in a way that I don't understand.
+
+>smelly
+You used the word "smelly" in a way that I don't understand.
+
+>shady
+You used the word "shady" in a way that I don't understand.
+
+>sharp
+You used the word "sharp" in a way that I don't understand.
+
+>altar
+There was no verb in that sentence!
+
+>an
+There was no verb in that sentence!
+
+>ancien
+You used the word "ancien" in a way that I don't understand.
+
+>air-p
+There was no verb in that sentence!
+
+>
+I beg your pardon?
+
+>about
+I don't know the word "about".
+
+>a
+There was no verb in that sentence!
+
+>zork
+ West of House                                    Score: 0        Moves: 1
+
+At your service!
+
+>z
+ West of House                                    Score: 0        Moves: 4
+
+Time passes...
+
+>yank
+What do you want to yank?
+
+>xyzzy
+ West of House               
