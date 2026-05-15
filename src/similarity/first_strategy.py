@@ -1,3 +1,5 @@
+# WordNet
+
 from __future__ import annotations
 
 from difflib import SequenceMatcher
@@ -10,8 +12,8 @@ from nltk.corpus import wordnet as wn
 class WordNetVerbSimilarityStrategy:
     def __init__(
         self,
-        semantic_weight: float = 0.7,
-        string_weight: float = 0.3,
+        semantic_weight: float = 0.9,
+        string_weight: float = 0.1,
         use_morphy: bool = True,
     ) -> None:
         self.semantic_weight = semantic_weight

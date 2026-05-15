@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from src.similarity.similarity_strategy import WordNetVerbSimilarityStrategy
+from src.similarity.first_strategy import WordNetVerbSimilarityStrategy
 
 SIMILARITY_STRATEGY = WordNetVerbSimilarityStrategy # Place for changing strategies
 

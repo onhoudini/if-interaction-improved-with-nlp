@@ -665,4 +665,179 @@ There was no verb in that sentence!
 What do you want to take?
 
 >contai
- West of House  
+ West of House                                    Score: 0        Moves: 1
+
+You can't see any contai here!
+
+>contain
+What do you want to take?
+
+>take
+What do you want to take?
+
+>carpet
+ West of House                                    Score: 0        Moves: 2
+
+You can't see any carpet here!
+
+>case
+There was no verb in that sentence!
+
+>^C
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>case
+There was no verb in that sentence!
+
+>carpet
+There was no verb in that sentence!
+
+>n
+ North of House                                   Score: 0        Moves: 1
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>case
+There was no verb in that sentence!
+
+>carpet
+There was no verb in that sentence!
+
+>carpet
+There was no verb in that sentence!
+
+>chests
+There was no verb in that sentence!
+
+>coffin
+There was no verb in that sentence!
+
+>dam
+There was no verb in that sentence!
+
+>cyclop
+There was no verb in that sentence!
+
+>dam
+There was no verb in that sentence!
+
+>diamon
+There was no verb in that sentence!
+
+>diamond
+There was no verb in that sentence!
+
+>dome
+There was no verb in that sentence!
+
+>door
+There was no verb in that sentence!
+
+>drive
+What do you want to drive?
+
+>eye
+ North of House                                   Score: 0        Moves: 2
+
+You can't see any eye here!
+
+>driver
+There was no verb in that sentence!
+
+>shut
+What do you want to shut?
+
+>s door
+What do you want to shut the door with?
+
+>s hands
+What do you want to hand?
+
+>shut door
+What do you want to shut the door with?
+
+>close door
+ North of House                                   Score: 0        Moves: 3
+
+You can't see any door here!
+
+>close door
+ North of House                                   Score: 0        Moves: 4
+
+You can't see any door here!
+
+>go back
+You used the word "back" in a way that I don't understand.
+
+>back
+ North of House                                   Score: 0        Moves: 5
+
+Sorry, my memory is poor. Please give a direction.
+
+>s
+ North of House                                   Score: 0        Moves: 6
+
+The windows are all boarded.
+
+>look
+ North of House                                   Score: 0        Moves: 7
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>looking
+ North of House                                   Score: 0        Moves: 8
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>gaze
+ North of House                                   Score: 0        Moves: 9
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>watch
+What do you want to catch?
+
+>catch
+What do you want to catch?
+
+>get
+What do you want to get?
+
+>taken
+What do you want to take?
+
+>ta  get
+What do you want to get?
+
+>build
+What do you want to make?
+
+>find
+That question can't be answered.
+
+>searching
+What do you want to search?
+
+>search the house
+ North of House        
