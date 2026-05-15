@@ -1,6 +1,9 @@
 === RECONHECIDAS PELO JOGO ===
 activa
+advert
 again
+air
+air-p
 ancien
 answer
 antiqu
@@ -11,11 +14,13 @@ attack
 awake
 back
 banish
+bar
 bare
 barf
 bathe
 beauti
 begone
+bird
 birds
 bite
 black
@@ -26,6 +31,11 @@ blow
 blue
 board
 boarde
+boards
+bodies
+bones
+book
+books
 brandi
 brass
 break
@@ -37,25 +47,32 @@ bug
 burn
 burned
 burnin
+button
 carry
 carved
 cast
 catch
+chain
 chant
 chase
 chomp
 chuck
+chute
 clean
 clear
 climb
 clockw
 close
+coil
+coins
 coloni
 come
 comman
 consum
 contro
 count
+cover
+crack
 cross
 crysta
 curse
@@ -79,6 +96,7 @@ donate
 douse
 down
 drink
+drip
 drive
 drop
 dusty
@@ -112,13 +130,19 @@ flathe
 flip
 follow
 forbid
+force
 ford
+forest
+fork
 free
 frigid
 froboz
 front
 fuck
 g
+gas
+gate
+gates
 gaze
 get
 giant
@@ -130,10 +154,15 @@ golden
 gothic
 grab
 granit
+grate
 grease
 green
+ground
+guide
 hand
+hands
 hatch
+head
 hello
 hi
 hide
@@ -161,21 +190,30 @@ invent
 invisi
 is
 jade
+jewel
 jewele
+jewels
 jump
 kick
 kill
 kiss
 kitche
+knife
 knock
 l
+label
+ladder
 land
 large
 launch
+leaf
+leak
 lean
 leap
 leathe
 leave
+leaves
+letter
 lift
 light
 liquif
@@ -189,25 +227,32 @@ lowere
 lubric
 lurkin
 magic
+mail
 make
 mangle
 marble
 massiv
+match
 melt
 metal
 molest
+mouth
 move
 mumble
 murder
 n
+nail
+nails
 narrow
 nasty
 ne
+nest
 north
 northe
 northw
 nw
 odysse
+off
 offer
 oil
 old
@@ -216,13 +261,16 @@ orient
 out
 own
 owners
+paste
 pat
 patch
 peal
 pepper
 pet
 pick
+piece
 pierce
+pile
 place
 play
 plug
@@ -232,6 +280,7 @@ poseid
 pour
 pray
 press
+print
 procee
 pull
 pump
@@ -242,11 +291,14 @@ put
 q
 quit
 raise
+ramp
+range
 rap
 rape
 read
 red
 releas
+remain
 remove
 repair
 repent
@@ -257,10 +309,12 @@ ricket
 ring
 rocky
 roll
+rope
 rub
 run
 rusty
 s
+sack
 save
 say
 score
@@ -313,9 +367,11 @@ startl
 stay
 steep
 step
+steps
 stone
 storm
 strang
+stream
 strike
 stuff
 super
@@ -327,6 +383,7 @@ sw
 swallo
 swim
 swing
+switch
 take
 talk
 tan
@@ -342,9 +399,13 @@ tie
 toss
 touch
 tour
+trail
 trap
 treasu
+trees
+troll
 trophy
+tube
 tug
 turn
 twisti
@@ -359,6 +420,7 @@ unscri
 untie
 up
 useles
+using
 verbos
 versio
 viciou
@@ -369,6 +431,8 @@ wade
 wait
 wake
 walk
+wall
+walls
 wave
 wear
 west
@@ -382,6 +446,7 @@ windin
 winnag
 wish
 wooden
+wrench
 xyzzy
 yank
 yell
@@ -394,9 +459,6 @@ a
 about
 across
 advent
-advert
-air
-air-p
 all
 altar
 an
@@ -409,7 +471,6 @@ away
 ax
 axe
 bag
-bar
 barrow
 basket
 bat
@@ -419,18 +480,12 @@ behind
 bell
 below
 beneat
-bird
 blade
 blessi
-boards
 boat
-bodies
 body
 bolt
-bones
-book
 bookle
-books
 bottle
 box
 bracel
@@ -439,7 +494,6 @@ breath
 bubble
 buoy
 but
-button
 cage
 canary
 candle
@@ -447,23 +501,17 @@ canvas
 carpet
 case
 casket
-chain
 chalic
 chasm
 chest
 chests
 chimne
-chute
 cliff
 cliffs
 clove
 coal
 coffin
-coil
-coins
 contai
-cover
-crack
 cretin
 cup
 cyclop
@@ -473,7 +521,6 @@ dinner
 dirt
 dome
 door
-drip
 driver
 dryer
 dumbwa
@@ -491,28 +538,17 @@ foobar
 food
 footpa
 for
-force
-forest
-fork
 from
 garlic
-gas
-gate
-gates
 ghosts
 glamdr
 gold
 graces
-grate
 gratin
-ground
 group
 grue
-guide
 guideb
 gunk
-hands
-head
 heap
 hemloc
 hemp
@@ -524,33 +560,22 @@ inscri
 intnum
 it
 ivory
-jewel
-jewels
 key
-knife
 knives
-label
-ladder
 lake
 lamp
 lanter
-leaf
 leafle
-leak
-leaves
 ledge
-letter
 lid
 liquid
 lunch
 lungs
 machin
-mail
 mailbo
 man
 manual
 map
-match
 matchb
 matche
 materi
@@ -558,16 +583,11 @@ me
 mirror
 monste
 mounta
-mouth
 myself
-nail
-nails
-nest
 no
 nut
 odor
 of
-off
 on
 one
 onto
@@ -582,33 +602,24 @@ pair
 panel
 paper
 parchm
-paste
 path
 pedest
 person
-piece
-pile
 pines
 pipe
 plasti
 platin
 pot
 prayer
-print
 quanti
 raft
 rail
 railin
 rainbo
-ramp
-range
 reflec
-remain
 river
 robber
-rope
 rug
-sack
 sailor
 sand
 sandwi
@@ -628,10 +639,7 @@ spirit
 stairc
 stairs
 stairw
-steps
 stilet
-stream
-switch
 sword
 table
 teeth
@@ -648,25 +656,17 @@ toolch
 tools
 tooth
 torch
-trail
 trapdo
 tree
-trees
 triden
-troll
 trunk
-tube
 under
 undern
-using
 valve
 vampir
-wall
-walls
 water
 window
 with
-wrench
 writin
 y
 yes
@@ -784,7 +784,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to touch?
 
 >
 
@@ -824,7 +824,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "bare" in a way that I don't understand.
 
 >
 
@@ -843,7 +843,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "bare" in a way that I don't understand.
 
 >
 
@@ -1284,7 +1284,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to banish?
 
 >
 
@@ -1573,7 +1573,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "birds" in a way that I don't understand.
 
 >
 
@@ -1822,7 +1822,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to board?
 
 >
 
@@ -1860,7 +1860,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to is?
 
 >
 
@@ -1917,7 +1917,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "owners" in a way that I don't understand.
 
 >
 
@@ -1936,7 +1936,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to hold?
 
 >
 
@@ -1974,7 +1974,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to hold?
 
 >
 
@@ -2356,7 +2356,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to fasten?
 
 >
 
@@ -2584,7 +2584,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to enchan?
 
 >
 
@@ -2780,7 +2780,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+Wheeeeeeeeee!!!!!
 
 >
 
@@ -2994,7 +2996,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to roll up?
 
 >
 
@@ -3013,7 +3015,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to strike?
 
 >
 
@@ -3167,7 +3169,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to cross?
 
 >
 
@@ -3186,7 +3188,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to break?
 
 >
 
@@ -3826,7 +3828,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to drop?
 
 >
 
@@ -4810,7 +4812,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to drive?
 
 >
 
@@ -4848,7 +4850,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to set?
 
 >
 
@@ -4867,7 +4869,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+At your service!
 
 >
 
@@ -5044,7 +5048,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to blow out?
 
 >
 
@@ -5063,7 +5067,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to tie?
 
 >
 
@@ -5082,7 +5086,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to tie?
 
 >
 
@@ -5391,7 +5395,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "granit" in a way that I don't understand.
 
 >
 
@@ -5467,7 +5471,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to dig in?
 
 >
 
@@ -5524,7 +5528,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to run?
 
 >
 
@@ -5600,7 +5604,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to hand?
 
 >
 
@@ -5638,7 +5642,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "dead" in a way that I don't understand.
 
 >
 
@@ -6397,7 +6401,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "jewele" in a way that I don't understand.
 
 >
 
@@ -6435,7 +6439,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "jewele" in a way that I don't understand.
 
 >
 
@@ -6456,7 +6460,7 @@ There is a small mailbox here.
 
 > West of House                                    Score: 0        Moves: 1
 
-Wheeeeeeeeee!!!!!
+Are you enjoying yourself?
 
 >
 
@@ -6570,7 +6574,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to injure?
 
 >
 
@@ -6651,7 +6655,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "clear" in a way that I don't understand.
 
 >
 
@@ -6670,7 +6674,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to run?
 
 >
 
@@ -6805,7 +6809,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to flip?
 
 >
 
@@ -6843,7 +6847,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to break?
 
 >
 
@@ -6883,7 +6887,7 @@ There is a small mailbox here.
 
 > West of House                                    Score: 0        Moves: 1
 
-Wheeeeeeeeee!!!!!
+Do you expect me to applaud?
 
 >
 
@@ -6942,7 +6946,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
 
 >
 
@@ -6980,7 +6986,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to set?
 
 >
 
@@ -7348,7 +7354,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to send for?
 
 >
 
@@ -7519,7 +7525,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to touch?
 
 >
 
@@ -7728,7 +7734,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+Aaaarrrrgggghhhh!
 
 >
 
@@ -7848,7 +7856,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+You can't blast anything by using words.
 
 >
 
@@ -7867,7 +7877,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+You can't blast anything by using words.
 
 >
 
@@ -7947,7 +7959,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> Forest                                           Score: 0        Moves: 1
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
 
 >
 
@@ -8151,7 +8167,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to remove?
 
 >
 
@@ -8593,7 +8609,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to glue?
 
 >
 
@@ -8783,7 +8799,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to pick?
 
 >
 
@@ -8821,7 +8837,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to place?
 
 >
 
@@ -9129,7 +9145,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to set?
 
 >
 
@@ -9435,7 +9451,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "storm" in a way that I don't understand.
 
 >
 
@@ -9454,7 +9470,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to run?
 
 >
 
@@ -9587,7 +9603,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+You will be lost without me!
 
 >
 
@@ -9836,7 +9854,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to tie?
 
 >
 
@@ -9954,7 +9972,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>You used the word "clear" in a way that I don't understand.
 
 >
 
@@ -10729,7 +10747,7 @@ There is a small mailbox here.
 
 > West of House                                    Score: 0        Moves: 1
 
-Are you enjoying yourself?
+Very good. Now you can go to the second grade.
 
 >
 
@@ -11356,7 +11374,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to step?
 
 >
 
@@ -11451,7 +11469,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to pour?
 
 >
 
@@ -11681,7 +11699,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to flip?
 
 >
 
@@ -12291,7 +12309,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+> West of House                                    Score: 0        Moves: 1
+
+You're nuts!
 
 >
 
@@ -12388,7 +12408,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to releas?
 
 >
 
@@ -12426,7 +12446,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to roll up?
 
 >
 
@@ -12483,7 +12503,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to take?
 
 >
 
@@ -12816,7 +12836,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to apply?
 
 >
 
@@ -12976,6 +12996,7 @@ There is a small mailbox here.
 Forest
 This is a forest, with trees in all directions. To the east, there appears to be
 sunlight.
+You hear in the distance the chirping of a song bird.
 
 >
 
@@ -13074,7 +13095,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to swallo?
 
 >
 
@@ -13093,7 +13114,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to swallo?
 
 >
 
@@ -13174,6 +13195,7 @@ There is a small mailbox here.
 Forest
 This is a forest, with trees in all directions. To the east, there appears to be
 sunlight.
+You hear in the distance the chirping of a song bird.
 
 >
 
@@ -13426,7 +13448,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->There was no verb in that sentence!
+>What do you want to turn?
 
 >
 

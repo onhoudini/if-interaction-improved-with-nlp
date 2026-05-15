@@ -15,11 +15,12 @@ GAME_FILE = PROJECT_ROOT / "frotz-master" / "games" / "zork1-r88-s840726.z3"
 VERBS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "zork1-r119-s880429_dictionary.txt"
 
 ACTIONS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "actions.txt"
+NOT_ACTIONS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "not-actions.txt"
 LOG_FILE = Path(__file__).resolve().parent / "logs.txt"
 
 UNKNOWN_MARKERS = [
-    "i don't know the word",
-    "there was no verb in that sentence!"
+    "i don't know the word", # retira palavras falsas/lixo do dicionário do jogo
+    "there was no verb in that sentence!" # verificar verbo utilizável, ação
 ]
 
 
@@ -40,6 +41,9 @@ def save_actions(path: Path, recognized: list[str]) -> None:
     path.write_text("\n".join(sorted(recognized)) + "\n", encoding="utf-8")
     print(f"\nAcoes salvas em: {path}")
 
+def save_not_actions(path: Path, unknown: list[str]) -> None:
+    path.write_text("\n".join(sorted(unknown)) + "\n", encoding="utf-8")
+    print(f"\nNao acoes salvas em: {path}")
 
 def classify_words(words: list[str], game_file: Path) -> tuple[dict[str, str], list[str]]:
     results: dict[str, str] = {}
@@ -108,6 +112,7 @@ def main() -> None:
     print(f"\nLog salvo em: {LOG_FILE}")
 
     save_actions(ACTIONS_FILE, recognized)
+    save_not_actions(NOT_ACTIONS_FILE, unknown)
 
 
 if __name__ == "__main__":

@@ -1,1 +1,6 @@
 remain é um verbo e não é aceito, logs.txt mostra isso.
+
+contai diz que não é um verbo, porém se eu utilizo contain ele entende como take. porem,
+como já existe o take, parecer ser OK este "problema", ao menos nesse caso.
+
+existe a palavra drive e driver, drive é uma ação e driver não. ponto interessante.

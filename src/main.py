@@ -12,7 +12,7 @@ from src.zmachine.zmachine_dictionary import extract_dictionary, _print_summary
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 VERBS_FILE = PROJECT_ROOT / "data" / "pos_output" / "verbs.txt"
-REVIEW_VERBS_FILE = PROJECT_ROOT / "data" / "pos_output" / "review_verbs.txt"
+REVIEW_VERBS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "actions.txt"
 
 
 def parse_mode() -> str:

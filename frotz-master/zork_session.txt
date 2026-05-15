@@ -371,4 +371,298 @@ Time passes...
 What do you want to yank?
 
 >xyzzy
- West of House               
+ West of House                                    Score: 0        Moves: 5
+
+A hollow voice says "Fool."
+
+>wind
+What do you want to wind?
+
+>winnag
+ West of House                                    Score: 0        Moves: 6
+
+Naturally!
+
+>wish
+ West of House                                    Score: 0        Moves: 7
+
+With luck, your wish will come true.
+
+>verbos
+Maximum verbosity.
+
+>w
+ Forest                                           Score: 0        Moves: 8
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+>wade
+ Forest                                           Score: 0        Moves: 9
+
+Go jump in a lake!
+You hear in the distance the chirping of a song bird.
+
+>tug
+What do you want to tug?
+
+>u
+ Forest                                           Score: 0        Moves: 10
+
+There is no tree here suitable for climbing.
+
+>turn
+What do you want to turn?
+
+>take
+What do you want to take?
+
+>talk
+What do you want to talk to?
+
+>swim
+ Forest                                           Score: 0        Moves: 11
+
+Go jump in a lake!
+
+>stare
+ Forest                                           Score: 0        Moves: 12
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+>shake
+What do you want to shake?
+
+>secure
+What do you want to secure?
+
+>burnin house
+What do you want to secure the burnin house to?
+
+>contro
+ Forest                                           Score: 0        Moves: 13
+
+Those things aren't here!
+
+>^C
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>contro
+You used the word "contro" in a way that I don't understand.
+
+>about
+I don't know the word "about".
+
+>oops
+I don't know the word "oops".
+
+>w
+ Forest                                           Score: 0        Moves: 1
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+>woops
+I don't know the word "woops".
+
+>about
+I don't know the word "about".
+
+>about house
+I don't know the word "about".
+
+>u
+ Forest                                           Score: 0        Moves: 2
+
+There is no tree here suitable for climbing.
+
+>about home
+I don't know the word "about".
+
+>bare
+You used the word "bare" in a way that I don't understand.
+
+>beetle
+There was no verb in that sentence!
+
+>block
+What do you want to block?
+
+>blast
+ Forest                                           Score: 0        Moves: 3
+
+You can't blast anything by using words.
+
+>^R
+emai
+I don't know the word "emai".
+
+>remain
+There was no verb in that sentence!
+
+>w
+ Forest                                           Score: 0        Moves: 4
+
+You would need a machete to go further west.
+
+>remain
+There was no verb in that sentence!
+
+>^C
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>hi
+ West of House                                    Score: 0        Moves: 1
+
+Hello.
+
+>^C
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ hi
+[?2004lCommand 'hi' not found, but can be installed with:
+sudo snap install hi
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ hi./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>hi
+ West of House                                    Score: 0        Moves: 1
+
+Nice weather we've been having lately.
+
+>hello
+ West of House                                    Score: 0        Moves: 2
+
+Good day.
+
+>opening the door
+ West of House                                    Score: 0        Moves: 3
+
+The door cannot be opened.
+
+>explode the door
+I don't know the word "explode".
+
+>explode door
+I don't know the word "explode".
+
+>boom door
+That sentence isn't one I recognize.
+
+>boom      blast door
+That sentence isn't one I recognize.
+
+>boom
+ West of House                                    Score: 0        Moves: 4
+
+You can't blast anything by using words.
+
+>explode
+I don't know the word "explode".
+
+>detonate
+I don't know the word "detonate".
+
+>elonga
+You used the word "elonga" in a way that I don't understand.
+
+>elonga door
+You used the word "elonga" in a way that I don't understand.
+
+>^C
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>contain
+What do you want to take?
+
+>contai
+ West of House                                    Score: 0        Moves: 1
+
+You can't see any contai here!
+
+>chasm
+There was no verb in that sentence!
+
+>chests
+There was no verb in that sentence!
+
+>cliff
+There was no verb in that sentence!
+
+>^C
+[?2004h]0;houdini@DESKTOP-ABS0G85: /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[01;32mhoudini@DESKTOP-ABS0G85[00m:[01;34m/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master[00m$ ./dfrotz zork1-r88-s840726.z3
+[?2004lUsing normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>contai
+There was no verb in that sentence!
+
+>contain
+What do you want to take?
+
+>contai
+ West of House  
