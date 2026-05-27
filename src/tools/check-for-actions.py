@@ -7,12 +7,13 @@ Saidas:
 """
 
 import subprocess
+import re
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DFROTZ = PROJECT_ROOT / "frotz-master" / "dfrotz"
 GAME_FILE = PROJECT_ROOT / "frotz-master" / "games" / "zork1-r88-s840726.z3"
-VERBS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "zork1-r119-s880429_dictionary.txt"
+VERBS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "zork1-r88-s840726_dictionary.txt"
 
 ACTIONS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "actions.txt"
 NOT_ACTIONS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "not-actions.txt"
@@ -60,7 +61,10 @@ def classify_words(words: list[str], game_file: Path) -> tuple[dict[str, str], l
             timeout=30,
         )
 
-        output = proc.stdout.lower()
+        raw = (proc.stdout + "\n" + proc.stderr).lower()
+        output = re.sub(r"[^a-z0-9\s']", " ", raw)
+        output = " ".join(output.split())
+
         is_unknown = any(marker in output for marker in UNKNOWN_MARKERS)
         results[word] = "unknown" if is_unknown else "recognized"
 

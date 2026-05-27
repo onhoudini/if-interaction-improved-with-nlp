@@ -12,8 +12,8 @@ from nltk.corpus import wordnet as wn
 class WordNetVerbSimilarityStrategy:
     def __init__(
         self,
-        semantic_weight: float = 0.9,
-        string_weight: float = 0.1,
+        semantic_weight: float = 0.6,
+        string_weight: float = 0.4,
         use_morphy: bool = True,
     ) -> None:
         self.semantic_weight = semantic_weight

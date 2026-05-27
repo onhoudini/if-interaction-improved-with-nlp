@@ -1,0 +1,78 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260527_152121
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] punch
+[SERVER] [SUGESTAO] 'punch' 'punch' -> 'plug' score=0.78
+[GAME] Perhaps, do you mean 'plug'?
+[GAME] >I don't know the word "punch".
+[GAME] 
+[INPUT] garlic
+[SERVER] [OK] 'garlic' verbo='' score=0.00
+[GAME] >There was no verb in that sentence!
+[GAME] 
+[INPUT] finding
+[SERVER] [SUGESTAO] 'finding' 'finding' -> 'find' score=0.89
+[GAME] >I don't know the word "finding".
+[GAME] Perhaps, do you mean 'find'?
+[GAME] 
+[INPUT] handle ground
+[SERVER] [OK] 'handle ground' verbo='ground' score=1.00
+[GAME] >I don't know the word "handle".
+[GAME] 
+[INPUT] handle
+[SERVER] [SUGESTAO] 'handle' 'handle' -> 'cover' score=0.67
+[GAME] Perhaps, do you mean 'cover'?
+[GAME] >I don't know the word "handle".
+[GAME] 
+[INPUT] find
+[SERVER] [OK] 'find' verbo='find' score=1.00
+[GAME] >That question can't be answered.
+[GAME] 
+[INPUT] finding
+[SERVER] [SUGESTAO] 'finding' 'finding' -> 'find' score=0.89
+[GAME] Perhaps, do you mean 'find'?
+[GAME] >I don't know the word "finding".
+[GAME] 
+[INPUT] roll
+[SERVER] [OK] 'roll' verbo='roll' score=1.00
+[GAME] >What do you want to roll up?
+[GAME] 
+[INPUT] nothing
+[SERVER] [OK] 'nothing' verbo='' score=0.00
+[GAME] >I don't know the word "nothing".
+[GAME] 
+[INPUT] rolling
+[SERVER] [SUGESTAO] 'rolling' 'rolling' -> 'roll' score=0.89
+[GAME] >I don't know the word "rolling".
+[GAME] Perhaps, do you mean 'roll'?
+[GAME] 
+[INPUT] rotate
+[SERVER] [SUGESTAO] 'rotate' 'rotate' -> 'screw' score=0.66
+[GAME] >I don't know the word "rotate".
+[GAME] Perhaps, do you mean 'screw'?
+[GAME] 
+[INPUT] spin
+[SERVER] [OK] 'spin' verbo='spin' score=1.00
+[GAME] >What do you want to spin?
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] You can't spin that!
+[GAME] 
+[GAME] >

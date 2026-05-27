@@ -1,0 +1,717 @@
+houdini@DESKTOP-ABS0G85:/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master$ ./dfrotz zork1-r88-s840726.z3 
+Using normal formatting.
+Loading zork1-r88-s840726.z3.
+ West of House                                    Score: 0        Moves: 0
+
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>open mailbox
+ West of House                                    Score: 0        Moves: 1
+
+Opening the small mailbox reveals a leaflet.
+
+>read leaflet
+ West of House                                    Score: 0        Moves: 2
+
+(Taken)
+"WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!"
+
+>drop leaflet
+ West of House                                    Score: 0        Moves: 3
+
+Dropped.
+
+>go south
+ South of House                                   Score: 0        Moves: 4
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+>go east
+ Behind House                                     Score: 0        Moves: 5
+
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+>open window 
+ Behind House                                     Score: 0        Moves: 6
+
+With great effort, you open the window far enough to allow entry.
+
+>enter house
+ Kitchen                                          Score: 10       Moves: 7
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+>go west
+ Living Room                                      Score: 10       Moves: 8
+
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+>grab lamp
+ Living Room                                      Score: 10       Moves: 9
+
+Taken.
+
+>shift rug
+I don't know the word "shift".
+
+>take rug
+ Living Room                                      Score: 10       Moves: 10
+
+The rug is extremely heavy and cannot be carried.
+
+>move rug
+ Living Room                                      Score: 10       Moves: 11
+
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+>unlock trap door
+What do you want to unlock the trap door with?
+
+>hands
+ Living Room                                      Score: 10       Moves: 12
+
+It doesn't seem to work.
+
+>open trap door
+ Living Room                                      Score: 10       Moves: 13
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+>light on lamp
+That sentence isn't one I recognize.
+
+>light lamp
+ Living Room                                      Score: 10       Moves: 14
+
+The brass lantern is now on.
+
+>go down
+ Cellar                                           Score: 35       Moves: 15
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+>grab painting
+ Cellar                                           Score: 35       Moves: 16
+
+You can't see any painting here!
+
+>look
+ Cellar                                           Score: 35       Moves: 17
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+
+>go south
+ East of Chasm                                    Score: 35       Moves: 18
+
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A
+narrow passage goes north, and the path you are on continues to the east.
+
+>go east
+ Gallery                                          Score: 35       Moves: 19
+
+Gallery
+This is an art gallery. Most of the paintings have been stolen by vandals with
+exceptional taste. The vandals left through either the north or west exits.
+Fortunately, there is still one chance for you to be a vandal, for on the far
+wall is a painting of unparalleled beauty.
+
+>grab painting
+ Gallery                                          Score: 39       Moves: 20
+
+Taken.
+
+>go north
+ Studio                                           Score: 39       Moves: 21
+
+Studio
+This appears to have been an artist's studio. The walls and floors are
+splattered with paints of 69 different colors. Strangely enough, nothing of
+value is hanging here. At the south end of the room is an open door (also
+covered with paint). A dark and narrow chimney leads up from a fireplace;
+although you might be able to get up it, it seems unlikely you could get back
+down.
+Loosely attached to a wall is a small piece of paper.
+
+>go up
+ Kitchen                                          Score: 39       Moves: 22
+
+Kitchen
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+>go up
+ Attic                                            Score: 39       Moves: 23
+
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+
+>get knife
+ Attic                                            Score: 39       Moves: 24
+
+Taken.
+
+>pick rope  
+ Attic                                            Score: 39       Moves: 25
+
+You can't pick that.
+
+>collect rope
+I don't know the word "collect".
+
+>carry painting
+ Attic                                            Score: 39       Moves: 26
+
+You already have that!
+
+>carry rope
+ Attic                                            Score: 39       Moves: 27
+
+Taken.
+
+>go down
+ Kitchen                                          Score: 39       Moves: 28
+
+Kitchen
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+>go west
+ Living Room                                      Score: 39       Moves: 29
+
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+>unseal case
+I don't know the word "unseal".
+
+>unlock case
+What do you want to unlock the case with?
+
+>hands
+ Living Room                                      Score: 39       Moves: 30
+
+It doesn't seem to work.
+
+>access case
+I don't know the word "access".
+
+>check case
+I don't know the word "check".
+
+>open case
+ Living Room                                      Score: 39       Moves: 31
+
+Opened.
+
+>place painting inside
+That sentence isn't one I recognize.
+
+>place painting inside case
+ Living Room                                      Score: 45       Moves: 32
+
+Done.
+
+>discard knife
+I don't know the word "discard".
+
+>toss knife
+What do you want to toss the knife at?
+
+>hands
+ Living Room                                      Score: 45       Moves: 33
+
+Thrown.
+
+>carry sword
+ Living Room                                      Score: 45       Moves: 34
+
+Taken.
+
+>open trap door
+ Living Room                                      Score: 45       Moves: 35
+
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+>go down
+ Cellar                                           Score: 45       Moves: 36
+
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+Your sword is glowing with a faint blue glow.
+
+>go north
+ The Troll Room                                   Score: 45       Moves: 37
+
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+The troll swings his axe, but it misses.
+
+>slay troll with sword
+ The Troll Room                                   Score: 45       Moves: 38
+
+You charge, but the troll jumps nimbly aside.
+The axe crashes against the rock, throwing sparks!
+
+>strike troll with sword
+ The Troll Room                                   Score: 45       Moves: 39
+
+It's curtains for the troll as your sword removes his head.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+>defeat troll with sword
+I don't know the word "defeat".
+
+>attack troll with sword
+ The Troll Room                                   Score: 45       Moves: 40
+
+You can't see any troll here!
+Someone carrying a large bag is casually leaning against one of the walls here.
+He does not speak, but it is clear from his aspect that the bag will be taken
+only over his dead body.
+Your sword has begun to glow very brightly.
+
+>abandon sword
+I don't know the word "abandon".
+
+>leave sword
+ The Troll Room                                   Score: 45       Moves: 41
+
+Dropped.
+The robber, rummaging through his bag, dropped a few items he found valueless.
+
+>go east
+ East-West Passage                                Score: 50       Moves: 42
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+>go east
+ Round Room                                       Score: 50       Moves: 43
+
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+>travel southeast
+You used the word "southeast" in a way that I don't understand.
+
+>go southeast
+ Engravings Cave                                  Score: 50       Moves: 44
+
+Engravings Cave
+You have entered a low cave with passages leading northwest and east.
+There are old engravings on the walls here.
+
+>go east
+ Dome Room                                        Score: 50       Moves: 45
+
+Dome Room
+You are at the periphery of a large dome, which forms the ceiling of another
+room below. Protecting you from a precipitous drop is a wooden railing which
+circles the dome.
+
+>attach rope to railing
+ Dome Room                                        Score: 50       Moves: 46
+
+The rope drops over the side and comes within ten feet of the floor.
+
+>fasten ropen to railing
+I don't know the word "ropen".
+
+>fasten rope to railing
+ Dome Room                                        Score: 50       Moves: 47
+
+The rope is already tied to it.
+
+>go down
+ Torch Room                                       Score: 50       Moves: 48
+
+Torch Room
+This is a large room with a prominent doorway leading to a down staircase. Above
+you is a large dome. Up around the edge of the dome (20 feet up) is a wooden
+railing. In the center of the room sits a white marble pedestal.
+A piece of rope descends from the railing above, ending some five feet above
+your head.
+Sitting on the pedestal is a flaming torch, made of ivory.
+
+>go south
+ Temple                                           Score: 50       Moves: 49
+
+Temple
+This is the north end of a large temple. On the east wall is an ancient
+inscription, probably a prayer in a long-forgotten language. Below the prayer is
+a staircase leading down. The west wall is solid granite. The exit to the north
+end of the room is through huge marble pillars.
+There is a brass bell here.
+
+>go east
+ Egyptian Room                                    Score: 50       Moves: 50
+
+Egyptian Room
+This is a room which looks like an Egyptian tomb. There is an ascending
+staircase to the west.
+The solid-gold coffin used for the burial of Ramses II is here.
+
+>pick coffin 
+ Egyptian Room                                    Score: 50       Moves: 51
+
+You can't pick that.
+
+>collect coffin
+I don't know the word "collect".
+
+>carry coffin
+ Egyptian Room                                    Score: 60       Moves: 52
+
+Taken.
+
+>chant
+ Egyptian Room                                    Score: 60       Moves: 53
+
+The incantation echoes back faintly, but nothing else happens.
+
+>worship
+What do you want to offer?
+
+>god
+I don't know the word "god".
+
+>reverence
+That question can't be answered.
+
+>plead
+ Egyptian Room                                    Score: 60       Moves: 54
+
+If you pray enough, your prayers may be answered.
+
+>pray
+ Egyptian Room                                    Score: 60       Moves: 55
+
+If you pray enough, your prayers may be answered.
+
+>go west
+ Temple                                           Score: 60       Moves: 56
+
+Temple
+There is a brass bell here.
+
+>go south
+ Altar                                            Score: 60       Moves: 57
+
+Altar
+This is the south end of a large temple. In front of you is what appears to be
+an altar. In one corner is a small hole in the floor which leads into darkness.
+You probably could not get back up it.
+On the two ends of the altar are burning candles.
+On the altar is a large black book, open to page 569.
+
+>plead
+ Forest                                           Score: 60       Moves: 58
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+
+>turn off lamp
+ Forest                                           Score: 60       Moves: 59
+
+The brass lantern is now off.
+
+>turn on lamp
+ Forest                                           Score: 60       Moves: 60
+
+The brass lantern is now on.
+You hear in the distance the chirping of a song bird.
+
+>extinguish lamp
+ Forest                                           Score: 60       Moves: 61
+
+The brass lantern is now off.
+You hear in the distance the chirping of a song bird.
+
+>go south
+ Forest                                           Score: 60       Moves: 62
+
+Forest
+This is a dimly lit forest, with large trees all around.
+
+>go north
+ Clearing                                         Score: 60       Moves: 63
+
+Clearing
+You are in a small clearing in a well marked forest path that extends to the
+east and west.
+
+>go east
+ Canyon View                                      Score: 60       Moves: 64
+
+Canyon View
+You are at the top of the Great Canyon on its west wall. From here there is a
+marvelous view of the canyon and parts of the Frigid River upstream. Across the
+canyon, the walls of the White Cliffs join the mighty ramparts of the Flathead
+Mountains to the east. Following the Canyon upstream to the north, Aragain Falls
+may be seen, complete with rainbow. The mighty Frigid River flows out from a
+great dark cavern. To the west and south can be seen an immense forest,
+stretching for miles around. A path leads northwest. It is possible to climb
+down into the canyon from here.
+
+>go down
+ Rocky Ledge                                      Score: 60       Moves: 65
+
+Rocky Ledge
+You are on a ledge about halfway up the wall of the river canyon. You can see
+from here that the main flow from Aragain Falls twists along a passage which it
+is impossible for you to enter. Below you is the canyon bottom. Above you is
+more cliff, which appears climbable.
+
+>go down
+ Canyon Bottom                                    Score: 60       Moves: 66
+
+Canyon Bottom
+You are beneath the walls of the river canyon which may be climbable here. The
+lesser part of the runoff of Aragain Falls flows by below. To the north is a
+narrow path.
+
+>go north
+ End of Rainbow                                   Score: 60       Moves: 67
+
+End of Rainbow
+You are on a small, rocky beach on the continuation of the Frigid River past the
+Falls. The beach is narrow due to the presence of the White Cliffs. The river
+canyon opens here and sunlight shines in from above. A rainbow crosses over the
+falls to the east and a narrow path continues to the southwest.
+
+>release coffin
+ End of Rainbow                                   Score: 60       Moves: 68
+
+Dropped.
+
+>open coffin
+ End of Rainbow                                   Score: 60       Moves: 69
+
+The gold coffin opens.
+A sceptre, possibly that of ancient Egypt itself, is in the coffin. The sceptre
+is ornamented with colored enamel, and tapers to a sharp point.
+
+>pick sceptre
+ End of Rainbow                                   Score: 60       Moves: 70
+
+You can't pick that.
+
+>get spectre
+I don't know the word "spectre".
+
+>get sceptre
+ End of Rainbow                                   Score: 64       Moves: 71
+
+Taken.
+
+>swing sceptre
+ End of Rainbow                                   Score: 64       Moves: 72
+
+Whoosh!
+
+>wave sceptre
+ End of Rainbow                                   Score: 64       Moves: 73
+
+Suddenly, the rainbow appears to become solid and, I venture, walkable (I think
+the giveaway was the stairs and bannister).
+A shimmering pot of gold appears at the end of the rainbow.
+
+>grab gold
+ End of Rainbow                                   Score: 74       Moves: 74
+
+Taken.
+
+>raise scepter
+ End of Rainbow                                   Score: 74       Moves: 75
+
+The rainbow seems to have become somewhat run-of-the-mill.
+Playing in this way with the sceptre doesn't seem to work.
+
+>get coffing
+ End of Rainbow                                   Score: 74       Moves: 76
+
+Taken.
+
+>go southwest
+ Canyon Bottom                                    Score: 74       Moves: 77
+
+Canyon Bottom
+
+>go up
+ Rocky Ledge                                      Score: 74       Moves: 78
+
+Rocky Ledge
+
+>go up
+ Canyon View                                      Score: 74       Moves: 79
+
+Canyon View
+
+>go northwest
+ Clearing                                         Score: 74       Moves: 80
+
+Clearing
+
+>go west
+ Behind House                                     Score: 74       Moves: 81
+
+Behind House
+
+>step into house
+ Kitchen                                          Score: 74       Moves: 82
+
+Kitchen
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+>go out
+ Behind House                                     Score: 74       Moves: 83
+
+Behind House
+
+>go inside house
+ Kitchen                                          Score: 74       Moves: 84
+
+Kitchen
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+
+>open bag
+ Kitchen                                          Score: 74       Moves: 85
+
+Opening the brown sack reveals a lunch, and a clove of garlic.
+
+>get garlic
+ Kitchen                                          Score: 74       Moves: 86
+
+Taken.
+
+>go west
+ Living Room                                      Score: 74       Moves: 87
+
+Living Room
+There is a nasty knife here.
+Your collection of treasures consists of:
+    A painting
+
+>place coffin in display
+I don't know the word "display".
+
+>go west
+ Living Room                                      Score: 74       Moves: 88
+
+The door is nailed shut.
+
+>put coffin in display
+I don't know the word "display".
+
+>place coffin in case
+ Living Room                                      Score: 89       Moves: 89
+
+Done.
+
+>get case
+ Living Room                                      Score: 89       Moves: 90
+
+The trophy case is securely fastened to the wall.
+
+>put coffin in case
+You don't have the gold coffin.
+
+>store staff 
+I don't know the word "staff".
+
+>store sceptre
+There was no verb in that sentence!
+
+>set sceptre
+What do you want to set the sceptre with?
+
+>case
+You don't have the trophy case.
+
+>sceptre sceptre in case
+There were too many nouns in that sentence.
+
+>lay sceptre
+What do you want to place the sceptre in?
+
+>case 
+ Living Room                                      Score: 95       Moves: 91
+
+Done.
+
+>lay gold
+I don't know the word "lay".
+
+>lay gold in case
+I don't know the word "lay".
+
+>put gold in case
+ Living Room                                      Score: 105      Moves: 92
+
+Done.
+
+>

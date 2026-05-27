@@ -72,12 +72,9 @@ class VerbMatcher:
 
         best_verb, score = self._strategy.find_best(verb_candidate, self.game_words)
 
-        corrected_tokens = list(tokens)
-        corrected_tokens[verb_index] = best_verb
-
         return MatchResult(
             original_input=user_input,
-            matched_tokens=corrected_tokens,
+            matched_tokens=tokens,
             score=score,
             verb_found=verb_candidate,
             verb_matched=best_verb,
