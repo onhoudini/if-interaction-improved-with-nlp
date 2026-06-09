@@ -8,9 +8,15 @@ Saidas:
 
 import subprocess
 import re
+import sys
+import time
+import threading
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(PROJECT_ROOT))
+
+from src.server.frotz_server import run_server
 DFROTZ = PROJECT_ROOT / "frotz-master" / "dfrotz"
 GAME_FILE = PROJECT_ROOT / "frotz-master" / "games" / "zork1-r88-s840726.z3"
 VERBS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "zork1-r88-s840726_dictionary.txt"
@@ -18,6 +24,11 @@ VERBS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "zork1-r88-s840726_diction
 ACTIONS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "actions.txt"
 NOT_ACTIONS_FILE = PROJECT_ROOT / "data" / "dictionaries" / "not-actions.txt"
 LOG_FILE = Path(__file__).resolve().parent / "logs.txt"
+
+def normalize(text: str) -> str:
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9\s']", " ", text)
+    return " ".join(text.split())
 
 UNKNOWN_MARKERS = [
     "i don't know the word", # retira palavras falsas/lixo do dicionário do jogo
@@ -54,7 +65,7 @@ def classify_words(words: list[str], game_file: Path) -> tuple[dict[str, str], l
         print(f"[{i}/{len(words)}] Testando: {word}")
 
         proc = subprocess.run(
-            [str(DFROTZ), "-m", str(game_file)],
+            [str(DFROTZ), str(game_file)],
             input=f"{word}\n",
             capture_output=True,
             text=True,
@@ -65,7 +76,7 @@ def classify_words(words: list[str], game_file: Path) -> tuple[dict[str, str], l
         output = re.sub(r"[^a-z0-9\s']", " ", raw)
         output = " ".join(output.split())
 
-        is_unknown = any(marker in output for marker in UNKNOWN_MARKERS)
+        is_unknown = any(normalize(marker) in output for marker in UNKNOWN_MARKERS)
         results[word] = "unknown" if is_unknown else "recognized"
 
         raw_lines.append(f"=== {word} ===")
@@ -73,6 +84,17 @@ def classify_words(words: list[str], game_file: Path) -> tuple[dict[str, str], l
         raw_lines.append("")
 
     return results, raw_lines
+
+
+def _start_server_thread() -> threading.Thread:
+    t = threading.Thread(
+        target=run_server,
+        args=(set(), None),
+        kwargs={"disable_algorithm": True},
+        daemon=True,
+    )
+    t.start()
+    return t
 
 
 def main() -> None:
@@ -90,6 +112,10 @@ def main() -> None:
 
     verbs = load_verbs(VERBS_FILE)
     print(f"Total de verbos para testar: {len(verbs)}\n")
+
+    print("Iniciando servidor TCP...")
+    _start_server_thread()
+    time.sleep(0.5)  # aguarda o servidor subir
 
     print("Executando dfrotz... (pode demorar)")
     results, raw_lines = classify_words(verbs, GAME_FILE)

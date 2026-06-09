@@ -1,0 +1,33 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260608_204920
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] opening door
+[SERVER] [SUGESTAO] 'opening door' 'opening' -> 'open' score=0.89
+[GAME] < Perhaps, do you mean 'open'?
+[GAME] >I don't know the word "opening".
+[GAME] 
+[INPUT] explode door
+[SERVER] [SUGESTAO] 'explode door' 'explode' -> 'temple' score=0.62
+[GAME] < Perhaps, do you mean 'temple'?
+[GAME] >I don't know the word "explode".
+[GAME] 
+[INPUT] bomb door
+[SERVER] [SUGESTAO] 'bomb door' 'bomb' -> 'blast' score=0.60
+[GAME] >I don't know the word "bomb".
+[GAME] < Perhaps, do you mean 'blast'?
+[GAME] 
+[GAME] >

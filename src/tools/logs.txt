@@ -1,144 +1,66 @@
 === RECONHECIDAS PELO JOGO ===
-a
-across
 activa
-advent
-advert
 again
-air
-air-p
-all
-altar
-an
 ancien
-and
 answer
 antiqu
 apply
-around
-art
 ask
-at
 attach
 attack
-aviato
 awake
-away
-ax
-axe
 back
-bag
 banish
-bar
 bare
 barf
-barrow
-basket
-bat
 bathe
-bauble
 beauti
-beetle
 begone
-behind
-bell
-below
-beneat
-bird
 birds
 bite
 black
-blade
 blast
-blessi
 block
 bloody
 blow
 blue
 board
 boarde
-boards
-boat
-bodies
-body
-bolt
-bones
-book
-bookle
-books
-bottle
-box
-bracel
-branch
 brandi
 brass
 break
-breath
 brief
 broken
 brown
 brush
-bubble
 bug
-buoy
 burn
 burned
 burnin
-but
-button
-cage
-canary
-candle
-canvas
-carpet
 carry
 carved
-case
-casket
 cast
 catch
-chain
-chalic
 chant
 chase
-chasm
-chest
-chests
-chimne
 chomp
 chuck
-chute
 clean
 clear
-cliff
-cliffs
 climb
 clockw
 close
-clove
-coal
-coffin
-coil
-coins
 coloni
 come
 comman
 consum
-contai
 contro
 count
-cover
-crack
-crawlw
-cretin
 cross
 crysta
-cup
 curse
 cut
-cyclop
 d
-dam
 damage
 damn
 dark
@@ -148,145 +70,77 @@ derang
 descri
 destro
 diagno
-diamon
 dig
-dinner
-dirt
 disemb
 disenc
 dispat
 dive
-dome
 donate
-door
 douse
 down
 drink
-drip
 drive
-driver
 drop
-dryer
-dumbwa
 dusty
 e
 east
 eat
 echo
-egg
 egypti
 elonga
 elvish
-emeral
 enamel
 enchan
 encrus
-engrav
-enormo
 enter
 evil
 examin
-except
 exit
 exorci
 exquis
 exting
-eye
-fall
-fantas
 fasten
-fear
-feeble
 feed
 feel
-fence
-fermen
-fiends
-fierce
 fight
-figuri
-filch
 fill
 find
 fine
-finepr
-firepr
 fix
 flamin
 flathe
 flip
-float
-floor
-fluore
 follow
-foobar
-food
-footpa
-for
 forbid
-force
 ford
-forest
-fork
 free
-freeze
 frigid
 froboz
-from
 front
-frotz
-fry
 fuck
-fudge
-fumble
 g
-garlic
-gas
-gate
-gates
 gaze
 get
-ghosts
 giant
 give
-glamdr
 glass
 glue
 go
-gold
 golden
 gothic
 grab
-graces
 granit
-grate
-gratin
 grease
 green
-ground
-group
-grue
-guide
-guideb
-gunk
 hand
-hands
 hatch
-head
-heap
 hello
-hemloc
-hemp
-her
-here
 hi
 hide
-him
 hit
 hold
 hop
 hot
-house
 huge
 hungry
 hurl
@@ -300,52 +154,30 @@ incant
 incine
 inflat
 injure
-inscri
 insert
 inside
-intnum
 into
 invent
 invisi
 is
-it
-ivory
 jade
-jewel
 jewele
-jewels
 jump
-key
 kick
 kill
 kiss
 kitche
-knife
-knives
 knock
 l
-label
-ladder
-lake
-lamp
 land
-lanter
 large
 launch
-leaf
-leafle
-leak
 lean
 leap
 leathe
 leave
-leaves
-ledge
-letter
-lid
 lift
 light
-liquid
 liquif
 listen
 lock
@@ -355,105 +187,51 @@ lose
 lower
 lowere
 lubric
-lunch
-lungs
 lurkin
-machin
 magic
-mail
-mailbo
 make
-man
 mangle
-manual
-map
 marble
 massiv
-match
-matchb
-matche
-materi
-me
 melt
 metal
-mirror
 molest
-monste
-mounta
-mouth
 move
 mumble
 murder
-myself
 n
-nail
-nails
 narrow
 nasty
 ne
-nest
-no
 north
 northe
 northw
-nut
 nw
-odor
 odysse
-of
-off
 offer
 oil
 old
-on
-one
-onto
 open
-orcris
 orient
 out
-over
-overbo
 own
 owners
-ozmoo
-page
-paint
-painti
-pair
-panel
-paper
-parchm
-passag
-paste
 pat
 patch
-path
 peal
-pedest
 pepper
-person
 pet
 pick
-piece
 pierce
-pile
-pines
-pipe
 place
-plasti
-platin
 play
 plug
 plugh
 poke
 poseid
-pot
 pour
 pray
-prayer
 press
-print
 procee
 pull
 pump
@@ -462,22 +240,13 @@ pursue
 push
 put
 q
-quanti
 quit
-raft
-rail
-railin
-rainbo
 raise
-ramp
-range
 rap
 rape
 read
 red
-reflec
 releas
-remain
 remove
 repair
 repent
@@ -486,30 +255,17 @@ restar
 restor
 ricket
 ring
-river
-robber
 rocky
 roll
-rope
 rub
-rug
 run
 rusty
 s
-sack
-sailor
-sand
-sandwi
-sapphi
 save
 say
-scarab
-scepte
-sceptr
 score
 scream
 screw
-screwd
 script
 se
 search
@@ -518,7 +274,6 @@ secure
 see
 seedy
 seek
-self
 send
 set
 shady
@@ -527,18 +282,13 @@ sharp
 sheer
 shit
 shout
-shovel
 shut
 sigh
 silent
-silver
 sinist
 sit
-skelet
 skim
 skip
-skull
-slag
 slay
 slice
 slide
@@ -549,31 +299,23 @@ smelly
 sniff
 solid
 song
-songbi
 south
 southe
 southw
 spill
 spin
-spirit
 spray
 squeez
 stab
-stairc
-stairs
-stairw
 stand
 stare
 startl
 stay
 steep
 step
-steps
-stilet
 stone
 storm
 strang
-stream
 strike
 stuff
 super
@@ -585,57 +327,30 @@ sw
 swallo
 swim
 swing
-switch
-sword
-table
 take
 talk
 tan
 taste
 taunt
-teeth
 tell
 temple
-the
-them
 then
-thief
 thiefs
-throug
 throw
-thru
 thrust
 tie
-timber
-to
-tomb
-tool
-toolch
-tools
-tooth
-torch
 toss
 touch
 tour
-trail
 trap
-trapdo
 treasu
-tree
-trees
-triden
-troll
 trophy
-trunk
-tube
 tug
 turn
 twisti
 u
 ulysse
 unatta
-under
-undern
 unfast
 unhook
 unlock
@@ -644,9 +359,6 @@ unscri
 untie
 up
 useles
-using
-valve
-vampir
 verbos
 versio
 viciou
@@ -657,9 +369,6 @@ wade
 wait
 wake
 walk
-wall
-walls
-water
 wave
 wear
 west
@@ -670,25 +379,316 @@ white
 win
 wind
 windin
-window
 winnag
 wish
-with
 wooden
-wrench
-writin
 xyzzy
-y
 yank
 yell
 yellow
-yes
 z
 zork
-zorkmi
-zzmgck
 
 === NAO RECONHECIDAS ===
+a
+across
+advent
+advert
+air
+air-p
+all
+altar
+an
+and
+around
+art
+at
+aviato
+away
+ax
+axe
+bag
+bar
+barrow
+basket
+bat
+bauble
+beetle
+behind
+bell
+below
+beneat
+bird
+blade
+blessi
+boards
+boat
+bodies
+body
+bolt
+bones
+book
+bookle
+books
+bottle
+box
+bracel
+branch
+breath
+bubble
+buoy
+but
+button
+cage
+canary
+candle
+canvas
+carpet
+case
+casket
+chain
+chalic
+chasm
+chest
+chests
+chimne
+chute
+cliff
+cliffs
+clove
+coal
+coffin
+coil
+coins
+contai
+cover
+crack
+crawlw
+cretin
+cup
+cyclop
+dam
+diamon
+dinner
+dirt
+dome
+door
+drip
+driver
+dryer
+dumbwa
+egg
+emeral
+engrav
+enormo
+except
+eye
+fall
+fantas
+fear
+feeble
+fence
+fermen
+fiends
+fierce
+figuri
+filch
+finepr
+firepr
+float
+floor
+fluore
+foobar
+food
+footpa
+for
+force
+forest
+fork
+freeze
+from
+frotz
+fry
+fudge
+fumble
+garlic
+gas
+gate
+gates
+ghosts
+glamdr
+gold
+graces
+grate
+gratin
+ground
+group
+grue
+guide
+guideb
+gunk
+hands
+head
+heap
+hemloc
+hemp
+her
+here
+him
+house
+inscri
+intnum
+it
+ivory
+jewel
+jewels
+key
+knife
+knives
+label
+ladder
+lake
+lamp
+lanter
+leaf
+leafle
+leak
+leaves
+ledge
+letter
+lid
+liquid
+lunch
+lungs
+machin
+mail
+mailbo
+man
+manual
+map
+match
+matchb
+matche
+materi
+me
+mirror
+monste
+mounta
+mouth
+myself
+nail
+nails
+nest
+no
+nut
+odor
+of
+off
+on
+one
+onto
+orcris
+over
+overbo
+ozmoo
+page
+paint
+painti
+pair
+panel
+paper
+parchm
+passag
+paste
+path
+pedest
+person
+piece
+pile
+pines
+pipe
+plasti
+platin
+pot
+prayer
+print
+quanti
+raft
+rail
+railin
+rainbo
+ramp
+range
+reflec
+remain
+river
+robber
+rope
+rug
+sack
+sailor
+sand
+sandwi
+sapphi
+scarab
+scepte
+sceptr
+screwd
+self
+shovel
+silver
+skelet
+skull
+slag
+songbi
+spirit
+stairc
+stairs
+stairw
+steps
+stilet
+stream
+switch
+sword
+table
+teeth
+the
+them
+thief
+throug
+thru
+timber
+to
+tomb
+tool
+toolch
+tools
+tooth
+torch
+trail
+trapdo
+tree
+trees
+triden
+troll
+trunk
+tube
+under
+undern
+using
+valve
+vampir
+wall
+walls
+water
+window
+with
+wrench
+writin
+y
+yes
+zorkmi
+zzmgck
 
 === LOG COMPLETO ===
 === a ===
@@ -706,7 +706,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === across ===
 Using normal formatting.
@@ -723,7 +725,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === activa ===
 Using normal formatting.
@@ -740,7 +744,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to activa?
+
+>
 
 === advent ===
 Using normal formatting.
@@ -757,7 +763,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === advert ===
 Using normal formatting.
@@ -774,7 +782,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === again ===
 Using normal formatting.
@@ -791,7 +801,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Maximum verbosity.
+
+>
 
 === air ===
 Using normal formatting.
@@ -808,7 +822,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === air-p ===
 Using normal formatting.
@@ -825,7 +841,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === all ===
 Using normal formatting.
@@ -842,7 +860,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === altar ===
 Using normal formatting.
@@ -859,7 +879,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === an ===
 Using normal formatting.
@@ -876,7 +898,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === ancien ===
 Using normal formatting.
@@ -893,7 +917,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "ancien" in a way that I don't understand.
+
+>
 
 === and ===
 Using normal formatting.
@@ -910,7 +936,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === answer ===
 Using normal formatting.
@@ -927,7 +955,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Nobody seems to be awaiting your answer.
+
+>
 
 === antiqu ===
 Using normal formatting.
@@ -944,7 +976,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "antiqu" in a way that I don't understand.
+
+>
 
 === apply ===
 Using normal formatting.
@@ -961,7 +995,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to apply?
+
+>
 
 === around ===
 Using normal formatting.
@@ -978,7 +1014,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === art ===
 Using normal formatting.
@@ -995,7 +1033,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === ask ===
 Using normal formatting.
@@ -1012,7 +1052,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to ask?
+
+>
 
 === at ===
 Using normal formatting.
@@ -1029,7 +1071,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === attach ===
 Using normal formatting.
@@ -1046,7 +1090,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to attach?
+
+>
 
 === attack ===
 Using normal formatting.
@@ -1063,7 +1109,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to attack?
+
+>
 
 === aviato ===
 Using normal formatting.
@@ -1080,7 +1128,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === awake ===
 Using normal formatting.
@@ -1097,7 +1147,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to awake?
+
+>
 
 === away ===
 Using normal formatting.
@@ -1114,7 +1166,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === ax ===
 Using normal formatting.
@@ -1131,7 +1185,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === axe ===
 Using normal formatting.
@@ -1148,7 +1204,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === back ===
 Using normal formatting.
@@ -1165,7 +1223,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Sorry, my memory is poor. Please give a direction.
+
+>
 
 === bag ===
 Using normal formatting.
@@ -1182,7 +1244,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === banish ===
 Using normal formatting.
@@ -1199,7 +1263,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to banish?
+
+>
 
 === bar ===
 Using normal formatting.
@@ -1216,7 +1282,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bare ===
 Using normal formatting.
@@ -1233,7 +1301,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "bare" in a way that I don't understand.
+
+>
 
 === barf ===
 Using normal formatting.
@@ -1250,7 +1320,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Preposterous!
+
+>
 
 === barrow ===
 Using normal formatting.
@@ -1267,7 +1341,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === basket ===
 Using normal formatting.
@@ -1284,7 +1360,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bat ===
 Using normal formatting.
@@ -1301,7 +1379,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bathe ===
 Using normal formatting.
@@ -1318,7 +1398,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Go jump in a lake!
+
+>
 
 === bauble ===
 Using normal formatting.
@@ -1335,7 +1419,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === beauti ===
 Using normal formatting.
@@ -1352,7 +1438,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "beauti" in a way that I don't understand.
+
+>
 
 === beetle ===
 Using normal formatting.
@@ -1369,7 +1457,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === begone ===
 Using normal formatting.
@@ -1386,7 +1476,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to begone?
+
+>
 
 === behind ===
 Using normal formatting.
@@ -1403,7 +1495,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bell ===
 Using normal formatting.
@@ -1420,7 +1514,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === below ===
 Using normal formatting.
@@ -1437,7 +1533,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === beneat ===
 Using normal formatting.
@@ -1454,7 +1552,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bird ===
 Using normal formatting.
@@ -1471,7 +1571,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === birds ===
 Using normal formatting.
@@ -1488,7 +1590,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "birds" in a way that I don't understand.
+
+>
 
 === bite ===
 Using normal formatting.
@@ -1505,7 +1609,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to bite?
+
+>
 
 === black ===
 Using normal formatting.
@@ -1522,7 +1628,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "black" in a way that I don't understand.
+
+>
 
 === blade ===
 Using normal formatting.
@@ -1539,7 +1647,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === blast ===
 Using normal formatting.
@@ -1556,7 +1666,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't blast anything by using words.
+
+>
 
 === blessi ===
 Using normal formatting.
@@ -1573,7 +1687,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === block ===
 Using normal formatting.
@@ -1590,7 +1706,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to block?
+
+>
 
 === bloody ===
 Using normal formatting.
@@ -1607,7 +1725,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "bloody" in a way that I don't understand.
+
+>
 
 === blow ===
 Using normal formatting.
@@ -1624,7 +1744,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to blow out?
+
+>
 
 === blue ===
 Using normal formatting.
@@ -1641,7 +1763,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "blue" in a way that I don't understand.
+
+>
 
 === board ===
 Using normal formatting.
@@ -1658,7 +1782,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to board?
+
+>
 
 === boarde ===
 Using normal formatting.
@@ -1675,7 +1801,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "boarde" in a way that I don't understand.
+
+>
 
 === boards ===
 Using normal formatting.
@@ -1692,7 +1820,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === boat ===
 Using normal formatting.
@@ -1709,7 +1839,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bodies ===
 Using normal formatting.
@@ -1726,7 +1858,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === body ===
 Using normal formatting.
@@ -1743,7 +1877,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bolt ===
 Using normal formatting.
@@ -1760,7 +1896,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bones ===
 Using normal formatting.
@@ -1777,7 +1915,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === book ===
 Using normal formatting.
@@ -1794,7 +1934,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bookle ===
 Using normal formatting.
@@ -1811,7 +1953,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === books ===
 Using normal formatting.
@@ -1828,7 +1972,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bottle ===
 Using normal formatting.
@@ -1845,7 +1991,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === box ===
 Using normal formatting.
@@ -1862,7 +2010,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bracel ===
 Using normal formatting.
@@ -1879,7 +2029,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === branch ===
 Using normal formatting.
@@ -1896,7 +2048,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === brandi ===
 Using normal formatting.
@@ -1913,7 +2067,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to brandi?
+
+>
 
 === brass ===
 Using normal formatting.
@@ -1930,7 +2086,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "brass" in a way that I don't understand.
+
+>
 
 === break ===
 Using normal formatting.
@@ -1947,7 +2105,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to break?
+
+>
 
 === breath ===
 Using normal formatting.
@@ -1964,7 +2124,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === brief ===
 Using normal formatting.
@@ -1981,7 +2143,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Brief descriptions.
+
+>
 
 === broken ===
 Using normal formatting.
@@ -1998,7 +2162,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "broken" in a way that I don't understand.
+
+>
 
 === brown ===
 Using normal formatting.
@@ -2015,7 +2181,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "brown" in a way that I don't understand.
+
+>
 
 === brush ===
 Using normal formatting.
@@ -2032,7 +2200,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to brush?
+
+>
 
 === bubble ===
 Using normal formatting.
@@ -2049,7 +2219,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === bug ===
 Using normal formatting.
@@ -2066,7 +2238,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Bug? Not in a flawless program like this! (Cough, cough).
+
+>
 
 === buoy ===
 Using normal formatting.
@@ -2083,7 +2259,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === burn ===
 Using normal formatting.
@@ -2100,7 +2278,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to burn?
+
+>
 
 === burned ===
 Using normal formatting.
@@ -2117,7 +2297,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "burned" in a way that I don't understand.
+
+>
 
 === burnin ===
 Using normal formatting.
@@ -2134,7 +2316,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "burnin" in a way that I don't understand.
+
+>
 
 === but ===
 Using normal formatting.
@@ -2151,7 +2335,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === button ===
 Using normal formatting.
@@ -2168,7 +2354,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === cage ===
 Using normal formatting.
@@ -2185,7 +2373,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === canary ===
 Using normal formatting.
@@ -2202,7 +2392,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === candle ===
 Using normal formatting.
@@ -2219,7 +2411,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === canvas ===
 Using normal formatting.
@@ -2236,7 +2430,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === carpet ===
 Using normal formatting.
@@ -2253,7 +2449,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === carry ===
 Using normal formatting.
@@ -2270,7 +2468,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to carry?
+
+>
 
 === carved ===
 Using normal formatting.
@@ -2287,7 +2487,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "carved" in a way that I don't understand.
+
+>
 
 === case ===
 Using normal formatting.
@@ -2304,7 +2506,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === casket ===
 Using normal formatting.
@@ -2321,7 +2525,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === cast ===
 Using normal formatting.
@@ -2338,7 +2544,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to cast?
+
+>
 
 === catch ===
 Using normal formatting.
@@ -2355,7 +2563,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to catch?
+
+>
 
 === chain ===
 Using normal formatting.
@@ -2372,7 +2582,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === chalic ===
 Using normal formatting.
@@ -2389,7 +2601,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === chant ===
 Using normal formatting.
@@ -2406,7 +2620,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+The incantation echoes back faintly, but nothing else happens.
+
+>
 
 === chase ===
 Using normal formatting.
@@ -2423,7 +2641,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You're nuts!
+
+>
 
 === chasm ===
 Using normal formatting.
@@ -2440,7 +2662,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === chest ===
 Using normal formatting.
@@ -2457,7 +2681,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === chests ===
 Using normal formatting.
@@ -2474,7 +2700,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === chimne ===
 Using normal formatting.
@@ -2491,7 +2719,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === chomp ===
 Using normal formatting.
@@ -2508,7 +2738,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Preposterous!
+
+>
 
 === chuck ===
 Using normal formatting.
@@ -2525,7 +2759,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to chuck?
+
+>
 
 === chute ===
 Using normal formatting.
@@ -2542,7 +2778,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === clean ===
 Using normal formatting.
@@ -2559,7 +2797,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to clean?
+
+>
 
 === clear ===
 Using normal formatting.
@@ -2576,7 +2816,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "clear" in a way that I don't understand.
+
+>
 
 === cliff ===
 Using normal formatting.
@@ -2593,7 +2835,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === cliffs ===
 Using normal formatting.
@@ -2610,7 +2854,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === climb ===
 Using normal formatting.
@@ -2627,7 +2873,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === clockw ===
 Using normal formatting.
@@ -2644,7 +2894,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "clockw" in a way that I don't understand.
+
+>
 
 === close ===
 Using normal formatting.
@@ -2661,7 +2913,12 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+(door)
+It is already closed.
+
+>
 
 === clove ===
 Using normal formatting.
@@ -2678,7 +2935,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === coal ===
 Using normal formatting.
@@ -2695,7 +2954,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === coffin ===
 Using normal formatting.
@@ -2712,7 +2973,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === coil ===
 Using normal formatting.
@@ -2729,7 +2992,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === coins ===
 Using normal formatting.
@@ -2746,7 +3011,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === coloni ===
 Using normal formatting.
@@ -2763,7 +3030,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "coloni" in a way that I don't understand.
+
+>
 
 === come ===
 Using normal formatting.
@@ -2780,7 +3049,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You're nuts!
+
+>
 
 === comman ===
 Using normal formatting.
@@ -2797,7 +3070,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to comman?
+
+>
 
 === consum ===
 Using normal formatting.
@@ -2814,7 +3089,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to consum?
+
+>
 
 === contai ===
 Using normal formatting.
@@ -2831,7 +3108,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === contro ===
 Using normal formatting.
@@ -2848,7 +3127,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "contro" in a way that I don't understand.
+
+>
 
 === count ===
 Using normal formatting.
@@ -2865,7 +3146,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to count?
+
+>
 
 === cover ===
 Using normal formatting.
@@ -2882,7 +3165,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === crack ===
 Using normal formatting.
@@ -2899,7 +3184,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === crawlw ===
 Using normal formatting.
@@ -2916,7 +3203,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === cretin ===
 Using normal formatting.
@@ -2933,7 +3222,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === cross ===
 Using normal formatting.
@@ -2950,7 +3241,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to cross?
+
+>
 
 === crysta ===
 Using normal formatting.
@@ -2967,7 +3260,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "crysta" in a way that I don't understand.
+
+>
 
 === cup ===
 Using normal formatting.
@@ -2984,7 +3279,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === curse ===
 Using normal formatting.
@@ -3001,7 +3298,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Such language in a high-class establishment like this!
+
+>
 
 === cut ===
 Using normal formatting.
@@ -3018,7 +3319,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to cut?
+
+>
 
 === cyclop ===
 Using normal formatting.
@@ -3035,7 +3338,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === d ===
 Using normal formatting.
@@ -3052,7 +3357,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === dam ===
 Using normal formatting.
@@ -3069,7 +3378,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === damage ===
 Using normal formatting.
@@ -3086,7 +3397,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to damage?
+
+>
 
 === damn ===
 Using normal formatting.
@@ -3103,7 +3416,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Such language in a high-class establishment like this!
+
+>
 
 === dark ===
 Using normal formatting.
@@ -3120,7 +3437,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "dark" in a way that I don't understand.
+
+>
 
 === dead ===
 Using normal formatting.
@@ -3137,7 +3456,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "dead" in a way that I don't understand.
+
+>
 
 === deflat ===
 Using normal formatting.
@@ -3154,7 +3475,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to deflat?
+
+>
 
 === derang ===
 Using normal formatting.
@@ -3171,7 +3494,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "derang" in a way that I don't understand.
+
+>
 
 === descri ===
 Using normal formatting.
@@ -3188,7 +3513,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to descri?
+
+>
 
 === destro ===
 Using normal formatting.
@@ -3205,7 +3532,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to destro?
+
+>
 
 === diagno ===
 Using normal formatting.
@@ -3222,7 +3551,12 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You are in perfect health.
+You can be killed by a serious wound.
+
+>
 
 === diamon ===
 Using normal formatting.
@@ -3239,7 +3573,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === dig ===
 Using normal formatting.
@@ -3256,7 +3592,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to dig in?
+
+>
 
 === dinner ===
 Using normal formatting.
@@ -3273,7 +3611,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === dirt ===
 Using normal formatting.
@@ -3290,7 +3630,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === disemb ===
 Using normal formatting.
@@ -3307,7 +3649,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to disemb?
+
+>
 
 === disenc ===
 Using normal formatting.
@@ -3324,7 +3668,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to disenc?
+
+>
 
 === dispat ===
 Using normal formatting.
@@ -3341,7 +3687,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to dispat?
+
+>
 
 === dive ===
 Using normal formatting.
@@ -3358,7 +3706,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Are you enjoying yourself?
+
+>
 
 === dome ===
 Using normal formatting.
@@ -3375,7 +3727,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === donate ===
 Using normal formatting.
@@ -3392,7 +3746,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to donate?
+
+>
 
 === door ===
 Using normal formatting.
@@ -3409,7 +3765,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === douse ===
 Using normal formatting.
@@ -3426,7 +3784,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to douse?
+
+>
 
 === down ===
 Using normal formatting.
@@ -3443,7 +3803,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === drink ===
 Using normal formatting.
@@ -3460,7 +3824,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to drink?
+
+>
 
 === drip ===
 Using normal formatting.
@@ -3477,7 +3843,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === drive ===
 Using normal formatting.
@@ -3494,7 +3862,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to drive?
+
+>
 
 === driver ===
 Using normal formatting.
@@ -3511,7 +3881,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === drop ===
 Using normal formatting.
@@ -3528,7 +3900,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to drop?
+
+>
 
 === dryer ===
 Using normal formatting.
@@ -3545,7 +3919,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === dumbwa ===
 Using normal formatting.
@@ -3562,7 +3938,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === dusty ===
 Using normal formatting.
@@ -3579,7 +3957,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "dusty" in a way that I don't understand.
+
+>
 
 === e ===
 Using normal formatting.
@@ -3596,7 +3976,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+The door is boarded and you can't remove the boards.
+
+>
 
 === east ===
 Using normal formatting.
@@ -3613,7 +3997,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+The door is boarded and you can't remove the boards.
+
+>
 
 === eat ===
 Using normal formatting.
@@ -3630,7 +4018,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to eat?
+
+>
 
 === echo ===
 Using normal formatting.
@@ -3647,7 +4037,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+echo echo ...
+
+>
 
 === egg ===
 Using normal formatting.
@@ -3664,7 +4058,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === egypti ===
 Using normal formatting.
@@ -3681,7 +4077,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "egypti" in a way that I don't understand.
+
+>
 
 === elonga ===
 Using normal formatting.
@@ -3698,7 +4096,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "elonga" in a way that I don't understand.
+
+>
 
 === elvish ===
 Using normal formatting.
@@ -3715,7 +4115,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "elvish" in a way that I don't understand.
+
+>
 
 === emeral ===
 Using normal formatting.
@@ -3732,7 +4134,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === enamel ===
 Using normal formatting.
@@ -3749,7 +4153,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "enamel" in a way that I don't understand.
+
+>
 
 === enchan ===
 Using normal formatting.
@@ -3766,7 +4172,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to enchan?
+
+>
 
 === encrus ===
 Using normal formatting.
@@ -3783,7 +4191,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "encrus" in a way that I don't understand.
+
+>
 
 === engrav ===
 Using normal formatting.
@@ -3800,7 +4210,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === enormo ===
 Using normal formatting.
@@ -3817,7 +4229,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === enter ===
 Using normal formatting.
@@ -3834,7 +4248,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === evil ===
 Using normal formatting.
@@ -3851,7 +4269,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "evil" in a way that I don't understand.
+
+>
 
 === examin ===
 Using normal formatting.
@@ -3868,7 +4288,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to examin?
+
+>
 
 === except ===
 Using normal formatting.
@@ -3885,7 +4307,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === exit ===
 Using normal formatting.
@@ -3902,7 +4326,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === exorci ===
 Using normal formatting.
@@ -3919,7 +4347,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to exorci?
+
+>
 
 === exquis ===
 Using normal formatting.
@@ -3936,7 +4366,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "exquis" in a way that I don't understand.
+
+>
 
 === exting ===
 Using normal formatting.
@@ -3953,7 +4385,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to exting?
+
+>
 
 === eye ===
 Using normal formatting.
@@ -3970,7 +4404,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fall ===
 Using normal formatting.
@@ -3987,7 +4423,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fantas ===
 Using normal formatting.
@@ -4004,7 +4442,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fasten ===
 Using normal formatting.
@@ -4021,7 +4461,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to fasten?
+
+>
 
 === fear ===
 Using normal formatting.
@@ -4038,7 +4480,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === feeble ===
 Using normal formatting.
@@ -4055,7 +4499,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === feed ===
 Using normal formatting.
@@ -4072,7 +4518,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to feed?
+
+>
 
 === feel ===
 Using normal formatting.
@@ -4089,7 +4537,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to feel?
+
+>
 
 === fence ===
 Using normal formatting.
@@ -4106,7 +4556,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fermen ===
 Using normal formatting.
@@ -4123,7 +4575,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fiends ===
 Using normal formatting.
@@ -4140,7 +4594,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fierce ===
 Using normal formatting.
@@ -4157,7 +4613,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fight ===
 Using normal formatting.
@@ -4174,7 +4632,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to fight?
+
+>
 
 === figuri ===
 Using normal formatting.
@@ -4191,7 +4651,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === filch ===
 Using normal formatting.
@@ -4208,7 +4670,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fill ===
 Using normal formatting.
@@ -4225,7 +4689,12 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+(small mailbox)
+There is nothing to fill it with.
+
+>
 
 === find ===
 Using normal formatting.
@@ -4242,7 +4711,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>That question can't be answered.
+
+>
 
 === fine ===
 Using normal formatting.
@@ -4259,7 +4730,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "fine" in a way that I don't understand.
+
+>
 
 === finepr ===
 Using normal formatting.
@@ -4276,7 +4749,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === firepr ===
 Using normal formatting.
@@ -4293,7 +4768,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fix ===
 Using normal formatting.
@@ -4310,7 +4787,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to fix?
+
+>
 
 === flamin ===
 Using normal formatting.
@@ -4327,7 +4806,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "flamin" in a way that I don't understand.
+
+>
 
 === flathe ===
 Using normal formatting.
@@ -4344,7 +4825,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "flathe" in a way that I don't understand.
+
+>
 
 === flip ===
 Using normal formatting.
@@ -4361,7 +4844,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to flip?
+
+>
 
 === float ===
 Using normal formatting.
@@ -4378,7 +4863,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === floor ===
 Using normal formatting.
@@ -4395,7 +4882,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fluore ===
 Using normal formatting.
@@ -4412,7 +4901,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === follow ===
 Using normal formatting.
@@ -4429,7 +4920,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You're nuts!
+
+>
 
 === foobar ===
 Using normal formatting.
@@ -4446,7 +4941,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === food ===
 Using normal formatting.
@@ -4463,7 +4960,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === footpa ===
 Using normal formatting.
@@ -4480,7 +4979,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === for ===
 Using normal formatting.
@@ -4497,7 +4998,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === forbid ===
 Using normal formatting.
@@ -4514,7 +5017,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "forbid" in a way that I don't understand.
+
+>
 
 === force ===
 Using normal formatting.
@@ -4531,7 +5036,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === ford ===
 Using normal formatting.
@@ -4548,7 +5055,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to ford?
+
+>
 
 === forest ===
 Using normal formatting.
@@ -4565,7 +5074,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fork ===
 Using normal formatting.
@@ -4582,7 +5093,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === free ===
 Using normal formatting.
@@ -4599,7 +5112,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to free?
+
+>
 
 === freeze ===
 Using normal formatting.
@@ -4616,7 +5131,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === frigid ===
 Using normal formatting.
@@ -4633,7 +5150,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "frigid" in a way that I don't understand.
+
+>
 
 === froboz ===
 Using normal formatting.
@@ -4650,7 +5169,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+The FROBOZZ Corporation created, owns, and operates this dungeon.
+
+>
 
 === from ===
 Using normal formatting.
@@ -4667,7 +5190,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === front ===
 Using normal formatting.
@@ -4684,7 +5209,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "front" in a way that I don't understand.
+
+>
 
 === frotz ===
 Using normal formatting.
@@ -4701,7 +5228,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fry ===
 Using normal formatting.
@@ -4718,7 +5247,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fuck ===
 Using normal formatting.
@@ -4735,7 +5266,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Such language in a high-class establishment like this!
+
+>
 
 === fudge ===
 Using normal formatting.
@@ -4752,7 +5287,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === fumble ===
 Using normal formatting.
@@ -4769,7 +5306,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === g ===
 Using normal formatting.
@@ -4786,7 +5325,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Maximum verbosity.
+
+>
 
 === garlic ===
 Using normal formatting.
@@ -4803,7 +5346,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === gas ===
 Using normal formatting.
@@ -4820,7 +5365,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === gate ===
 Using normal formatting.
@@ -4837,7 +5384,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === gates ===
 Using normal formatting.
@@ -4854,7 +5403,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === gaze ===
 Using normal formatting.
@@ -4871,7 +5422,14 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>
 
 === get ===
 Using normal formatting.
@@ -4888,7 +5446,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to get?
+
+>
 
 === ghosts ===
 Using normal formatting.
@@ -4905,7 +5465,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === giant ===
 Using normal formatting.
@@ -4922,7 +5484,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "giant" in a way that I don't understand.
+
+>
 
 === give ===
 Using normal formatting.
@@ -4939,7 +5503,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to give?
+
+>
 
 === glamdr ===
 Using normal formatting.
@@ -4956,7 +5522,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === glass ===
 Using normal formatting.
@@ -4973,7 +5541,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "glass" in a way that I don't understand.
+
+>
 
 === glue ===
 Using normal formatting.
@@ -4990,7 +5560,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to glue?
+
+>
 
 === go ===
 Using normal formatting.
@@ -5007,7 +5579,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to go?
+
+>
 
 === gold ===
 Using normal formatting.
@@ -5024,7 +5598,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === golden ===
 Using normal formatting.
@@ -5041,7 +5617,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "golden" in a way that I don't understand.
+
+>
 
 === gothic ===
 Using normal formatting.
@@ -5058,7 +5636,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "gothic" in a way that I don't understand.
+
+>
 
 === grab ===
 Using normal formatting.
@@ -5075,7 +5655,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to grab?
+
+>
 
 === graces ===
 Using normal formatting.
@@ -5092,7 +5674,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === granit ===
 Using normal formatting.
@@ -5109,7 +5693,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "granit" in a way that I don't understand.
+
+>
 
 === grate ===
 Using normal formatting.
@@ -5126,7 +5712,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === gratin ===
 Using normal formatting.
@@ -5143,7 +5731,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === grease ===
 Using normal formatting.
@@ -5160,7 +5750,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to grease?
+
+>
 
 === green ===
 Using normal formatting.
@@ -5177,7 +5769,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "green" in a way that I don't understand.
+
+>
 
 === ground ===
 Using normal formatting.
@@ -5194,7 +5788,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === group ===
 Using normal formatting.
@@ -5211,7 +5807,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === grue ===
 Using normal formatting.
@@ -5228,7 +5826,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === guide ===
 Using normal formatting.
@@ -5245,7 +5845,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === guideb ===
 Using normal formatting.
@@ -5262,7 +5864,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === gunk ===
 Using normal formatting.
@@ -5279,7 +5883,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === hand ===
 Using normal formatting.
@@ -5296,7 +5902,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to hand?
+
+>
 
 === hands ===
 Using normal formatting.
@@ -5313,7 +5921,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === hatch ===
 Using normal formatting.
@@ -5330,7 +5940,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to hatch?
+
+>
 
 === head ===
 Using normal formatting.
@@ -5347,7 +5959,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === heap ===
 Using normal formatting.
@@ -5364,7 +5978,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === hello ===
 Using normal formatting.
@@ -5381,7 +5997,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Hello.
+
+>
 
 === hemloc ===
 Using normal formatting.
@@ -5398,7 +6018,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === hemp ===
 Using normal formatting.
@@ -5415,7 +6037,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === her ===
 Using normal formatting.
@@ -5432,7 +6056,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === here ===
 Using normal formatting.
@@ -5449,7 +6075,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === hi ===
 Using normal formatting.
@@ -5466,7 +6094,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Hello.
+
+>
 
 === hide ===
 Using normal formatting.
@@ -5483,7 +6115,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to hide?
+
+>
 
 === him ===
 Using normal formatting.
@@ -5500,7 +6134,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === hit ===
 Using normal formatting.
@@ -5517,7 +6153,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to hit?
+
+>
 
 === hold ===
 Using normal formatting.
@@ -5534,7 +6172,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to hold?
+
+>
 
 === hop ===
 Using normal formatting.
@@ -5551,7 +6191,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Very good. Now you can go to the second grade.
+
+>
 
 === hot ===
 Using normal formatting.
@@ -5568,7 +6212,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "hot" in a way that I don't understand.
+
+>
 
 === house ===
 Using normal formatting.
@@ -5585,7 +6231,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === huge ===
 Using normal formatting.
@@ -5602,7 +6250,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "huge" in a way that I don't understand.
+
+>
 
 === hungry ===
 Using normal formatting.
@@ -5619,7 +6269,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "hungry" in a way that I don't understand.
+
+>
 
 === hurl ===
 Using normal formatting.
@@ -5636,7 +6288,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to hurl?
+
+>
 
 === hurt ===
 Using normal formatting.
@@ -5653,7 +6307,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to hurt?
+
+>
 
 === i ===
 Using normal formatting.
@@ -5670,7 +6326,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You are empty-handed.
+
+>
 
 === ignite ===
 Using normal formatting.
@@ -5687,7 +6347,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to ignite?
+
+>
 
 === imbibe ===
 Using normal formatting.
@@ -5704,7 +6366,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to imbibe?
+
+>
 
 === impass ===
 Using normal formatting.
@@ -5721,7 +6385,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "impass" in a way that I don't understand.
+
+>
 
 === in ===
 Using normal formatting.
@@ -5738,7 +6404,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === incant ===
 Using normal formatting.
@@ -5755,7 +6425,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+The incantation echoes back faintly, but nothing else happens.
+
+>
 
 === incine ===
 Using normal formatting.
@@ -5772,7 +6446,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to incine?
+
+>
 
 === inflat ===
 Using normal formatting.
@@ -5789,7 +6465,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to inflat?
+
+>
 
 === injure ===
 Using normal formatting.
@@ -5806,7 +6484,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to injure?
+
+>
 
 === inscri ===
 Using normal formatting.
@@ -5823,7 +6503,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === insert ===
 Using normal formatting.
@@ -5840,7 +6522,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to insert?
+
+>
 
 === inside ===
 Using normal formatting.
@@ -5857,7 +6541,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === intnum ===
 Using normal formatting.
@@ -5874,7 +6562,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === into ===
 Using normal formatting.
@@ -5891,7 +6581,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === invent ===
 Using normal formatting.
@@ -5908,7 +6602,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You are empty-handed.
+
+>
 
 === invisi ===
 Using normal formatting.
@@ -5925,7 +6623,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "invisi" in a way that I don't understand.
+
+>
 
 === is ===
 Using normal formatting.
@@ -5942,7 +6642,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to is?
+
+>
 
 === it ===
 Using normal formatting.
@@ -5959,7 +6661,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === ivory ===
 Using normal formatting.
@@ -5976,7 +6680,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === jade ===
 Using normal formatting.
@@ -5993,7 +6699,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "jade" in a way that I don't understand.
+
+>
 
 === jewel ===
 Using normal formatting.
@@ -6010,7 +6718,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === jewele ===
 Using normal formatting.
@@ -6027,7 +6737,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "jewele" in a way that I don't understand.
+
+>
 
 === jewels ===
 Using normal formatting.
@@ -6044,7 +6756,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === jump ===
 Using normal formatting.
@@ -6061,7 +6775,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Wheeeeeeeeee!!!!!
+
+>
 
 === key ===
 Using normal formatting.
@@ -6078,7 +6796,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === kick ===
 Using normal formatting.
@@ -6095,7 +6815,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to kick?
+
+>
 
 === kill ===
 Using normal formatting.
@@ -6112,7 +6834,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to kill?
+
+>
 
 === kiss ===
 Using normal formatting.
@@ -6129,7 +6853,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to kiss?
+
+>
 
 === kitche ===
 Using normal formatting.
@@ -6146,7 +6872,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "kitche" in a way that I don't understand.
+
+>
 
 === knife ===
 Using normal formatting.
@@ -6163,7 +6891,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === knives ===
 Using normal formatting.
@@ -6180,7 +6910,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === knock ===
 Using normal formatting.
@@ -6197,7 +6929,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to knock at?
+
+>
 
 === l ===
 Using normal formatting.
@@ -6214,7 +6948,14 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>
 
 === label ===
 Using normal formatting.
@@ -6231,7 +6972,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === ladder ===
 Using normal formatting.
@@ -6248,7 +6991,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === lake ===
 Using normal formatting.
@@ -6265,7 +7010,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === lamp ===
 Using normal formatting.
@@ -6282,7 +7029,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === land ===
 Using normal formatting.
@@ -6299,7 +7048,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === lanter ===
 Using normal formatting.
@@ -6316,7 +7069,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === large ===
 Using normal formatting.
@@ -6333,7 +7088,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "large" in a way that I don't understand.
+
+>
 
 === launch ===
 Using normal formatting.
@@ -6350,7 +7107,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to launch?
+
+>
 
 === leaf ===
 Using normal formatting.
@@ -6367,7 +7126,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === leafle ===
 Using normal formatting.
@@ -6384,7 +7145,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === leak ===
 Using normal formatting.
@@ -6401,7 +7164,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === lean ===
 Using normal formatting.
@@ -6418,7 +7183,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to lean on?
+
+>
 
 === leap ===
 Using normal formatting.
@@ -6435,7 +7202,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Very good. Now you can go to the second grade.
+
+>
 
 === leathe ===
 Using normal formatting.
@@ -6452,7 +7223,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "leathe" in a way that I don't understand.
+
+>
 
 === leave ===
 Using normal formatting.
@@ -6469,7 +7242,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === leaves ===
 Using normal formatting.
@@ -6486,7 +7263,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === ledge ===
 Using normal formatting.
@@ -6503,7 +7282,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === letter ===
 Using normal formatting.
@@ -6520,7 +7301,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === lid ===
 Using normal formatting.
@@ -6537,7 +7320,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === lift ===
 Using normal formatting.
@@ -6554,7 +7339,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to lift?
+
+>
 
 === light ===
 Using normal formatting.
@@ -6571,7 +7358,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to light?
+
+>
 
 === liquid ===
 Using normal formatting.
@@ -6588,7 +7377,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === liquif ===
 Using normal formatting.
@@ -6605,7 +7396,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to liquif?
+
+>
 
 === listen ===
 Using normal formatting.
@@ -6622,7 +7415,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to listen to?
+
+>
 
 === lock ===
 Using normal formatting.
@@ -6639,7 +7434,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to lock?
+
+>
 
 === long ===
 Using normal formatting.
@@ -6656,7 +7453,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "long" in a way that I don't understand.
+
+>
 
 === look ===
 Using normal formatting.
@@ -6673,7 +7472,14 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>
 
 === lose ===
 Using normal formatting.
@@ -6690,7 +7496,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Preposterous!
+
+>
 
 === lower ===
 Using normal formatting.
@@ -6707,7 +7517,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to lower?
+
+>
 
 === lowere ===
 Using normal formatting.
@@ -6724,7 +7536,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "lowere" in a way that I don't understand.
+
+>
 
 === lubric ===
 Using normal formatting.
@@ -6741,7 +7555,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to lubric?
+
+>
 
 === lunch ===
 Using normal formatting.
@@ -6758,7 +7574,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === lungs ===
 Using normal formatting.
@@ -6775,7 +7593,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === lurkin ===
 Using normal formatting.
@@ -6792,7 +7612,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "lurkin" in a way that I don't understand.
+
+>
 
 === machin ===
 Using normal formatting.
@@ -6809,7 +7631,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === magic ===
 Using normal formatting.
@@ -6826,7 +7650,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "magic" in a way that I don't understand.
+
+>
 
 === mail ===
 Using normal formatting.
@@ -6843,7 +7669,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === mailbo ===
 Using normal formatting.
@@ -6860,7 +7688,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === make ===
 Using normal formatting.
@@ -6877,7 +7707,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to make?
+
+>
 
 === man ===
 Using normal formatting.
@@ -6894,7 +7726,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === mangle ===
 Using normal formatting.
@@ -6911,7 +7745,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "mangle" in a way that I don't understand.
+
+>
 
 === manual ===
 Using normal formatting.
@@ -6928,7 +7764,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === map ===
 Using normal formatting.
@@ -6945,7 +7783,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === marble ===
 Using normal formatting.
@@ -6962,7 +7802,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "marble" in a way that I don't understand.
+
+>
 
 === massiv ===
 Using normal formatting.
@@ -6979,7 +7821,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "massiv" in a way that I don't understand.
+
+>
 
 === match ===
 Using normal formatting.
@@ -6996,7 +7840,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === matchb ===
 Using normal formatting.
@@ -7013,7 +7859,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === matche ===
 Using normal formatting.
@@ -7030,7 +7878,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === materi ===
 Using normal formatting.
@@ -7047,7 +7897,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === me ===
 Using normal formatting.
@@ -7064,7 +7916,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === melt ===
 Using normal formatting.
@@ -7081,7 +7935,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to melt?
+
+>
 
 === metal ===
 Using normal formatting.
@@ -7098,7 +7954,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "metal" in a way that I don't understand.
+
+>
 
 === mirror ===
 Using normal formatting.
@@ -7115,7 +7973,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === molest ===
 Using normal formatting.
@@ -7132,7 +7992,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to molest?
+
+>
 
 === monste ===
 Using normal formatting.
@@ -7149,7 +8011,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === mounta ===
 Using normal formatting.
@@ -7166,7 +8030,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === mouth ===
 Using normal formatting.
@@ -7183,7 +8049,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === move ===
 Using normal formatting.
@@ -7200,7 +8068,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to move?
+
+>
 
 === mumble ===
 Using normal formatting.
@@ -7217,7 +8087,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You'll have to speak up if you expect me to hear you!
+
+>
 
 === murder ===
 Using normal formatting.
@@ -7234,7 +8108,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to murder?
+
+>
 
 === myself ===
 Using normal formatting.
@@ -7251,7 +8127,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === n ===
 Using normal formatting.
@@ -7268,7 +8146,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> North of House                                   Score: 0        Moves: 1
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>
 
 === nail ===
 Using normal formatting.
@@ -7285,7 +8169,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === nails ===
 Using normal formatting.
@@ -7302,7 +8188,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === narrow ===
 Using normal formatting.
@@ -7319,7 +8207,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "narrow" in a way that I don't understand.
+
+>
 
 === nasty ===
 Using normal formatting.
@@ -7336,7 +8226,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "nasty" in a way that I don't understand.
+
+>
 
 === ne ===
 Using normal formatting.
@@ -7353,7 +8245,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> North of House                                   Score: 0        Moves: 1
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>
 
 === nest ===
 Using normal formatting.
@@ -7370,7 +8268,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === no ===
 Using normal formatting.
@@ -7387,7 +8287,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === north ===
 Using normal formatting.
@@ -7404,7 +8306,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> North of House                                   Score: 0        Moves: 1
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>
 
 === northe ===
 Using normal formatting.
@@ -7421,7 +8329,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> North of House                                   Score: 0        Moves: 1
+
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>
 
 === northw ===
 Using normal formatting.
@@ -7438,7 +8352,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === nut ===
 Using normal formatting.
@@ -7455,7 +8373,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === nw ===
 Using normal formatting.
@@ -7472,7 +8392,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === odor ===
 Using normal formatting.
@@ -7489,7 +8413,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === odysse ===
 Using normal formatting.
@@ -7506,7 +8432,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Wasn't he a sailor?
+
+>
 
 === of ===
 Using normal formatting.
@@ -7523,7 +8453,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === off ===
 Using normal formatting.
@@ -7540,7 +8472,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === offer ===
 Using normal formatting.
@@ -7557,7 +8491,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to offer?
+
+>
 
 === oil ===
 Using normal formatting.
@@ -7574,7 +8510,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to oil?
+
+>
 
 === old ===
 Using normal formatting.
@@ -7591,7 +8529,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "old" in a way that I don't understand.
+
+>
 
 === on ===
 Using normal formatting.
@@ -7608,7 +8548,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === one ===
 Using normal formatting.
@@ -7625,7 +8567,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === onto ===
 Using normal formatting.
@@ -7642,7 +8586,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === open ===
 Using normal formatting.
@@ -7659,7 +8605,12 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+(door)
+The door cannot be opened.
+
+>
 
 === orcris ===
 Using normal formatting.
@@ -7676,7 +8627,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === orient ===
 Using normal formatting.
@@ -7693,7 +8646,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "orient" in a way that I don't understand.
+
+>
 
 === out ===
 Using normal formatting.
@@ -7710,7 +8665,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === over ===
 Using normal formatting.
@@ -7727,7 +8686,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === overbo ===
 Using normal formatting.
@@ -7744,7 +8705,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === own ===
 Using normal formatting.
@@ -7761,7 +8724,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "own" in a way that I don't understand.
+
+>
 
 === owners ===
 Using normal formatting.
@@ -7778,7 +8743,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "owners" in a way that I don't understand.
+
+>
 
 === ozmoo ===
 Using normal formatting.
@@ -7795,7 +8762,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === page ===
 Using normal formatting.
@@ -7812,7 +8781,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === paint ===
 Using normal formatting.
@@ -7829,7 +8800,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === painti ===
 Using normal formatting.
@@ -7846,7 +8819,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pair ===
 Using normal formatting.
@@ -7863,7 +8838,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === panel ===
 Using normal formatting.
@@ -7880,7 +8857,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === paper ===
 Using normal formatting.
@@ -7897,7 +8876,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === parchm ===
 Using normal formatting.
@@ -7914,7 +8895,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === passag ===
 Using normal formatting.
@@ -7931,7 +8914,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === paste ===
 Using normal formatting.
@@ -7948,7 +8933,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pat ===
 Using normal formatting.
@@ -7965,7 +8952,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to pat?
+
+>
 
 === patch ===
 Using normal formatting.
@@ -7982,7 +8971,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to patch?
+
+>
 
 === path ===
 Using normal formatting.
@@ -7999,7 +8990,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === peal ===
 Using normal formatting.
@@ -8016,7 +9009,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to peal?
+
+>
 
 === pedest ===
 Using normal formatting.
@@ -8033,7 +9028,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pepper ===
 Using normal formatting.
@@ -8050,7 +9047,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "pepper" in a way that I don't understand.
+
+>
 
 === person ===
 Using normal formatting.
@@ -8067,7 +9066,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pet ===
 Using normal formatting.
@@ -8084,7 +9085,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to pet?
+
+>
 
 === pick ===
 Using normal formatting.
@@ -8101,7 +9104,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to pick?
+
+>
 
 === piece ===
 Using normal formatting.
@@ -8118,7 +9123,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pierce ===
 Using normal formatting.
@@ -8135,7 +9142,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to pierce?
+
+>
 
 === pile ===
 Using normal formatting.
@@ -8152,7 +9161,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pines ===
 Using normal formatting.
@@ -8169,7 +9180,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pipe ===
 Using normal formatting.
@@ -8186,7 +9199,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === place ===
 Using normal formatting.
@@ -8203,7 +9218,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to place?
+
+>
 
 === plasti ===
 Using normal formatting.
@@ -8220,7 +9237,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === platin ===
 Using normal formatting.
@@ -8237,7 +9256,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === play ===
 Using normal formatting.
@@ -8254,7 +9275,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to play?
+
+>
 
 === plug ===
 Using normal formatting.
@@ -8271,7 +9294,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to plug?
+
+>
 
 === plugh ===
 Using normal formatting.
@@ -8288,7 +9313,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+A hollow voice says "Fool."
+
+>
 
 === poke ===
 Using normal formatting.
@@ -8305,7 +9334,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to poke?
+
+>
 
 === poseid ===
 Using normal formatting.
@@ -8322,7 +9353,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "poseid" in a way that I don't understand.
+
+>
 
 === pot ===
 Using normal formatting.
@@ -8339,7 +9372,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === pour ===
 Using normal formatting.
@@ -8356,7 +9391,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to pour?
+
+>
 
 === pray ===
 Using normal formatting.
@@ -8373,7 +9410,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+If you pray enough, your prayers may be answered.
+
+>
 
 === prayer ===
 Using normal formatting.
@@ -8390,7 +9431,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === press ===
 Using normal formatting.
@@ -8407,7 +9450,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to press?
+
+>
 
 === print ===
 Using normal formatting.
@@ -8424,7 +9469,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === procee ===
 Using normal formatting.
@@ -8441,7 +9488,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to procee?
+
+>
 
 === pull ===
 Using normal formatting.
@@ -8458,7 +9507,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to pull?
+
+>
 
 === pump ===
 Using normal formatting.
@@ -8475,7 +9526,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to pump up?
+
+>
 
 === punctu ===
 Using normal formatting.
@@ -8492,7 +9545,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to punctu?
+
+>
 
 === pursue ===
 Using normal formatting.
@@ -8509,7 +9564,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You're nuts!
+
+>
 
 === push ===
 Using normal formatting.
@@ -8526,7 +9585,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to push?
+
+>
 
 === put ===
 Using normal formatting.
@@ -8543,7 +9604,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to put?
+
+>
 
 === q ===
 Using normal formatting.
@@ -8560,7 +9623,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Your score is 0 (total of 350 points), in 0 moves.
+This gives you the rank of Beginner.
+Do you wish to leave the game? (Y is affirmative): >
 
 === quanti ===
 Using normal formatting.
@@ -8577,7 +9642,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === quit ===
 Using normal formatting.
@@ -8594,7 +9661,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Your score is 0 (total of 350 points), in 0 moves.
+This gives you the rank of Beginner.
+Do you wish to leave the game? (Y is affirmative): >
 
 === raft ===
 Using normal formatting.
@@ -8611,7 +9680,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === rail ===
 Using normal formatting.
@@ -8628,7 +9699,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === railin ===
 Using normal formatting.
@@ -8645,7 +9718,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === rainbo ===
 Using normal formatting.
@@ -8662,7 +9737,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === raise ===
 Using normal formatting.
@@ -8679,7 +9756,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to raise?
+
+>
 
 === ramp ===
 Using normal formatting.
@@ -8696,7 +9775,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === range ===
 Using normal formatting.
@@ -8713,7 +9794,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === rap ===
 Using normal formatting.
@@ -8730,7 +9813,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to rap at?
+
+>
 
 === rape ===
 Using normal formatting.
@@ -8747,7 +9832,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to rape?
+
+>
 
 === read ===
 Using normal formatting.
@@ -8764,7 +9851,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to read?
+
+>
 
 === red ===
 Using normal formatting.
@@ -8781,7 +9870,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "red" in a way that I don't understand.
+
+>
 
 === reflec ===
 Using normal formatting.
@@ -8798,7 +9889,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === releas ===
 Using normal formatting.
@@ -8815,7 +9908,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to releas?
+
+>
 
 === remain ===
 Using normal formatting.
@@ -8832,7 +9927,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === remove ===
 Using normal formatting.
@@ -8849,7 +9946,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to remove?
+
+>
 
 === repair ===
 Using normal formatting.
@@ -8866,7 +9965,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to repair?
+
+>
 
 === repent ===
 Using normal formatting.
@@ -8883,7 +9984,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+It could very well be too late!
+
+>
 
 === reply ===
 Using normal formatting.
@@ -8900,7 +10005,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Nobody seems to be awaiting your answer.
+
+>
 
 === restar ===
 Using normal formatting.
@@ -8917,7 +10026,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Your score is 0 (total of 350 points), in 0 moves.
+This gives you the rank of Beginner.
+Do you wish to restart? (Y is affirmative): >
 
 === restor ===
 Using normal formatting.
@@ -8934,7 +10045,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Please enter a filename [zork1-r88-s840726.qzl]:
 
 === ricket ===
 Using normal formatting.
@@ -8951,7 +10062,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "ricket" in a way that I don't understand.
+
+>
 
 === ring ===
 Using normal formatting.
@@ -8968,7 +10081,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to ring?
+
+>
 
 === river ===
 Using normal formatting.
@@ -8985,7 +10100,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === robber ===
 Using normal formatting.
@@ -9002,7 +10119,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === rocky ===
 Using normal formatting.
@@ -9019,7 +10138,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "rocky" in a way that I don't understand.
+
+>
 
 === roll ===
 Using normal formatting.
@@ -9036,7 +10157,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to roll up?
+
+>
 
 === rope ===
 Using normal formatting.
@@ -9053,7 +10176,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === rub ===
 Using normal formatting.
@@ -9070,7 +10195,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to rub?
+
+>
 
 === rug ===
 Using normal formatting.
@@ -9087,7 +10214,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === run ===
 Using normal formatting.
@@ -9104,7 +10233,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to run?
+
+>
 
 === rusty ===
 Using normal formatting.
@@ -9121,7 +10252,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "rusty" in a way that I don't understand.
+
+>
 
 === s ===
 Using normal formatting.
@@ -9138,7 +10271,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> South of House                                   Score: 0        Moves: 1
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+>
 
 === sack ===
 Using normal formatting.
@@ -9155,7 +10294,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === sailor ===
 Using normal formatting.
@@ -9172,7 +10313,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === sand ===
 Using normal formatting.
@@ -9189,7 +10332,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === sandwi ===
 Using normal formatting.
@@ -9206,7 +10351,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === sapphi ===
 Using normal formatting.
@@ -9223,7 +10370,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === save ===
 Using normal formatting.
@@ -9240,7 +10389,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Please enter a filename [zork1-r88-s840726.qzl]:
 
 === say ===
 Using normal formatting.
@@ -9257,7 +10406,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Say what?
+
+>
 
 === scarab ===
 Using normal formatting.
@@ -9274,7 +10427,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === scepte ===
 Using normal formatting.
@@ -9291,7 +10446,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === sceptr ===
 Using normal formatting.
@@ -9308,7 +10465,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === score ===
 Using normal formatting.
@@ -9325,7 +10484,10 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Your score is 0 (total of 350 points), in 0 moves.
+This gives you the rank of Beginner.
+
+>
 
 === scream ===
 Using normal formatting.
@@ -9342,7 +10504,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Aaaarrrrgggghhhh!
+
+>
 
 === screw ===
 Using normal formatting.
@@ -9359,7 +10525,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "screw" in a way that I don't understand.
+
+>
 
 === screwd ===
 Using normal formatting.
@@ -9376,7 +10544,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === script ===
 Using normal formatting.
@@ -9393,7 +10563,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Please enter a filename [zork1-r88-s840726.scr]:
 
 === se ===
 Using normal formatting.
@@ -9410,7 +10580,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> South of House                                   Score: 0        Moves: 1
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+>
 
 === search ===
 Using normal formatting.
@@ -9427,7 +10603,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to search?
+
+>
 
 === seawor ===
 Using normal formatting.
@@ -9444,7 +10622,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "seawor" in a way that I don't understand.
+
+>
 
 === secure ===
 Using normal formatting.
@@ -9461,7 +10641,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to secure?
+
+>
 
 === see ===
 Using normal formatting.
@@ -9478,7 +10660,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>That question can't be answered.
+
+>
 
 === seedy ===
 Using normal formatting.
@@ -9495,7 +10679,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "seedy" in a way that I don't understand.
+
+>
 
 === seek ===
 Using normal formatting.
@@ -9512,7 +10698,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>That question can't be answered.
+
+>
 
 === self ===
 Using normal formatting.
@@ -9529,7 +10717,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === send ===
 Using normal formatting.
@@ -9546,7 +10736,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to send for?
+
+>
 
 === set ===
 Using normal formatting.
@@ -9563,7 +10755,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to set?
+
+>
 
 === shady ===
 Using normal formatting.
@@ -9580,7 +10774,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "shady" in a way that I don't understand.
+
+>
 
 === shake ===
 Using normal formatting.
@@ -9597,7 +10793,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to shake?
+
+>
 
 === sharp ===
 Using normal formatting.
@@ -9614,7 +10812,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "sharp" in a way that I don't understand.
+
+>
 
 === sheer ===
 Using normal formatting.
@@ -9631,7 +10831,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "sheer" in a way that I don't understand.
+
+>
 
 === shit ===
 Using normal formatting.
@@ -9648,7 +10850,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Such language in a high-class establishment like this!
+
+>
 
 === shout ===
 Using normal formatting.
@@ -9665,7 +10871,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Aaaarrrrgggghhhh!
+
+>
 
 === shovel ===
 Using normal formatting.
@@ -9682,7 +10892,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === shut ===
 Using normal formatting.
@@ -9699,7 +10911,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to shut?
+
+>
 
 === sigh ===
 Using normal formatting.
@@ -9716,7 +10930,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You'll have to speak up if you expect me to hear you!
+
+>
 
 === silent ===
 Using normal formatting.
@@ -9733,7 +10951,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "silent" in a way that I don't understand.
+
+>
 
 === silver ===
 Using normal formatting.
@@ -9750,7 +10970,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === sinist ===
 Using normal formatting.
@@ -9767,7 +10989,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "sinist" in a way that I don't understand.
+
+>
 
 === sit ===
 Using normal formatting.
@@ -9784,7 +11008,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === skelet ===
 Using normal formatting.
@@ -9801,7 +11029,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === skim ===
 Using normal formatting.
@@ -9818,7 +11048,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to skim?
+
+>
 
 === skip ===
 Using normal formatting.
@@ -9835,7 +11067,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Are you enjoying yourself?
+
+>
 
 === skull ===
 Using normal formatting.
@@ -9852,7 +11088,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === slag ===
 Using normal formatting.
@@ -9869,7 +11107,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === slay ===
 Using normal formatting.
@@ -9886,7 +11126,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to slay?
+
+>
 
 === slice ===
 Using normal formatting.
@@ -9903,7 +11145,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to slice?
+
+>
 
 === slide ===
 Using normal formatting.
@@ -9920,7 +11164,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to slide?
+
+>
 
 === small ===
 Using normal formatting.
@@ -9937,7 +11183,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "small" in a way that I don't understand.
+
+>
 
 === smash ===
 Using normal formatting.
@@ -9954,7 +11202,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to smash?
+
+>
 
 === smell ===
 Using normal formatting.
@@ -9971,7 +11221,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to smell?
+
+>
 
 === smelly ===
 Using normal formatting.
@@ -9988,7 +11240,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "smelly" in a way that I don't understand.
+
+>
 
 === sniff ===
 Using normal formatting.
@@ -10005,7 +11259,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to sniff?
+
+>
 
 === solid ===
 Using normal formatting.
@@ -10022,7 +11278,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "solid" in a way that I don't understand.
+
+>
 
 === song ===
 Using normal formatting.
@@ -10039,7 +11297,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "song" in a way that I don't understand.
+
+>
 
 === songbi ===
 Using normal formatting.
@@ -10056,7 +11316,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === south ===
 Using normal formatting.
@@ -10073,7 +11335,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> South of House                                   Score: 0        Moves: 1
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+>
 
 === southe ===
 Using normal formatting.
@@ -10090,7 +11358,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> South of House                                   Score: 0        Moves: 1
+
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+>
 
 === southw ===
 Using normal formatting.
@@ -10107,7 +11381,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === spill ===
 Using normal formatting.
@@ -10124,7 +11402,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to spill?
+
+>
 
 === spin ===
 Using normal formatting.
@@ -10141,7 +11421,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to spin?
+
+>
 
 === spirit ===
 Using normal formatting.
@@ -10158,7 +11440,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === spray ===
 Using normal formatting.
@@ -10175,7 +11459,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to spray?
+
+>
 
 === squeez ===
 Using normal formatting.
@@ -10192,7 +11478,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to squeez?
+
+>
 
 === stab ===
 Using normal formatting.
@@ -10209,7 +11497,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to stab?
+
+>
 
 === stairc ===
 Using normal formatting.
@@ -10226,7 +11516,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === stairs ===
 Using normal formatting.
@@ -10243,7 +11535,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === stairw ===
 Using normal formatting.
@@ -10260,7 +11554,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === stand ===
 Using normal formatting.
@@ -10277,7 +11573,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You are already standing, I think.
+
+>
 
 === stare ===
 Using normal formatting.
@@ -10294,7 +11594,14 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>
 
 === startl ===
 Using normal formatting.
@@ -10311,7 +11618,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to startl?
+
+>
 
 === stay ===
 Using normal formatting.
@@ -10328,7 +11637,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You will be lost without me!
+
+>
 
 === steep ===
 Using normal formatting.
@@ -10345,7 +11658,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "steep" in a way that I don't understand.
+
+>
 
 === step ===
 Using normal formatting.
@@ -10362,7 +11677,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to step?
+
+>
 
 === steps ===
 Using normal formatting.
@@ -10379,7 +11696,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === stilet ===
 Using normal formatting.
@@ -10396,7 +11715,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === stone ===
 Using normal formatting.
@@ -10413,7 +11734,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "stone" in a way that I don't understand.
+
+>
 
 === storm ===
 Using normal formatting.
@@ -10430,7 +11753,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "storm" in a way that I don't understand.
+
+>
 
 === strang ===
 Using normal formatting.
@@ -10447,7 +11772,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "strang" in a way that I don't understand.
+
+>
 
 === stream ===
 Using normal formatting.
@@ -10464,7 +11791,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === strike ===
 Using normal formatting.
@@ -10481,7 +11810,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to strike?
+
+>
 
 === stuff ===
 Using normal formatting.
@@ -10498,7 +11829,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to stuff?
+
+>
 
 === super ===
 Using normal formatting.
@@ -10515,7 +11848,8 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Super-brief descriptions.
+>
 
 === superb ===
 Using normal formatting.
@@ -10532,7 +11866,8 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Super-brief descriptions.
+>
 
 === surpri ===
 Using normal formatting.
@@ -10549,7 +11884,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to surpri?
+
+>
 
 === surrou ===
 Using normal formatting.
@@ -10566,7 +11903,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "surrou" in a way that I don't understand.
+
+>
 
 === suspic ===
 Using normal formatting.
@@ -10583,7 +11922,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "suspic" in a way that I don't understand.
+
+>
 
 === sw ===
 Using normal formatting.
@@ -10600,7 +11941,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === swallo ===
 Using normal formatting.
@@ -10617,7 +11962,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to swallo?
+
+>
 
 === swim ===
 Using normal formatting.
@@ -10634,7 +11981,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Go jump in a lake!
+
+>
 
 === swing ===
 Using normal formatting.
@@ -10651,7 +12002,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to swing?
+
+>
 
 === switch ===
 Using normal formatting.
@@ -10668,7 +12021,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === sword ===
 Using normal formatting.
@@ -10685,7 +12040,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === table ===
 Using normal formatting.
@@ -10702,7 +12059,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === take ===
 Using normal formatting.
@@ -10719,7 +12078,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to take?
+
+>
 
 === talk ===
 Using normal formatting.
@@ -10736,7 +12097,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to talk to?
+
+>
 
 === tan ===
 Using normal formatting.
@@ -10753,7 +12116,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "tan" in a way that I don't understand.
+
+>
 
 === taste ===
 Using normal formatting.
@@ -10770,7 +12135,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to taste?
+
+>
 
 === taunt ===
 Using normal formatting.
@@ -10787,7 +12154,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to taunt?
+
+>
 
 === teeth ===
 Using normal formatting.
@@ -10804,7 +12173,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === tell ===
 Using normal formatting.
@@ -10821,7 +12192,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to tell?
+
+>
 
 === temple ===
 Using normal formatting.
@@ -10838,7 +12211,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Nothing happens.
+
+>
 
 === the ===
 Using normal formatting.
@@ -10855,7 +12232,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === them ===
 Using normal formatting.
@@ -10872,7 +12251,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === then ===
 Using normal formatting.
@@ -10889,7 +12270,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to tell?
+
+>
 
 === thief ===
 Using normal formatting.
@@ -10906,7 +12289,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === thiefs ===
 Using normal formatting.
@@ -10923,7 +12308,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "thiefs" in a way that I don't understand.
+
+>
 
 === throug ===
 Using normal formatting.
@@ -10940,7 +12327,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === throw ===
 Using normal formatting.
@@ -10957,7 +12346,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to throw?
+
+>
 
 === thru ===
 Using normal formatting.
@@ -10974,7 +12365,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === thrust ===
 Using normal formatting.
@@ -10991,7 +12384,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to thrust?
+
+>
 
 === tie ===
 Using normal formatting.
@@ -11008,7 +12403,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to tie?
+
+>
 
 === timber ===
 Using normal formatting.
@@ -11025,7 +12422,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === to ===
 Using normal formatting.
@@ -11042,7 +12441,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === tomb ===
 Using normal formatting.
@@ -11059,7 +12460,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === tool ===
 Using normal formatting.
@@ -11076,7 +12479,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === toolch ===
 Using normal formatting.
@@ -11093,7 +12498,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === tools ===
 Using normal formatting.
@@ -11110,7 +12517,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === tooth ===
 Using normal formatting.
@@ -11127,7 +12536,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === torch ===
 Using normal formatting.
@@ -11144,7 +12555,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === toss ===
 Using normal formatting.
@@ -11161,7 +12574,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to toss?
+
+>
 
 === touch ===
 Using normal formatting.
@@ -11178,7 +12593,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to touch?
+
+>
 
 === tour ===
 Using normal formatting.
@@ -11195,7 +12612,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "tour" in a way that I don't understand.
+
+>
 
 === trail ===
 Using normal formatting.
@@ -11212,7 +12631,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === trap ===
 Using normal formatting.
@@ -11229,7 +12650,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "trap" in a way that I don't understand.
+
+>
 
 === trapdo ===
 Using normal formatting.
@@ -11246,7 +12669,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === treasu ===
 Using normal formatting.
@@ -11263,7 +12688,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Nothing happens.
+
+>
 
 === tree ===
 Using normal formatting.
@@ -11280,7 +12709,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === trees ===
 Using normal formatting.
@@ -11297,7 +12728,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === triden ===
 Using normal formatting.
@@ -11314,7 +12747,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === troll ===
 Using normal formatting.
@@ -11331,7 +12766,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === trophy ===
 Using normal formatting.
@@ -11348,7 +12785,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "trophy" in a way that I don't understand.
+
+>
 
 === trunk ===
 Using normal formatting.
@@ -11365,7 +12804,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === tube ===
 Using normal formatting.
@@ -11382,7 +12823,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === tug ===
 Using normal formatting.
@@ -11399,7 +12842,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to tug?
+
+>
 
 === turn ===
 Using normal formatting.
@@ -11416,7 +12861,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to turn?
+
+>
 
 === twisti ===
 Using normal formatting.
@@ -11433,7 +12880,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "twisti" in a way that I don't understand.
+
+>
 
 === u ===
 Using normal formatting.
@@ -11450,7 +12899,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === ulysse ===
 Using normal formatting.
@@ -11467,7 +12920,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Wasn't he a sailor?
+
+>
 
 === unatta ===
 Using normal formatting.
@@ -11484,7 +12941,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to unatta?
+
+>
 
 === under ===
 Using normal formatting.
@@ -11501,7 +12960,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === undern ===
 Using normal formatting.
@@ -11518,7 +12979,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === unfast ===
 Using normal formatting.
@@ -11535,7 +12998,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to unfast?
+
+>
 
 === unhook ===
 Using normal formatting.
@@ -11552,7 +13017,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to unhook?
+
+>
 
 === unlock ===
 Using normal formatting.
@@ -11569,7 +13036,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to unlock?
+
+>
 
 === unrust ===
 Using normal formatting.
@@ -11586,7 +13055,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "unrust" in a way that I don't understand.
+
+>
 
 === unscri ===
 Using normal formatting.
@@ -11603,7 +13074,13 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Here ends a transcript of interaction with
+ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+>
 
 === untie ===
 Using normal formatting.
@@ -11620,7 +13097,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to untie?
+
+>
 
 === up ===
 Using normal formatting.
@@ -11637,7 +13116,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+You can't go that way.
+
+>
 
 === useles ===
 Using normal formatting.
@@ -11654,7 +13137,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "useles" in a way that I don't understand.
+
+>
 
 === using ===
 Using normal formatting.
@@ -11671,7 +13156,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === valve ===
 Using normal formatting.
@@ -11688,7 +13175,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === vampir ===
 Using normal formatting.
@@ -11705,7 +13194,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === verbos ===
 Using normal formatting.
@@ -11722,7 +13213,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>Maximum verbosity.
+
+>
 
 === versio ===
 Using normal formatting.
@@ -11739,7 +13232,12 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>ZORK I: The Great Underground Empire
+Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Revision 88 / Serial number 840726
+
+>
 
 === viciou ===
 Using normal formatting.
@@ -11756,7 +13254,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "viciou" in a way that I don't understand.
+
+>
 
 === viscou ===
 Using normal formatting.
@@ -11773,7 +13273,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "viscou" in a way that I don't understand.
+
+>
 
 === vitreo ===
 Using normal formatting.
@@ -11790,7 +13292,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "vitreo" in a way that I don't understand.
+
+>
 
 === w ===
 Using normal formatting.
@@ -11807,7 +13311,14 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> Forest                                           Score: 0        Moves: 1
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+You hear in the distance the chirping of a song bird.
+
+>
 
 === wade ===
 Using normal formatting.
@@ -11824,7 +13335,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Go jump in a lake!
+
+>
 
 === wait ===
 Using normal formatting.
@@ -11841,7 +13356,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 3
+
+Time passes...
+
+>
 
 === wake ===
 Using normal formatting.
@@ -11858,7 +13377,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to wake?
+
+>
 
 === walk ===
 Using normal formatting.
@@ -11875,7 +13396,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to walk?
+
+>
 
 === wall ===
 Using normal formatting.
@@ -11892,7 +13415,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === walls ===
 Using normal formatting.
@@ -11909,7 +13434,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === water ===
 Using normal formatting.
@@ -11926,7 +13453,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === wave ===
 Using normal formatting.
@@ -11943,7 +13472,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to wave?
+
+>
 
 === wear ===
 Using normal formatting.
@@ -11960,7 +13491,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to wear?
+
+>
 
 === west ===
 Using normal formatting.
@@ -11977,7 +13510,14 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> Forest                                           Score: 0        Moves: 1
+
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be
+sunlight.
+You hear in the distance the chirping of a song bird.
+
+>
 
 === what ===
 Using normal formatting.
@@ -11994,7 +13534,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to what?
+
+>
 
 === whats ===
 Using normal formatting.
@@ -12011,7 +13553,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to whats?
+
+>
 
 === where ===
 Using normal formatting.
@@ -12028,7 +13572,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>That question can't be answered.
+
+>
 
 === white ===
 Using normal formatting.
@@ -12045,7 +13591,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "white" in a way that I don't understand.
+
+>
 
 === win ===
 Using normal formatting.
@@ -12062,7 +13610,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Naturally!
+
+>
 
 === wind ===
 Using normal formatting.
@@ -12079,7 +13631,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to wind?
+
+>
 
 === windin ===
 Using normal formatting.
@@ -12096,7 +13650,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "windin" in a way that I don't understand.
+
+>
 
 === window ===
 Using normal formatting.
@@ -12113,7 +13669,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === winnag ===
 Using normal formatting.
@@ -12130,7 +13688,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Naturally!
+
+>
 
 === wish ===
 Using normal formatting.
@@ -12147,7 +13709,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+With luck, your wish will come true.
+
+>
 
 === with ===
 Using normal formatting.
@@ -12164,7 +13730,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === wooden ===
 Using normal formatting.
@@ -12181,7 +13749,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "wooden" in a way that I don't understand.
+
+>
 
 === wrench ===
 Using normal formatting.
@@ -12198,7 +13768,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === writin ===
 Using normal formatting.
@@ -12215,7 +13787,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === xyzzy ===
 Using normal formatting.
@@ -12232,7 +13806,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+A hollow voice says "Fool."
+
+>
 
 === y ===
 Using normal formatting.
@@ -12249,7 +13827,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === yank ===
 Using normal formatting.
@@ -12266,7 +13846,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>What do you want to yank?
+
+>
 
 === yell ===
 Using normal formatting.
@@ -12283,7 +13865,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+Aaaarrrrgggghhhh!
+
+>
 
 === yellow ===
 Using normal formatting.
@@ -12300,7 +13886,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>You used the word "yellow" in a way that I don't understand.
+
+>
 
 === yes ===
 Using normal formatting.
@@ -12317,7 +13905,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === z ===
 Using normal formatting.
@@ -12334,7 +13924,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 3
+
+Time passes...
+
+>
 
 === zork ===
 Using normal formatting.
@@ -12351,7 +13945,11 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+> West of House                                    Score: 0        Moves: 1
+
+At your service!
+
+>
 
 === zorkmi ===
 Using normal formatting.
@@ -12368,7 +13966,9 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 
 === zzmgck ===
 Using normal formatting.
@@ -12385,5 +13985,7 @@ You are standing in an open field west of a white house, with a boarded front
 door.
 There is a small mailbox here.
 
->ERROR: Unable to connect to server
+>There was no verb in that sentence!
+
+>
 

@@ -127,7 +127,7 @@ def run_dfrotz_proxy(
 
             _log_line(session_log, f"[INPUT] {raw}")
             _log_line(session_log, server_line)
-            # print(server_line)
+            print(server_line)
 
             final_tokens = result.matched_tokens
             if status == "correct" and result.verb_found and result.verb_matched:

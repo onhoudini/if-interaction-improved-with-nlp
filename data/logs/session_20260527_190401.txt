@@ -1,0 +1,100 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260527_190401
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] fighting
+[SERVER] [CORRECAO] 'fighting' 'fighting' -> 'fight' cmd='fighting' score=0.91
+[GAME] >What do you want to fight?
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] >What do you want to fight the myself with?
+[GAME] 
+[INPUT] nothing
+[SERVER] [OK] 'nothing' verbo='' score=0.00
+[GAME] >I don't know the word "nothing".
+[GAME] 
+[INPUT] ok
+[SERVER] [OK] 'ok' verbo='' score=0.00
+[GAME] >I don't know the word "ok".
+[GAME] 
+[INPUT] okay
+[SERVER] [SUGESTAO] 'okay' 'okay' -> 'rocky' score=0.67
+[GAME] < Perhaps, do you mean 'rocky'?
+[GAME] >I don't know the word "okay".
+[GAME] 
+[INPUT] punch
+[SERVER] [SUGESTAO] 'punch' 'punch' -> 'plug' score=0.78
+[GAME] < Perhaps, do you mean 'plug'?
+[GAME] >I don't know the word "punch".
+[GAME] 
+[INPUT] punching
+[SERVER] [SUGESTAO] 'punching' 'punching' -> 'plug' score=0.80
+[GAME] >I don't know the word "punching".
+[GAME] < Perhaps, do you mean 'plug'?
+[GAME] 
+[INPUT] fighting
+[SERVER] [CORRECAO] 'fighting' 'fighting' -> 'fight' cmd='fighting' score=0.91
+[GAME] >What do you want to fight?
+[GAME] 
+[INPUT] nothing
+[SERVER] [OK] 'nothing' verbo='' score=0.00
+[GAME] >I don't know the word "nothing".
+[GAME] 
+[INPUT] battle
+[SERVER] [IGNORA] 'battle' 'battle' -> 'boarde' score=0.50
+[GAME] >I don't know the word "battle".
+[GAME] 
+[INPUT] fight troll
+[SERVER] [OK] 'fight troll' verbo='fight' score=1.00
+[GAME] >What do you want to fight the troll with?
+[GAME] 
+[INPUT] nothing
+[SERVER] [OK] 'nothing' verbo='' score=0.00
+[GAME] >I don't know the word "nothing".
+[GAME] 
+[INPUT] exit
+[SERVER] [OK] 'exit' verbo='exit' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] You can't go that way.
+[GAME] 
+[INPUT] quit
+[SERVER] [OK] 'quit' verbo='quit' score=1.00
+[GAME] >Your score is 0 (total of 350 points), in 1 move.
+[GAME] This gives you the rank of Beginner.
+[INPUT] ok
+[SERVER] [OK] 'ok' verbo='' score=0.00
+[GAME] Do you wish to leave the game? (Y is affirmative): >Ok.
+[GAME] 
+[INPUT] n
+[SERVER] [OK] 'n' verbo='n' score=1.00
+[GAME] > North of House                                   Score: 0        Moves: 2
+[GAME] 
+[GAME] North of House
+[GAME] You are facing the north side of a white house. There is no door here, and all
+[GAME] the windows are boarded up. To the north a narrow path winds through the trees.
+[GAME] 
+[INPUT] quitting
+[SERVER] [SUGESTAO] 'quitting' 'quitting' -> 'quit' score=0.87
+[GAME] >I don't know the word "quitting".
+[GAME] < Perhaps, do you mean 'quit'?
+[GAME] 
+[INPUT] yes
+[SERVER] [OK] 'yes' verbo='' score=0.00
+[GAME] >There was no verb in that sentence!
+[GAME] 
+[GAME] >

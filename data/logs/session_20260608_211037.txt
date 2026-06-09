@@ -1,0 +1,505 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260608_211037
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] unlock mailbox
+[SERVER] [OK] 'unlock mailbox' verbo='unlock' score=1.00
+[GAME] >What do you want to unlock the mailbox with?
+[GAME] 
+[INPUT] hands
+[SERVER] [OK] 'hands' verbo='hands' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] It doesn't seem to work.
+[GAME] 
+[INPUT] unseal mailbox
+[SERVER] [SUGESTAO] 'unseal mailbox' 'unseal' -> 'useles' score=0.67
+[GAME] < Perhaps, do you mean 'useles'?
+[GAME] >I don't know the word "unseal".
+[GAME] 
+[INPUT] uncover mailbox
+[SERVER] [SUGESTAO] 'uncover mailbox' 'uncover' -> 'cover' score=0.63
+[GAME] < Perhaps, do you mean 'cover'?
+[GAME] >I don't know the word "uncover".
+[GAME] 
+[INPUT] open mailbox
+[SERVER] [OK] 'open mailbox' verbo='open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] scan leaflet
+[SERVER] [SUGESTAO] 'scan leaflet' 'scan' -> 'skim' score=0.70
+[GAME] < Perhaps, do you mean 'skim'?
+[GAME] >I don't know the word "scan".
+[GAME] 
+[INPUT] peruse leaflet
+[SERVER] [SUGESTAO] 'peruse leaflet' 'peruse' -> 'encrus' score=0.67
+[GAME] < Perhaps, do you mean 'encrus'?
+[GAME] >I don't know the word "peruse".
+[GAME] 
+[INPUT] study leaflet
+[SERVER] [SUGESTAO] 'study leaflet' 'study' -> 'read' score=0.69
+[GAME] < Perhaps, do you mean 'read'?
+[GAME] >I don't know the word "study".
+[GAME] 
+[INPUT] read leaflet
+[SERVER] [OK] 'read leaflet' verbo='read' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 3
+[GAME] 
+[GAME] (Taken)
+[GAME] "WELCOME TO ZORK!
+[GAME] 
+[GAME] ZORK is a game of adventure, danger, and low cunning. In it you will explore
+[GAME] some of the most amazing territory ever seen by mortals. No computer should be
+[GAME] without one!"
+[GAME] 
+[INPUT] release leaflet
+[SERVER] [CORRECAO] 'release leaflet' 'release' -> 'releas' cmd='release leaflet' score=0.92
+[GAME] > West of House                                    Score: 0        Moves: 4
+[GAME] 
+[GAME] Dropped.
+[GAME] 
+[INPUT] take leaflet
+[SERVER] [OK] 'take leaflet' verbo='take' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 5
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] discard leaflet
+[SERVER] [SUGESTAO] 'discard leaflet' 'discard' -> 'toss' score=0.67
+[GAME] >I don't know the word "discard".
+[GAME] < Perhaps, do you mean 'toss'?
+[GAME] 
+[INPUT] abandon leaflet
+[SERVER] [SUGESTAO] 'abandon leaflet' 'abandon' -> 'brandi' score=0.62
+[GAME] >I don't know the word "abandon".
+[GAME] < Perhaps, do you mean 'brandi'?
+[GAME] 
+[INPUT] drop leaflet
+[SERVER] [OK] 'drop leaflet' verbo='drop' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 6
+[GAME] 
+[GAME] Dropped.
+[GAME] 
+[INPUT] proceed south
+[SERVER] [OK] 'proceed south' verbo='south' score=1.00
+[GAME] > South of House                                   Score: 0        Moves: 7
+[GAME] 
+[GAME] South of House
+[GAME] You are facing the south side of a white house. There is no door here, and all
+[GAME] the windows are boarded.
+[GAME] 
+[INPUT] travel east
+[SERVER] [OK] 'travel east' verbo='east' score=1.00
+[GAME] >I don't know the word "travel".
+[GAME] 
+[INPUT] depart east
+[SERVER] [OK] 'depart east' verbo='east' score=1.00
+[GAME] >I don't know the word "depart".
+[GAME] 
+[INPUT] east
+[SERVER] [OK] 'east' verbo='east' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 8
+[GAME] 
+[GAME] Behind House
+[GAME] You are behind the white house. A path leads into the forest to the east. In one
+[GAME] corner of the house there is a small window which is slightly ajar.
+[GAME] 
+[INPUT] open window
+[SERVER] [OK] 'open window' verbo='open' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 9
+[GAME] 
+[GAME] With great effort, you open the window far enough to allow entry.
+[GAME] 
+[INPUT] access window
+[SERVER] [IGNORA] 'access window' 'access' -> 'brass' score=0.55
+[GAME] >I don't know the word "access".
+[GAME] 
+[INPUT] penetrate window
+[SERVER] [SUGESTAO] 'penetrate window' 'penetrate' -> 'enter' score=0.74
+[GAME] >I don't know the word "penetrate".
+[GAME] < Perhaps, do you mean 'enter'?
+[GAME] 
+[INPUT] join window
+[SERVER] [SUGESTAO] 'join window' 'join' -> 'in' score=0.67
+[GAME] < Perhaps, do you mean 'in'?
+[GAME] >I don't know the word "join".
+[GAME] 
+[INPUT] enter window
+[SERVER] [OK] 'enter window' verbo='enter' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 10
+[GAME] 
+[GAME] Kitchen
+[GAME] You are in the kitchen of the white house. A table seems to have been used
+[GAME] recently for the preparation of food. A passage leads to the west and a dark
+[GAME] staircase can be seen leading upward. A dark chimney leads down and to the east
+[GAME] is a small window which is open.
+[GAME] On the table is an elongated brown sack, smelling of hot peppers.
+[GAME] A bottle is sitting on the table.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] go west
+[SERVER] [OK] 'go west' verbo='go' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 11
+[GAME] 
+[GAME] Living Room
+[GAME] You are in the living room. There is a doorway to the east, a wooden door with
+[GAME] strange gothic lettering to the west, which appears to be nailed shut, a trophy
+[GAME] case, and a large oriental rug in the center of the room.
+[GAME] Above the trophy case hangs an elvish sword of great antiquity.
+[GAME] A battery-powered brass lantern is on the trophy case.
+[GAME] 
+[INPUT] obtain lamp
+[SERVER] [SUGESTAO] 'obtain lamp' 'obtain' -> 'find' score=0.76
+[GAME] < Perhaps, do you mean 'find'?
+[GAME] >I don't know the word "obtain".
+[GAME] 
+[INPUT] seize lamp
+[SERVER] [SUGESTAO] 'seize lamp' 'seize' -> 'grab' score=0.60
+[GAME] < Perhaps, do you mean 'grab'?
+[GAME] >I don't know the word "seize".
+[GAME] 
+[INPUT] grab lamp
+[SERVER] [OK] 'grab lamp' verbo='grab' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 12
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] take lamp
+[SERVER] [OK] 'take lamp' verbo='take' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 13
+[GAME] 
+[GAME] You already have that!
+[GAME] 
+[INPUT] transfer lug
+[SERVER] [SUGESTAO] 'transfer lug' 'transfer' -> 'remove' score=0.71
+[GAME] >I don't know the word "transfer".
+[GAME] < Perhaps, do you mean 'remove'?
+[GAME] 
+[INPUT] relocate lug
+[SERVER] [IGNORA] 'relocate lug' 'relocate' -> 'deflat' score=0.57
+[GAME] >I don't know the word "relocate".
+[GAME] 
+[INPUT] shift lug
+[SERVER] [SUGESTAO] 'shift lug' 'shift' -> 'switch' score=0.75
+[GAME] >I don't know the word "shift".
+[GAME] < Perhaps, do you mean 'switch'?
+[GAME] 
+[INPUT] remove lug
+[SERVER] [OK] 'remove lug' verbo='remove' score=1.00
+[GAME] >I don't know the word "lug".
+[GAME] 
+[INPUT] relocate rug
+[SERVER] [IGNORA] 'relocate rug' 'relocate' -> 'deflat' score=0.57
+[GAME] >I don't know the word "relocate".
+[GAME] 
+[INPUT] shift rug
+[SERVER] [SUGESTAO] 'shift rug' 'shift' -> 'switch' score=0.75
+[GAME] < Perhaps, do you mean 'switch'?
+[GAME] >I don't know the word "shift".
+[GAME] 
+[INPUT] move rug
+[SERVER] [OK] 'move rug' verbo='move' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 14
+[GAME] 
+[GAME] With a great effort, the rug is moved to one side of the room, revealing the
+[GAME] dusty cover of a closed trap door.
+[GAME] 
+[INPUT] open trap door
+[SERVER] [OK] 'open trap door' verbo='open' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 15
+[GAME] 
+[GAME] The door reluctantly opens to reveal a rickety staircase descending into
+[GAME] darkness.
+[GAME] 
+[INPUT] switch on lamp
+[SERVER] [OK] 'switch on lamp' verbo='switch' score=1.00
+[GAME] >There was no verb in that sentence!
+[GAME] 
+[INPUT] enable lamp
+[SERVER] [IGNORA] 'enable lamp' 'enable' -> 'jewele' score=0.50
+[GAME] >I don't know the word "enable".
+[GAME] 
+[INPUT] activate lamp
+[SERVER] [SUGESTAO] 'activate lamp' 'activate' -> 'activa' score=0.86
+[GAME] > Living Room                                      Score: 10       Moves: 16
+[GAME] < Perhaps, do you mean 'activa'?
+[GAME] 
+[GAME] The brass lantern is now on.
+[GAME] 
+[INPUT] go down
+[SERVER] [OK] 'go down' verbo='go' score=1.00
+[GAME] > Cellar                                           Score: 35       Moves: 17
+[GAME] 
+[GAME] The trap door crashes shut, and you hear someone barring it.
+[GAME] 
+[GAME] Cellar
+[GAME] You are in a dark and damp cellar with a narrow passageway leading north, and a
+[GAME] crawlway to the south. On the west is the bottom of a steep metal ramp which is
+[GAME] unclimbable.
+[GAME] 
+[INPUT] go south
+[SERVER] [OK] 'go south' verbo='go' score=1.00
+[GAME] > East of Chasm                                    Score: 35       Moves: 18
+[GAME] 
+[GAME] East of Chasm
+[GAME] You are on the east edge of a chasm, the bottom of which cannot be seen. A
+[GAME] narrow passage goes north, and the path you are on continues to the east.
+[GAME] 
+[INPUT] go east
+[SERVER] [OK] 'go east' verbo='go' score=1.00
+[GAME] > Gallery                                          Score: 35       Moves: 19
+[GAME] 
+[GAME] Gallery
+[GAME] This is an art gallery. Most of the paintings have been stolen by vandals with
+[GAME] exceptional taste. The vandals left through either the north or west exits.
+[GAME] Fortunately, there is still one chance for you to be a vandal, for on the far
+[GAME] wall is a painting of unparalleled beauty.
+[GAME] 
+[INPUT] grab painting
+[SERVER] [OK] 'grab painting' verbo='grab' score=1.00
+[GAME] > Gallery                                          Score: 39       Moves: 20
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] go north
+[SERVER] [OK] 'go north' verbo='go' score=1.00
+[GAME] > Studio                                           Score: 39       Moves: 21
+[GAME] 
+[GAME] Studio
+[GAME] This appears to have been an artist's studio. The walls and floors are
+[GAME] splattered with paints of 69 different colors. Strangely enough, nothing of
+[GAME] value is hanging here. At the south end of the room is an open door (also
+[GAME] covered with paint). A dark and narrow chimney leads up from a fireplace;
+[GAME] although you might be able to get up it, it seems unlikely you could get back
+[GAME] down.
+[GAME] Loosely attached to a wall is a small piece of paper.
+[GAME] 
+[INPUT] go up
+[SERVER] [OK] 'go up' verbo='go' score=1.00
+[GAME] > Kitchen                                          Score: 39       Moves: 22
+[GAME] 
+[GAME] Kitchen
+[GAME] On the table is an elongated brown sack, smelling of hot peppers.
+[GAME] A bottle is sitting on the table.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] go up
+[SERVER] [OK] 'go up' verbo='go' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 23
+[GAME] 
+[GAME] Attic
+[GAME] This is the attic. The only exit is a stairway leading down.
+[GAME] A large coil of rope is lying in the corner.
+[GAME] On a table is a nasty-looking knife.
+[GAME] 
+[INPUT] grab knife
+[SERVER] [OK] 'grab knife' verbo='grab' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 24
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] grab rope
+[SERVER] [OK] 'grab rope' verbo='grab' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 25
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] drop rope
+[SERVER] [OK] 'drop rope' verbo='drop' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 26
+[GAME] 
+[GAME] Dropped.
+[GAME] 
+[INPUT] acquire knife
+[SERVER] [OK] 'acquire knife' verbo='knife' score=1.00
+[GAME] >I don't know the word "acquire".
+[GAME] 
+[INPUT] collect knife
+[SERVER] [OK] 'collect knife' verbo='knife' score=1.00
+[GAME] >I don't know the word "collect".
+[GAME] 
+[INPUT] pick up knife
+[SERVER] [OK] 'pick up knife' verbo='pick' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 27
+[GAME] 
+[GAME] You already have that!
+[GAME] 
+[INPUT] pick up rope
+[SERVER] [OK] 'pick up rope' verbo='pick' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 28
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] drop knife
+[SERVER] [OK] 'drop knife' verbo='drop' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 29
+[GAME] 
+[GAME] Dropped.
+[GAME] 
+[INPUT] capture knife
+[SERVER] [OK] 'capture knife' verbo='knife' score=1.00
+[GAME] >I don't know the word "capture".
+[GAME] 
+[INPUT] receive knife
+[SERVER] [OK] 'receive knife' verbo='knife' score=1.00
+[GAME] >I don't know the word "receive".
+[GAME] 
+[INPUT] take rope
+[SERVER] [OK] 'take rope' verbo='take' score=1.00
+[GAME] > Attic                                            Score: 39       Moves: 30
+[GAME] 
+[GAME] You already have that!
+[GAME] 
+[INPUT] go down
+[SERVER] [OK] 'go down' verbo='go' score=1.00
+[GAME] > Kitchen                                          Score: 39       Moves: 31
+[GAME] 
+[GAME] Kitchen
+[GAME] On the table is an elongated brown sack, smelling of hot peppers.
+[GAME] A bottle is sitting on the table.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] go west
+[SERVER] [OK] 'go west' verbo='go' score=1.00
+[GAME] > Living Room                                      Score: 39       Moves: 32
+[GAME] 
+[GAME] Living Room
+[GAME] Above the trophy case hangs an elvish sword of great antiquity.
+[GAME] 
+[INPUT] open case
+[SERVER] [OK] 'open case' verbo='open' score=1.00
+[GAME] > Living Room                                      Score: 39       Moves: 33
+[GAME] 
+[GAME] Opened.
+[GAME] 
+[INPUT] position painting inside case
+[SERVER] [OK] 'position painting inside case' verbo='inside' score=1.00
+[GAME] >I don't know the word "position".
+[GAME] 
+[INPUT] set painting inside case
+[SERVER] [OK] 'set painting inside case' verbo='set' score=1.00
+[GAME] >That sentence isn't one I recognize.
+[GAME] 
+[INPUT] place painting inside case
+[SERVER] [OK] 'place painting inside case' verbo='place' score=1.00
+[GAME] > Living Room                                      Score: 45       Moves: 34
+[GAME] 
+[GAME] Done.
+[GAME] 
+[INPUT] drop knife
+[SERVER] [OK] 'drop knife' verbo='drop' score=1.00
+[GAME] >You don't have that!
+[GAME] 
+[INPUT] get sword
+[SERVER] [OK] 'get sword' verbo='get' score=1.00
+[GAME] > Living Room                                      Score: 45       Moves: 35
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] open trap door
+[SERVER] [OK] 'open trap door' verbo='open' score=1.00
+[GAME] > Living Room                                      Score: 45       Moves: 36
+[GAME] 
+[GAME] The door reluctantly opens to reveal a rickety staircase descending into
+[GAME] darkness.
+[GAME] 
+[INPUT] go down
+[SERVER] [OK] 'go down' verbo='go' score=1.00
+[GAME] > Cellar                                           Score: 45       Moves: 37
+[GAME] 
+[GAME] The trap door crashes shut, and you hear someone barring it.
+[GAME] 
+[GAME] Cellar
+[GAME] Your sword is glowing with a faint blue glow.
+[GAME] 
+[INPUT] go south
+[SERVER] [OK] 'go south' verbo='go' score=1.00
+[GAME] > East of Chasm                                    Score: 45       Moves: 38
+[GAME] 
+[GAME] East of Chasm
+[GAME] Your sword is no longer glowing.
+[GAME] 
+[INPUT] destroy troll
+[SERVER] [OK] 'destroy troll' verbo='troll' score=1.00
+[GAME] >What do you want to destroy the troll with?
+[GAME] 
+[INPUT] sword
+[SERVER] [OK] 'sword' verbo='' score=0.00
+[GAME] > East of Chasm                                    Score: 45       Moves: 39
+[GAME] 
+[GAME] You can't see any troll here!
+[GAME] 
+[INPUT] go north
+[SERVER] [OK] 'go north' verbo='go' score=1.00
+[GAME] > Cellar                                           Score: 45       Moves: 40
+[GAME] 
+[GAME] Cellar
+[GAME] Your sword is glowing with a faint blue glow.
+[GAME] 
+[INPUT] go north
+[SERVER] [OK] 'go north' verbo='go' score=1.00
+[GAME] > The Troll Room                                   Score: 45       Moves: 41
+[GAME] 
+[GAME] The Troll Room
+[GAME] This is a small room with passages to the east and south and a forbidding hole
+[GAME] leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+[GAME] walls.
+[GAME] A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+[GAME] room.
+[GAME] Your sword has begun to glow very brightly.
+[GAME] 
+[INPUT] eliminate troll
+[SERVER] [OK] 'eliminate troll' verbo='troll' score=1.00
+[GAME] >I don't know the word "eliminate".
+[GAME] 
+[INPUT] attack troll
+[SERVER] [OK] 'attack troll' verbo='attack' score=1.00
+[GAME] > The Troll Room                                   Score: 45       Moves: 42
+[GAME] 
+[GAME] (with the sword)
+[GAME] A quick stroke, but the troll is on guard.
+[GAME] The troll swings his axe, but it misses.
+[GAME] 
+[INPUT] slay troll
+[SERVER] [OK] 'slay troll' verbo='slay' score=1.00
+[GAME] > The Troll Room                                   Score: 45       Moves: 43
+[GAME] 
+[GAME] (with the sword)
+[GAME] A good stroke, but it's too slow; the troll dodges.
+[GAME] The axe knocks your sword out of your hand. It falls to the floor.
+[GAME] 
+[INPUT] strike troll
+[SERVER] [OK] 'strike troll' verbo='strike' score=1.00
+[GAME] > The Troll Room                                   Score: 45       Moves: 44
+[GAME] 
+[GAME] Since you aren't versed in hand-to-hand combat, you'd better attack the troll
+[GAME] with a weapon.
+[GAME] You stagger back under a hail of axe strokes.
+[GAME] 
+[INPUT] assault troll
+[SERVER] [OK] 'assault troll' verbo='troll' score=1.00
+[GAME] >I don't know the word "assault".
+[GAME] 
+[INPUT] offense troll
+[SERVER] [OK] 'offense troll' verbo='troll' score=1.00
+[GAME] >I don't know the word "offense".
+[GAME] 
+[GAME] >

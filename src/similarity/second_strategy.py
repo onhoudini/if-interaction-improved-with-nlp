@@ -1,4 +1,5 @@
 # Word2Vec
+# Atualmente sem uso
 from __future__ import annotations
 
 from difflib import SequenceMatcher

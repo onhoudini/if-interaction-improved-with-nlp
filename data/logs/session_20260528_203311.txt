@@ -1,0 +1,52 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260528_203311
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] unclose mailbox
+[SERVER] [OK] 'unclose mailbox' verbo='' score=0.00
+[GAME] >I don't know the word "unclose".
+[GAME] 
+[INPUT] reveal mailbox
+[SERVER] [SUGESTAO] 'reveal mailbox' 'reveal' -> 'break' score=0.82
+[GAME] < Perhaps, do you mean 'break'?
+[GAME] >I don't know the word "reveal".
+[GAME] 
+[INPUT] reveal area
+[SERVER] [SUGESTAO] 'reveal area' 'reveal' -> 'break' score=0.82
+[GAME] >I don't know the word "reveal".
+[GAME] < Perhaps, do you mean 'break'?
+[GAME] 
+[INPUT] gaze
+[SERVER] [OK] 'gaze' verbo='gaze' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] expose
+[SERVER] [SUGESTAO] 'expose' 'expose' -> 'break' score=0.67
+[GAME] >I don't know the word "expose".
+[GAME] < Perhaps, do you mean 'break'?
+[GAME] 
+[INPUT] open box
+[SERVER] [OK] 'open box' verbo='open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[GAME] >

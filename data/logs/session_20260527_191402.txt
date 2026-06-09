@@ -1,0 +1,75 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260527_191402
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] open mailbox
+[SERVER] [OK] 'open mailbox' verbo='open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] punch
+[SERVER] [SUGESTAO] 'punch' 'punch' -> 'plug' score=0.78
+[GAME] < Perhaps, do you mean 'plug'?
+[GAME] >I don't know the word "punch".
+[GAME] 
+[INPUT] plugging
+[SERVER] [SUGESTAO] 'plugging' 'plugging' -> 'plug' score=0.87
+[GAME] < Perhaps, do you mean 'plug'?
+[GAME] >I don't know the word "plugging".
+[GAME] 
+[INPUT] fightt
+[SERVER] [OK] 'fightt' verbo='' score=0.00
+[GAME] >I don't know the word "fightt".
+[GAME] 
+[INPUT] faight
+[SERVER] [OK] 'faight' verbo='' score=0.00
+[GAME] >I don't know the word "faight".
+[GAME] 
+[INPUT] figthhh
+[SERVER] [OK] 'figthhh' verbo='' score=0.00
+[GAME] >I don't know the word "figthhh".
+[GAME] 
+[INPUT] i want to fight
+[SERVER] [OK] 'i want to fight' verbo='i' score=1.00
+[GAME] >I don't know the word "want".
+[GAME] 
+[INPUT] i
+[SERVER] [OK] 'i' verbo='i' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] You are empty-handed.
+[GAME] 
+[INPUT] me
+[SERVER] [OK] 'me' verbo='' score=0.00
+[GAME] >There was no verb in that sentence!
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] >There was no verb in that sentence!
+[GAME] 
+[INPUT] pray
+[SERVER] [OK] 'pray' verbo='pray' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 3
+[GAME] 
+[GAME] If you pray enough, your prayers may be answered.
+[GAME] 
+[INPUT] xyzzy
+[SERVER] [OK] 'xyzzy' verbo='xyzzy' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 4
+[GAME] 
+[GAME] A hollow voice says "Fool."
+[GAME] 
