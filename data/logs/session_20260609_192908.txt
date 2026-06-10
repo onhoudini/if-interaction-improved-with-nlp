@@ -1,0 +1,63 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_192908
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] opening mailbox
+[SERVER] [IGNORA] 'opening mailbox' 'opening' -> 'open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] looking leaflet
+[SERVER] [IGNORA] 'looking leaflet' 'looking' -> 'see' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] It's in the small mailbox.
+[GAME] 
+[INPUT] grab leaflet
+[SERVER] [OK] 'grab leaflet' verbo='grab' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 3
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] reading leaflet
+[SERVER] [IGNORA] 'reading leaflet' 'reading' -> 'take' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 4
+[GAME] 
+[GAME] You already have that!
+[GAME] 
+[INPUT] peruse leaflet
+[SERVER] [SUGESTAO] 'peruse leaflet' 'peruse' -> 'flip' score=0.80
+[GAME] >What do you want to flip the leaflet with?
+[GAME] < Perhaps, do you mean 'flip'?
+[GAME] 
+[INPUT] forget
+[SERVER] [IGNORA] 'forget' 'forget' -> 'leave' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 5
+[GAME] 
+[GAME] You can't go that way.
+[GAME] 
+[INPUT] call leaflet
+[SERVER] [IGNORA] 'call leaflet' 'call' -> 'shout' score=1.00
+[GAME] >That sentence isn't one I recognize.
+[GAME] 
+[INPUT] study leaflet
+[SERVER] [IGNORA] 'study leaflet' 'study' -> 'take' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 6
+[GAME] 
+[GAME] You already have that!
+[GAME] 
+[GAME] >

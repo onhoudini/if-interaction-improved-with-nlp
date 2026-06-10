@@ -1,0 +1,74 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_190926
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] sleeping
+[SERVER] [IGNORA] 'sleeping' 'sleeping' -> '' score=0.00
+[GAME] >I don't know the word "sleeping".
+[GAME] 
+[INPUT] sleep
+[SERVER] [IGNORA] 'sleep' 'sleep' -> '' score=0.00
+[GAME] >I don't know the word "sleep".
+[GAME] 
+[INPUT] looking
+[SERVER] [IGNORA] 'looking' 'looking' -> 'count' score=1.00
+[GAME] >I don't know the word "looking".
+[GAME] 
+[INPUT] counting
+[SERVER] [IGNORA] 'counting' 'counting' -> 'count' score=1.00
+[GAME] >I don't know the word "counting".
+[GAME] 
+[INPUT] opening door
+[SERVER] [IGNORA] 'opening door' 'opening' -> 'give' score=1.00
+[GAME] >I don't know the word "opening".
+[GAME] 
+[INPUT] opened door
+[SERVER] [IGNORA] 'opened door' 'opened' -> 'give' score=1.00
+[GAME] >I don't know the word "opened".
+[GAME] 
+[INPUT] open mailbox
+[SERVER] [OK] 'open mailbox' verbo='open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] study leaflet
+[SERVER] [IGNORA] 'study leaflet' 'study' -> 'take' score=1.00
+[GAME] >I don't know the word "study".
+[GAME] 
+[INPUT] burn leaflet
+[SERVER] [OK] 'burn leaflet' verbo='burn' score=1.00
+[GAME] >What do you want to burn the leaflet with?
+[GAME] 
+[INPUT] knife
+[SERVER] [IGNORA] 'knife' 'knife' -> 'stab' score=1.00
+[GAME] >You don't have that!
+[GAME] 
+[INPUT] stab
+[SERVER] [OK] 'stab' verbo='stab' score=1.00
+[GAME] >What do you want to stab?
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] No doubt you propose to stab the you with your pinky?
+[GAME] 
+[INPUT] yes
+[SERVER] [OK] 'yes' verbo='' score=0.00
+[GAME] >There was no verb in that sentence!
+[GAME] 
+[GAME] >

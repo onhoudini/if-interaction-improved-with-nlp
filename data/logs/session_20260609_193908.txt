@@ -1,0 +1,124 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_193908
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] opening door
+[SERVER] [IGNORA] 'opening door' 'opening' -> 'open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] The door cannot be opened.
+[GAME] 
+[INPUT] opening mailbox
+[SERVER] [IGNORA] 'opening mailbox' 'opening' -> 'open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] taking leaflet
+[SERVER] [IGNORA] 'taking leaflet' 'taking' -> 'strike' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 3
+[GAME] 
+[GAME] You can't turn that on.
+[GAME] 
+[INPUT] go north
+[SERVER] [OK] 'go north' verbo='go' score=1.00
+[GAME] > North of House                                   Score: 0        Moves: 4
+[GAME] 
+[GAME] North of House
+[GAME] You are facing the north side of a white house. There is no door here, and all
+[GAME] the windows are boarded up. To the north a narrow path winds through the trees.
+[GAME] 
+[INPUT] go east
+[SERVER] [OK] 'go east' verbo='go' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 5
+[GAME] 
+[GAME] Behind House
+[GAME] You are behind the white house. A path leads into the forest to the east. In one
+[GAME] corner of the house there is a small window which is slightly ajar.
+[GAME] 
+[INPUT] opening window
+[SERVER] [IGNORA] 'opening window' 'opening' -> 'open' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 6
+[GAME] 
+[GAME] With great effort, you open the window far enough to allow entry.
+[GAME] 
+[INPUT] entry house
+[SERVER] [IGNORA] 'entry house' 'entry' -> 'enter' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 7
+[GAME] 
+[GAME] Kitchen
+[GAME] You are in the kitchen of the white house. A table seems to have been used
+[GAME] recently for the preparation of food. A passage leads to the west and a dark
+[GAME] staircase can be seen leading upward. A dark chimney leads down and to the east
+[GAME] is a small window which is open.
+[GAME] On the table is an elongated brown sack, smelling of hot peppers.
+[GAME] A bottle is sitting on the table.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] go east
+[SERVER] [OK] 'go east' verbo='go' score=1.00
+[GAME] > Behind House                                     Score: 10       Moves: 8
+[GAME] 
+[GAME] Behind House
+[GAME] 
+[INPUT] inside house
+[SERVER] [OK] 'inside house' verbo='inside' score=1.00
+[GAME] >There was no verb in that sentence!
+[GAME] 
+[INPUT] entry house
+[SERVER] [IGNORA] 'entry house' 'entry' -> 'enter' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 9
+[GAME] 
+[GAME] Kitchen
+[GAME] On the table is an elongated brown sack, smelling of hot peppers.
+[GAME] A bottle is sitting on the table.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] seize water
+[SERVER] [IGNORA] 'seize water' 'seize' -> 'attach' score=1.00
+[GAME] >What do you want to attach the water to?
+[GAME] 
+[INPUT] backpack
+[SERVER] [SUGESTAO] 'backpack' 'backpack' -> 'walk' score=0.67
+[GAME] < Perhaps, do you mean 'walk'?
+[GAME] >What do you want to walk?
+[GAME] 
+[INPUT] home
+[SERVER] [SUGESTAO] 'home' 'home' -> 'offer' score=0.60
+[GAME] < Perhaps, do you mean 'offer'?
+[GAME] >What do you want to offer?
+[GAME] 
+[INPUT] no
+[SERVER] [OK] 'no' verbo='' score=0.00
+[GAME] >What do you want to offer?
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] >What do you want to offer the myself to?
+[GAME] 
+[INPUT] you
+[SERVER] [OK] 'you' verbo='' score=0.00
+[GAME] >I don't know the word "you".
+[GAME] 
+[INPUT] ok
+[SERVER] [CORRECAO] 'ok' 'ok' -> 'back' cmd='back' score=0.92
+[GAME] > Kitchen                                          Score: 10       Moves: 10
+[GAME] 
+[GAME] Sorry, my memory is poor. Please give a direction.
+[GAME] 
+[GAME] >

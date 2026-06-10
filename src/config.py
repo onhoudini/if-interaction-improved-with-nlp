@@ -10,7 +10,7 @@ SERVER_PORT = 2300
 
 # -- Similarity Config -- 
 THRESHOLD_SUGGESTION   = 0.60
-THRESHOLD_AUTO_CORRECT = 0.90
+THRESHOLD_AUTO_CORRECT = 0.89
 
 # -- Game address --
 PROJECT_ROOT = Path(__file__).resolve().parents[1]

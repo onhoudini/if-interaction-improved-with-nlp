@@ -1,0 +1,84 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_192317
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] opening mailbox
+[SERVER] [IGNORA] 'opening mailbox' 'opening' -> 'open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] reading leaflet
+[SERVER] [IGNORA] 'reading leaflet' 'reading' -> 'take' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] study leaflet
+[SERVER] [IGNORA] 'study leaflet' 'study' -> 'take' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 3
+[GAME] 
+[GAME] You already have that!
+[GAME] 
+[INPUT] interpret leaflet
+[SERVER] [IGNORA] 'interpret leaflet' 'interpret' -> 'see' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 4
+[GAME] 
+[GAME] You have it.
+[GAME] 
+[INPUT] look leaflet
+[SERVER] [OK] 'look leaflet' verbo='look' score=1.00
+[GAME] >That sentence isn't one I recognize.
+[GAME] 
+[INPUT] see leaflet
+[SERVER] [OK] 'see leaflet' verbo='see' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 5
+[GAME] 
+[GAME] You have it.
+[GAME] 
+[INPUT] search leaflet
+[SERVER] [OK] 'search leaflet' verbo='search' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 6
+[GAME] 
+[GAME] You find nothing unusual.
+[GAME] 
+[INPUT] gaze leaflet
+[SERVER] [OK] 'gaze leaflet' verbo='gaze' score=1.00
+[GAME] >That sentence isn't one I recognize.
+[GAME] 
+[INPUT] peruse leaflet
+[SERVER] [SUGESTAO] 'peruse leaflet' 'peruse' -> 'flip' score=0.80
+[GAME] < Perhaps, do you mean 'flip'?
+[GAME] >What do you want to flip the leaflet with?
+[GAME] 
+[INPUT] hands
+[SERVER] [IGNORA] 'hands' 'hands' -> 'give' score=1.00
+[GAME] >What do you want to give?
+[GAME] 
+[INPUT] nothing
+[SERVER] [SUGESTAO] 'nothing' 'nothing' -> 'set' score=0.80
+[GAME] < Perhaps, do you mean 'set'?
+[GAME] >What do you want to set?
+[GAME] 
+[INPUT] stop
+[SERVER] [IGNORA] 'stop' 'stop' -> 'broken' score=1.00
+[GAME] >What do you want to set the broken with?
+[GAME] 
+[INPUT] STOP IT
+[SERVER] [IGNORA] 'STOP IT' 'stop' -> 'broken' score=1.00
+[GAME] >You don't have that!
+[GAME] 
+[GAME] >

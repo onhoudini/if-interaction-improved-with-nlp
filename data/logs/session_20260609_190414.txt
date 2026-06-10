@@ -1,0 +1,56 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_190414
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] hi
+[SERVER] [OK] 'hi' verbo='hi' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Hello.
+[GAME] 
+[INPUT] open the door
+[SERVER] [OK] 'open the door' verbo='open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] The door cannot be opened.
+[GAME] 
+[INPUT] opening door
+[SERVER] [IGNORA] 'opening door' 'opening' -> 'give' score=1.00
+[GAME] >I don't know the word "opening".
+[GAME] 
+[INPUT] look door
+[SERVER] [OK] 'look door' verbo='look' score=1.00
+[GAME] >That sentence isn't one I recognize.
+[GAME] 
+[INPUT] release mailbox
+[SERVER] [IGNORA] 'release mailbox' 'release' -> 'free' score=1.00
+[GAME] >You don't have the small mailbox.
+[GAME] 
+[INPUT] unlock mailbox
+[SERVER] [OK] 'unlock mailbox' verbo='unlock' score=1.00
+[GAME] >What do you want to unlock the mailbox with?
+[GAME] 
+[INPUT] hands
+[SERVER] [IGNORA] 'hands' 'hands' -> 'hand' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 3
+[GAME] 
+[GAME] It doesn't seem to work.
+[GAME] 
+[INPUT] reveal
+[SERVER] [IGNORA] 'reveal' 'reveal' -> 'broken' score=1.00
+[GAME] >I don't know the word "reveal".
+[GAME] 
+[GAME] >

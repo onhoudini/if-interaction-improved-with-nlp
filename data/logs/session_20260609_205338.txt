@@ -1,0 +1,178 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_205338
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] spread mailbox
+[SERVER] [IGNORA] 'spread mailbox' 'spread' -> 'open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] peruse leaflet
+[SERVER] [SUGESTAO] 'peruse leaflet' 'peruse' -> 'flip' score=0.80
+[GAME] >What do you want to flip the leaflet with?
+[GAME] < Perhaps, do you mean 'flip'?
+[GAME] 
+[INPUT] hands
+[SERVER] [IGNORA] 'hands' 'hands' -> 'hand' score=1.00
+[GAME] >What do you want to hand?
+[GAME] 
+[INPUT] hand
+[SERVER] [OK] 'hand' verbo='hand' score=1.00
+[GAME] >What do you want to hand?
+[GAME] 
+[INPUT] you
+[SERVER] [OK] 'you' verbo='' score=0.00
+[GAME] >I don't know the word "you".
+[GAME] 
+[INPUT] examine leaflet
+[SERVER] [IGNORA] 'examine leaflet' 'examine' -> 'see' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] It's in the small mailbox.
+[GAME] 
+[INPUT] move south
+[SERVER] [OK] 'move south' verbo='move' score=1.00
+[GAME] >You used the word "south" in a way that I don't understand.
+[GAME] 
+[INPUT] go south
+[SERVER] [OK] 'go south' verbo='go' score=1.00
+[GAME] > South of House                                   Score: 0        Moves: 3
+[GAME] 
+[GAME] South of House
+[GAME] You are facing the south side of a white house. There is no door here, and all
+[GAME] the windows are boarded.
+[GAME] 
+[INPUT] go east
+[SERVER] [OK] 'go east' verbo='go' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 4
+[GAME] 
+[GAME] Behind House
+[GAME] You are behind the white house. A path leads into the forest to the east. In one
+[GAME] corner of the house there is a small window which is slightly ajar.
+[GAME] 
+[INPUT] spread window
+[SERVER] [IGNORA] 'spread window' 'spread' -> 'open' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 5
+[GAME] 
+[GAME] With great effort, you open the window far enough to allow entry.
+[GAME] 
+[INPUT] entry window
+[SERVER] [IGNORA] 'entry window' 'entry' -> 'enter' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 6
+[GAME] 
+[GAME] Kitchen
+[GAME] You are in the kitchen of the white house. A table seems to have been used
+[GAME] recently for the preparation of food. A passage leads to the west and a dark
+[GAME] staircase can be seen leading upward. A dark chimney leads down and to the east
+[GAME] is a small window which is open.
+[GAME] On the table is an elongated brown sack, smelling of hot peppers.
+[GAME] A bottle is sitting on the table.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] go west
+[SERVER] [OK] 'go west' verbo='go' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 7
+[GAME] 
+[GAME] Living Room
+[GAME] You are in the living room. There is a doorway to the east, a wooden door with
+[GAME] strange gothic lettering to the west, which appears to be nailed shut, a trophy
+[GAME] case, and a large oriental rug in the center of the room.
+[GAME] Above the trophy case hangs an elvish sword of great antiquity.
+[GAME] A battery-powered brass lantern is on the trophy case.
+[GAME] 
+[INPUT] seize lamp
+[SERVER] [IGNORA] 'seize lamp' 'seize' -> 'attach' score=1.00
+[GAME] >What do you want to attach the lamp to?
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] > Living Room                                      Score: 10       Moves: 8
+[GAME] 
+[GAME] You can't tie the brass lantern to that.
+[GAME] 
+[INPUT] hold lamp
+[SERVER] [OK] 'hold lamp' verbo='hold' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 9
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] leave lamp
+[SERVER] [OK] 'leave lamp' verbo='leave' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 10
+[GAME] 
+[GAME] Dropped.
+[GAME] 
+[INPUT] catch lamp
+[SERVER] [OK] 'catch lamp' verbo='catch' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 11
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] leave lamp
+[SERVER] [OK] 'leave lamp' verbo='leave' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 12
+[GAME] 
+[GAME] Dropped.
+[GAME] 
+[INPUT] grip lamp
+[SERVER] [SUGESTAO] 'grip lamp' 'grip' -> 'bite' score=0.86
+[GAME] < Perhaps, do you mean 'bite'?
+[GAME] > Living Room                                      Score: 10       Moves: 13
+[GAME] 
+[GAME] (Taken)
+[GAME] I don't think that the brass lantern would agree with you.
+[GAME] 
+[INPUT] bite lamp
+[SERVER] [OK] 'bite lamp' verbo='bite' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 14
+[GAME] 
+[GAME] I don't think that the brass lantern would agree with you.
+[GAME] 
+[INPUT] seize lamp
+[SERVER] [IGNORA] 'seize lamp' 'seize' -> 'attach' score=1.00
+[GAME] >What do you want to attach the lamp to?
+[GAME] 
+[INPUT] i don't
+[SERVER] [OK] 'i don't' verbo='i' score=1.00
+[GAME] >I don't know the word "don".
+[GAME] 
+[INPUT] pick lamp
+[SERVER] [OK] 'pick lamp' verbo='pick' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 15
+[GAME] 
+[GAME] You can't pick that.
+[GAME] 
+[INPUT] grasp lamp
+[SERVER] [IGNORA] 'grasp lamp' 'grasp' -> 'dig' score=1.00
+[GAME] >What do you want to dig the lamp with?
+[GAME] 
+[INPUT] no
+[SERVER] [OK] 'no' verbo='' score=0.00
+[GAME] > Living Room                                      Score: 10       Moves: 16
+[GAME] 
+[GAME] Digging with the pair of hands is slow and tedious.
+[GAME] 
+[INPUT] grapple lamp
+[SERVER] [SUGESTAO] 'grapple lamp' 'grapple' -> 'cut' score=0.80
+[GAME] < Perhaps, do you mean 'cut'?
+[GAME] > Living Room                                      Score: 10       Moves: 17
+[GAME] 
+[GAME] (with the sword)
+[GAME] Strange concept, cutting the brass lantern....
+[GAME] 
+[GAME] >

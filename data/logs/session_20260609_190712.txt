@@ -1,0 +1,58 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_190712
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] opening mailbox
+[SERVER] [IGNORA] 'opening mailbox' 'opening' -> 'open' score=1.00
+[GAME] >I don't know the word "opening".
+[GAME] 
+[INPUT] reveal
+[SERVER] [IGNORA] 'reveal' 'reveal' -> 'broken' score=1.00
+[GAME] >I don't know the word "reveal".
+[GAME] 
+[INPUT] look
+[SERVER] [OK] 'look' verbo='look' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] looking
+[SERVER] [IGNORA] 'looking' 'looking' -> 'wait' score=1.00
+[GAME] >I don't know the word "looking".
+[GAME] 
+[INPUT] sleep
+[SERVER] [SUGESTAO] 'sleep' 'sleep' -> 'seedy' score=0.60
+[GAME] < Perhaps, do you mean 'seedy'?
+[GAME] >I don't know the word "sleep".
+[GAME] 
+[INPUT] wake up
+[SERVER] [OK] 'wake up' verbo='wake' score=1.00
+[GAME] >What do you want to wake up?
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] He's wide awake, or haven't you noticed...
+[GAME] 
+[INPUT] notice
+[SERVER] [IGNORA] 'notice' 'notice' -> 'find' score=1.00
+[GAME] >I don't know the word "notice".
+[GAME] 
+[GAME] >

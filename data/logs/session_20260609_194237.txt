@@ -1,0 +1,327 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_194237
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] oopening mailbox
+[SERVER] [OK] 'oopening mailbox' verbo='' score=0.00
+[GAME] >I don't know the word "oopening".
+[GAME] 
+[INPUT] opening mailbox
+[SERVER] [IGNORA] 'opening mailbox' 'opening' -> 'open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] take leaflet
+[SERVER] [OK] 'take leaflet' verbo='take' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 2
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] go north
+[SERVER] [OK] 'go north' verbo='go' score=1.00
+[GAME] > North of House                                   Score: 0        Moves: 3
+[GAME] 
+[GAME] North of House
+[GAME] You are facing the north side of a white house. There is no door here, and all
+[GAME] the windows are boarded up. To the north a narrow path winds through the trees.
+[GAME] 
+[INPUT] go east
+[SERVER] [OK] 'go east' verbo='go' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 4
+[GAME] 
+[GAME] Behind House
+[GAME] You are behind the white house. A path leads into the forest to the east. In one
+[GAME] corner of the house there is a small window which is slightly ajar.
+[GAME] 
+[INPUT] spread window
+[SERVER] [IGNORA] 'spread window' 'spread' -> 'open' score=1.00
+[GAME] > Behind House                                     Score: 0        Moves: 5
+[GAME] 
+[GAME] With great effort, you open the window far enough to allow entry.
+[GAME] 
+[INPUT] entry window
+[SERVER] [IGNORA] 'entry window' 'entry' -> 'enter' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 6
+[GAME] 
+[GAME] Kitchen
+[GAME] You are in the kitchen of the white house. A table seems to have been used
+[GAME] recently for the preparation of food. A passage leads to the west and a dark
+[GAME] staircase can be seen leading upward. A dark chimney leads down and to the east
+[GAME] is a small window which is open.
+[GAME] On the table is an elongated brown sack, smelling of hot peppers.
+[GAME] A bottle is sitting on the table.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] seize water
+[SERVER] [IGNORA] 'seize water' 'seize' -> 'grab' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 7
+[GAME] 
+[GAME] You can't reach something that's inside a closed container.
+[GAME] 
+[INPUT] seize bottle
+[SERVER] [IGNORA] 'seize bottle' 'seize' -> 'grab' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 8
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] sleep
+[SERVER] [IGNORA] 'sleep' 'sleep' -> 'hold' score=0.50
+[GAME] > Kitchen                                          Score: 10       Moves: 9
+[GAME] 
+[GAME] (brown sack)
+[GAME] Taken.
+[GAME] 
+[INPUT] hold
+[SERVER] [OK] 'hold' verbo='hold' score=1.00
+[GAME] >What do you want to hold?
+[GAME] 
+[INPUT] you
+[SERVER] [OK] 'you' verbo='' score=0.00
+[GAME] >I don't know the word "you".
+[GAME] 
+[INPUT] zork
+[SERVER] [OK] 'zork' verbo='zork' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 10
+[GAME] 
+[GAME] At your service!
+[GAME] 
+[INPUT] go east
+[SERVER] [OK] 'go east' verbo='go' score=1.00
+[GAME] > Behind House                                     Score: 10       Moves: 11
+[GAME] 
+[GAME] Behind House
+[GAME] 
+[INPUT] entry house
+[SERVER] [IGNORA] 'entry house' 'entry' -> 'enter' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 12
+[GAME] 
+[GAME] Kitchen
+[GAME] 
+[INPUT] look
+[SERVER] [OK] 'look' verbo='look' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 13
+[GAME] 
+[GAME] Kitchen
+[GAME] You are in the kitchen of the white house. A table seems to have been used
+[GAME] recently for the preparation of food. A passage leads to the west and a dark
+[GAME] staircase can be seen leading upward. A dark chimney leads down and to the east
+[GAME] is a small window which is open.
+[GAME] 
+[INPUT] go north
+[SERVER] [OK] 'go north' verbo='go' score=1.00
+[GAME] > Kitchen                                          Score: 10       Moves: 14
+[GAME] 
+[GAME] You can't go that way.
+[GAME] 
+[INPUT] go west
+[SERVER] [OK] 'go west' verbo='go' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 15
+[GAME] 
+[GAME] Living Room
+[GAME] You are in the living room. There is a doorway to the east, a wooden door with
+[GAME] strange gothic lettering to the west, which appears to be nailed shut, a trophy
+[GAME] case, and a large oriental rug in the center of the room.
+[GAME] Above the trophy case hangs an elvish sword of great antiquity.
+[GAME] A battery-powered brass lantern is on the trophy case.
+[GAME] 
+[INPUT] shift shut
+[SERVER] [OK] 'shift shut' verbo='shut' score=1.00
+[GAME] >I don't know the word "shift".
+[GAME] 
+[INPUT] move shut
+[SERVER] [OK] 'move shut' verbo='move' score=1.00
+[GAME] >You used the word "shut" in a way that I don't understand.
+[GAME] 
+[INPUT] shift rug
+[SERVER] [SUGESTAO] 'shift rug' 'shift' -> 'remove' score=0.80
+[GAME] < Perhaps, do you mean 'remove'?
+[GAME] > Living Room                                      Score: 10       Moves: 16
+[GAME] 
+[GAME] The rug is extremely heavy and cannot be carried.
+[GAME] 
+[INPUT] remove rug
+[SERVER] [OK] 'remove rug' verbo='remove' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 17
+[GAME] 
+[GAME] The rug is extremely heavy and cannot be carried.
+[GAME] 
+[INPUT] move rug
+[SERVER] [OK] 'move rug' verbo='move' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 18
+[GAME] 
+[GAME] With a great effort, the rug is moved to one side of the room, revealing the
+[GAME] dusty cover of a closed trap door.
+[GAME] 
+[INPUT] go deep
+[SERVER] [OK] 'go deep' verbo='go' score=1.00
+[GAME] >I don't know the word "deep".
+[GAME] 
+[INPUT] go down
+[SERVER] [OK] 'go down' verbo='go' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 19
+[GAME] 
+[GAME] The trap door is closed.
+[GAME] 
+[INPUT] open door
+[SERVER] [OK] 'open door' verbo='open' score=1.00
+[GAME] >Which door do you mean, the wooden door or the trap door?
+[GAME] 
+[INPUT] wooden
+[SERVER] [OK] 'wooden' verbo='wooden' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 20
+[GAME] 
+[GAME] The door cannot be opened.
+[GAME] 
+[INPUT] unlock trap door
+[SERVER] [OK] 'unlock trap door' verbo='unlock' score=1.00
+[GAME] >What do you want to unlock the trap door with?
+[GAME] 
+[INPUT] hands
+[SERVER] [IGNORA] 'hands' 'hands' -> 'hand' score=1.00
+[GAME] >What do you want to hand?
+[GAME] 
+[INPUT] door
+[SERVER] [OK] 'door' verbo='' score=0.00
+[GAME] >What do you want to hand the door to?
+[GAME] 
+[INPUT] me
+[SERVER] [OK] 'me' verbo='' score=0.00
+[GAME] >Which door do you mean, the wooden door or the trap door?
+[GAME] 
+[INPUT] trap door
+[SERVER] [OK] 'trap door' verbo='trap' score=1.00
+[GAME] >You don't have the you.
+[GAME] 
+[INPUT] open door
+[SERVER] [OK] 'open door' verbo='open' score=1.00
+[GAME] >Which door do you mean, the wooden door or the trap door?
+[GAME] 
+[INPUT] trap door
+[SERVER] [OK] 'trap door' verbo='trap' score=1.00
+[GAME] > Living Room                                      Score: 10       Moves: 21
+[GAME] 
+[GAME] The door reluctantly opens to reveal a rickety staircase descending into
+[GAME] darkness.
+[GAME] 
+[INPUT] go down
+[SERVER] [OK] 'go down' verbo='go' score=1.00
+[GAME] > Cellar                                           Score: 35       Moves: 22
+[GAME] 
+[GAME] You have moved into a dark place.
+[GAME] The trap door crashes shut, and you hear someone barring it.
+[GAME] 
+[GAME] It is pitch black. You are likely to be eaten by a grue.
+[GAME] 
+[INPUT] light
+[SERVER] [OK] 'light' verbo='light' score=1.00
+[GAME] >What do you want to light?
+[GAME] 
+[INPUT] myself
+[SERVER] [OK] 'myself' verbo='' score=0.00
+[GAME] >You don't have the you.
+[GAME] 
+[INPUT] go up
+[SERVER] [OK] 'go up' verbo='go' score=1.00
+[GAME] > Cellar                                           Score: 35       Moves: 23
+[GAME] 
+[GAME] The trap door is closed.
+[GAME] 
+[INPUT] open door
+[SERVER] [OK] 'open door' verbo='open' score=1.00
+[GAME] > Cellar                                           Score: 35       Moves: 24
+[GAME] 
+[GAME] The door is locked from above.
+[GAME] 
+[INPUT] go down
+[SERVER] [OK] 'go down' verbo='go' score=1.00
+[GAME] > Forest                                           Score: 25       Moves: 25
+[GAME] 
+[GAME] Oh, no! You have walked into the slavering fangs of a lurking grue!
+[GAME] 
+[GAME]    ****  You have died  ****
+[GAME] 
+[GAME] Now, let's take a look here... Well, you probably deserve another chance. I
+[GAME] can't quite fix you up completely, but you can't have everything.
+[GAME] 
+[GAME] Forest
+[GAME] This is a forest, with trees in all directions. To the east, there appears to be
+[GAME] sunlight.
+[GAME] 
+[INPUT] look
+[SERVER] [OK] 'look' verbo='look' score=1.00
+[GAME] > Forest                                           Score: 25       Moves: 26
+[GAME] 
+[GAME] Forest
+[GAME] This is a forest, with trees in all directions. To the east, there appears to be
+[GAME] sunlight.
+[GAME] 
+[INPUT] go up
+[SERVER] [OK] 'go up' verbo='go' score=1.00
+[GAME] > Forest                                           Score: 25       Moves: 27
+[GAME] 
+[GAME] There is no tree here suitable for climbing.
+[GAME] 
+[INPUT] go east
+[SERVER] [OK] 'go east' verbo='go' score=1.00
+[GAME] > Forest Path                                      Score: 25       Moves: 28
+[GAME] 
+[GAME] Forest Path
+[GAME] This is a path winding through a dimly lit forest. The path heads north-south
+[GAME] here. One particularly large tree with some low branches stands at the edge of
+[GAME] the path.
+[GAME] 
+[INPUT] go south
+[SERVER] [OK] 'go south' verbo='go' score=1.00
+[GAME] > North of House                                   Score: 25       Moves: 29
+[GAME] 
+[GAME] North of House
+[GAME] There is a glass bottle here.
+[GAME] The glass bottle contains:
+[GAME]   A quantity of water
+[GAME] 
+[INPUT] take bottle
+[SERVER] [OK] 'take bottle' verbo='take' score=1.00
+[GAME] > North of House                                   Score: 25       Moves: 30
+[GAME] 
+[GAME] Taken.
+[GAME] 
+[INPUT] stop
+[SERVER] [IGNORA] 'stop' 'stop' -> 'quit' score=1.00
+[GAME] >Your score is 25 (total of 350 points), in 30 moves.
+[GAME] This gives you the rank of Beginner.
+[INPUT] ok
+[SERVER] [CORRECAO] 'ok' 'ok' -> 'back' cmd='back' score=0.92
+[GAME] Do you wish to leave the game? (Y is affirmative): >Ok.
+[GAME] 
+[INPUT] N
+[SERVER] [OK] 'N' verbo='n' score=1.00
+[GAME] > Forest Path                                      Score: 25       Moves: 31
+[GAME] 
+[GAME] Forest Path
+[GAME] 
+[INPUT] go down
+[SERVER] [OK] 'go down' verbo='go' score=1.00
+[GAME] > Forest Path                                      Score: 25       Moves: 32
+[GAME] 
+[GAME] You can't go that way.
+[GAME] 
+[INPUT] quit
+[SERVER] [OK] 'quit' verbo='quit' score=1.00
+[GAME] >Your score is 25 (total of 350 points), in 32 moves.
+[GAME] This gives you the rank of Beginner.
+[GAME] Do you wish to leave the game? (Y is affirmative): >

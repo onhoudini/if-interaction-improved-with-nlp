@@ -1,0 +1,40 @@
+[META] dfrotz=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/dfrotz
+[META] game=/mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3
+[META] started=20260609_191158
+[GAME] Using normal formatting.
+[GAME] Loading /mnt/c/Users/houdini/Documents/if-interaction-with-pln/frotz-master/games/zork1-r88-s840726.z3.
+[GAME]  West of House                                    Score: 0        Moves: 0
+[GAME] 
+[GAME] ZORK I: The Great Underground Empire
+[GAME] Copyright (c) 1981, 1982, 1983 Infocom, Inc. All rights reserved.
+[GAME] ZORK is a registered trademark of Infocom, Inc.
+[GAME] Revision 88 / Serial number 840726
+[GAME] 
+[GAME] West of House
+[GAME] You are standing in an open field west of a white house, with a boarded front
+[GAME] door.
+[GAME] There is a small mailbox here.
+[GAME] 
+[INPUT] opening door
+[SERVER] [IGNORA] 'opening door' 'opening' -> 'give' score=1.00
+[GAME] >I don't know the word "opening".
+[GAME] 
+[INPUT] open mailbox
+[SERVER] [OK] 'open mailbox' verbo='open' score=1.00
+[GAME] > West of House                                    Score: 0        Moves: 1
+[GAME] 
+[GAME] Opening the small mailbox reveals a leaflet.
+[GAME] 
+[INPUT] gaze leaflet
+[SERVER] [OK] 'gaze leaflet' verbo='gaze' score=1.00
+[GAME] >That sentence isn't one I recognize.
+[GAME] 
+[INPUT] study leaflet
+[SERVER] [IGNORA] 'study leaflet' 'study' -> 'read' score=1.00
+[GAME] >I don't know the word "study".
+[GAME] 
+[INPUT] research around
+[SERVER] [IGNORA] 'research around' 'research' -> 'search' score=1.00
+[GAME] >I don't know the word "research".
+[GAME] 
+[GAME] >
