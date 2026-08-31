@@ -54,7 +54,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Verificar se o `dfrotz` tem permissão de execução
+### 4. Confirmar que o `dfrotz` tem permissão de execução
 
 O binário já vem compilado no repositório, mas dependendo de como os arquivos foram transferidos (zip, etc.), a permissão de execução pode se perder:
 
@@ -75,6 +75,7 @@ cd ..
 Usando o script pronto:
 
 ```bash
+chmod +x run.sh # Somente na primeira vez
 ./run.sh
 ```
 
@@ -87,9 +88,7 @@ python src/main.py 0   # modo "frotz puro", sem nenhum processamento — para gr
 
 Na primeira execução, o NLTK vai baixar automaticamente os pacotes `wordnet` e `omw-1.4` (mostra uma barra de progresso silenciosa; não requer nenhuma ação manual).
 
-### 6. Jogando
-
-O jogo (Zork I) roda normalmente no terminal. Comandos digitados são interceptados: se um verbo não for reconhecido pelo jogo mas for semanticamente parecido com um verbo válido, ele é sugerido ou corrigido automaticamente, dependendo do quão alta for a similaridade calculada.
+## Dados
 
 Ao encerrar a sessão, os arquivos de log ficam em `data/logs/` (histórico da sessão com timestamp) e a lista de ações efetivamente disponíveis naquela execução é salva em `data/logs/actions_used.txt`.
 
