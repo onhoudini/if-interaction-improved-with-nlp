@@ -83,7 +83,7 @@ Ou diretamente:
 
 ```bash
 python src/main.py 1   # modo com o algoritmo de correção (padrão)
-python src/main.py 0   # modo "frotz puro", sem nenhum processamento — para grupo de controle em testes A/B (Ainda não funcional)
+python src/main.py 0   # modo "frotz puro" - (Ainda não funcional)
 ```
 
 Na primeira execução, o NLTK vai baixar automaticamente os pacotes `wordnet` e `omw-1.4` (mostra uma barra de progresso silenciosa; não requer nenhuma ação manual).
