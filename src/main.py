@@ -84,6 +84,7 @@ def main() -> None:
         words,
         strategy,
         LOGS_DIR,
+        autocomplete_verbs=candidate_verbs if mode != "0" else None,
     )
 
 

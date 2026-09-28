@@ -3,11 +3,19 @@ import threading
 import subprocess
 from pathlib import Path
 from datetime import datetime
-from typing import Iterable, Set
+from typing import Iterable, Optional, Set
 
 from src.matching.matchers import build_matcher
-from src.config import THRESHOLD_SUGGESTION, THRESHOLD_AUTO_CORRECT
+from src.config import (
+    THRESHOLD_SUGGESTION,
+    THRESHOLD_AUTO_CORRECT,
+    AUTOCOMPLETE_ENABLED,
+    AUTOCOMPLETE_MIN_PREFIX,
+    AUTOCOMPLETE_MAX_SUGGESTIONS,
+    AUTOCOMPLETE_SIMILAR_SUGGESTIONS,
+)
 from src.server.frotz_server import run_server
+from src.utils.verb_completer import enable_verb_autocomplete
 
 
 def _timestamp() -> str:
@@ -80,12 +88,51 @@ def _start_server_thread(game_words, strategy) -> threading.Thread:
     return t
 
 
+def _build_verb_recommender(strategy, verbs: Set[str]):
+    """Fallback for TAB: suggest a similar verb when nothing starts with the prefix."""
+
+    def recommend(prefix: str) -> list[str]:
+        if not verbs:
+            return []
+        best_verb, score = strategy.find_best(prefix, verbs)
+        if best_verb and score >= THRESHOLD_SUGGESTION:
+            return [best_verb]
+        return []
+
+    return recommend
+
+
+def _enable_verb_autocomplete(verbs: Optional[Set[str]], strategy) -> bool:
+    """Bind TAB completion to the verb list (first token only)."""
+    if not verbs or not AUTOCOMPLETE_ENABLED:
+        return False
+
+    recommend = (
+        _build_verb_recommender(strategy, verbs)
+        if AUTOCOMPLETE_SIMILAR_SUGGESTIONS
+        else None
+    )
+    enabled = enable_verb_autocomplete(
+        verbs,
+        min_prefix=AUTOCOMPLETE_MIN_PREFIX,
+        recommend=recommend,
+        max_recommendations=AUTOCOMPLETE_MAX_SUGGESTIONS,
+    )
+    if enabled:
+        print(
+            "[AUTOCOMPLETE] TAB completa apenas o verbo (primeira palavra); "
+            f"{len(verbs)} verbos carregados."
+        )
+    return enabled
+
+
 def run_dfrotz_proxy(
     dfrotz_path: Path,
     game_file: Path,
     game_words: Set[str],
     strategy,
     logs_dir: Path,
+    autocomplete_verbs: Optional[Set[str]] = None,
 ) -> None:
     logs_dir.mkdir(parents=True, exist_ok=True)
     session_ts = _timestamp()
@@ -109,6 +156,14 @@ def run_dfrotz_proxy(
     )
 
     _start_reader_thread(proc, session_log)
+
+    autocomplete_on = _enable_verb_autocomplete(autocomplete_verbs, strategy)
+    _log_line(
+        session_log,
+        "[META] autocomplete="
+        + ("on" if autocomplete_on else "off")
+        + (f" verbs={len(autocomplete_verbs)}" if autocomplete_verbs else ""),
+    )
 
     try:
         while True:

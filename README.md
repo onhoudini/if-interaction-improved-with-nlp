@@ -90,6 +90,7 @@ Na primeira execução, o NLTK vai baixar automaticamente os pacotes `wordnet` e
 ### 6. Jogando
 
 O jogo (Zork I) roda normalmente no terminal. Comandos digitados são interceptados: se um verbo não for reconhecido pelo jogo mas for semanticamente parecido com um verbo válido, ele é sugerido ou corrigido automaticamente, dependendo do quão alta for a similaridade calculada.
+Pressione **TAB** enquanto digita para completar automaticamente o **verbo** (primeira palavra do comando); depois do primeiro espaço o TAB não faz nada. Detalhes na seção [Autocomplete de verbos](#autocomplete-de-verbos-tab).
 
 Ao encerrar a sessão, os arquivos de log ficam em `data/logs/` (histórico da sessão com timestamp) e a lista de ações efetivamente disponíveis naquela execução é salva em `data/logs/actions_used.txt`.
 
@@ -121,11 +122,11 @@ if-interaction-with-pln/
 │   │   └── verb-recognition.py      # Script offline alternativo: classifica verbos usando WordNet (sem depender do dfrotz)
 │   └── utils/
 │       ├── tokenizer.py             # Tokenização simples de texto
+│       ├── verb_completer.py        # Autocomplete de verbos no TAB (readline)
 │       └── load_verbs.py            # Carrega arquivos de lista de palavras (um por linha)
 ├── run.sh / run.bat            # Scripts de execução (procuram .venv/venv automaticamente)
 └── requirements.txt
 ```
-
 
 ---
 
@@ -140,8 +141,35 @@ Edite `src/config.py` para ajustar:
 | `THRESHOLD_SUGGESTION` | Nota mínima de similaridade (0–1) para o sistema *sugerir* uma correção |
 | `THRESHOLD_AUTO_CORRECT` | Nota mínima de similaridade (0–1) para o sistema corrigir automaticamente, sem perguntar |
 | `GAME_FILE` | Caminho do arquivo `.z3` usado (padrão: `frotz-master/games/zork1-r88-s840726.z3`) |
+| `AUTOCOMPLETE_ENABLED` | Liga/desliga o autocomplete de verbos via TAB (ver seção [Autocomplete de verbos](#autocomplete-de-verbos-tab)) |
+| `AUTOCOMPLETE_MIN_PREFIX` | Mínimo de letras digitadas para o TAB completar o verbo |
+| `AUTOCOMPLETE_SIMILAR_SUGGESTIONS` | Sugere verbos parecidos (via estratégia de similaridade) quando nenhum começa com o prefixo digitado |
+| `AUTOCOMPLETE_MAX_SUGGESTIONS` | Número máximo de sugestões parecidas exibidas |
 
+---
 
+## Autocomplete de verbos (TAB)
+
+Durante o jogo (modo `1`), pressionar **TAB** completa a **primeira palavra** do comando com os verbos válidos carregados de `data/dictionaries/actions.txt` — a mesma lista usada pelo corretor. O recurso é intencionalmente restrito:
+
+- **Só o verbo.** O TAB só age enquanto o jogador ainda está digitando a primeira palavra; depois do primeiro espaço ele não faz nada, ou seja, objetos/substantivos nunca são completados.
+- **Só verbos válidos.** Os candidatos são exatamente as entradas de `actions.txt`; nomes que o jogo não reconhece não aparecem na lista.
+- **Nada é enviado ao jogo.** Comportamento padrão do `readline`: TAB completa ou lista os candidatos e o comando só vai para o `dfrotz` quando o jogador aperta Enter.
+
+Exemplos: `op` + TAB → `open`; `ta` + TAB → lista `take`, `talk`, `tan`, `taste`, `taunt`.
+
+Implementação: `src/utils/verb_completer.py` (classe `VerbCompleter`) é ligada ao loop de entrada em `src/server/dfrotz_runner.py` (funções `_enable_verb_autocomplete` e `_build_verb_recommender`). No modo `0` (frotz puro / grupo de controle) o autocomplete fica **desligado**, para não interferir na comparação A/B.
+
+Ajustes em `src/config.py`:
+
+| Variável | Descrição | Padrão |
+|---|---|---|
+| `AUTOCOMPLETE_ENABLED` | Liga/desliga o TAB (apenas no modo `1`) | `True` |
+| `AUTOCOMPLETE_MIN_PREFIX` | Mínimo de letras digitadas para o TAB completar | `1` |
+| `AUTOCOMPLETE_SIMILAR_SUGGESTIONS` | Se nenhum verbo começar com o prefixo digitado, sugere um verbo parecido usando a mesma estratégia de similaridade (respeita `THRESHOLD_SUGGESTION`; mais lento) | `False` |
+| `AUTOCOMPLETE_MAX_SUGGESTIONS` | Número máximo de sugestões parecidas exibidas | `5` |
+
+> O autocomplete usa o módulo `readline` (nativo no Linux/macOS). Se `readline` não estiver disponível — ou se a entrada não for um terminal (pipes, execuções automatizadas) — o recurso é apenas desativado, sem afetar o restante do programa. No Windows nativo seria necessário `pip install pyreadline3`.
 
 ---
 
