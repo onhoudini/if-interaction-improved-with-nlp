@@ -1,31 +1,34 @@
 """Sobe o dfrotz como subprocesso e conversa com o jogador.
 
-Responsabilidades:
+* le a linha digitada, limpa (`src.utils.normalize`) e decide o que enviar ao
+  jogo (`src.matching.matchers`);
+* escreve a saida do jogo na tela conforme ela chega e so entao mostra o prompt
+  da vez (`PROMPT_TEXT`), com a resposta inteira ja visivel;
+* registra tudo em `data/logs/session_<timestamp>.txt`.
 
-* le a linha digitada pelo jogador, limpa (`src.utils.normalize`) e decide o que
-  enviar ao jogo (`src.matching.matchers`);
-* repassa a saida do jogo para o terminal **no momento em que ela e escrita**
-  (inclusive o prompt ``>``, que vem sem quebra de linha);
-* registra tudo em ``data/logs/session_<timestamp>.txt``.
-
-Do lado do jogador nada e anunciado: quando um sinonimo e trocado pela palavra
-do dicionario, a tela nao mostra nada; o unico aviso que aparece e a sugestao
+Do lado do jogador nada e anunciado: quando um sinonimo e trocado pela palavra do
+dicionario, a tela nao mostra nada; o unico aviso que aparece e a sugestao
 (`Perhaps, do you mean 'X'?`) da camada 3 do matcher.
 """
 
 import codecs
+import select
+import subprocess
 import sys
 import threading
-import subprocess
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 from typing import Iterable, Optional
 
 from src.config import (
     AUTOCOMPLETE_ENABLED,
-    AUTOCOMPLETE_MIN_PREFIX,
     AUTOCOMPLETE_MAX_SUGGESTIONS,
+    AUTOCOMPLETE_MIN_PREFIX,
     AUTOCOMPLETE_SIMILAR_SUGGESTIONS,
+    GAME_IDLE_FALLBACK,
+    GAME_QUIET_SECONDS,
+    GAME_REPLY_TIMEOUT,
+    PROMPT_TEXT,
     SUGGESTION_THRESHOLD,
     VERBOSE_SERVER_LINES,
 )
@@ -43,6 +46,10 @@ from src.server.frotz_server import run_server
 from src.utils.normalize import sanitize_line
 from src.utils.verb_completer import enable_verb_autocomplete
 
+# Ultimo caractere que o interpretador escreve quando esta esperando um comando
+GAME_PROMPT_CHAR = ">"
+READ_CHUNK = 65536
+
 
 def _timestamp() -> str:
     return datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -53,11 +60,10 @@ class SessionLog:
 
     O arquivo recebe linhas de duas threads: a principal escreve
     ``[INPUT]``/``[SERVER]`` e a thread leitora escreve ``[GAME]``. Abrir e
-    fechar o arquivo a cada linha (``open(path, "a")``) nao e seguro aqui: no
-    WSL o projeto vive em ``/mnt/c`` (drvfs/OneDrive), onde o append concorrente
-    pode sobrescrever ou perder linhas -- foi exatamente o que apareceu num
-    teste (uma linha truncada e um ``[INPUT]`` que sumiu do log). Com um unico
-    arquivo aberto e um lock, cada linha entra inteira e na ordem.
+    fechar o arquivo a cada linha (``open(path, "a")``) nao e seguro aqui: no WSL
+    o projeto vive em ``/mnt/c`` (drvfs/OneDrive), onde o append concorrente pode
+    sobrescrever ou perder linhas. Com um unico arquivo aberto e um lock, cada
+    linha entra inteira e na ordem.
     """
 
     def __init__(self, path: Path) -> None:
@@ -85,9 +91,88 @@ class SessionLog:
                 pass
 
 
-def _log_line(log: SessionLog, line: str) -> None:
-    """Escreve uma linha no log da sessao."""
-    log.write(line)
+class GameOutput:
+    """Saida do jogo na tela e o aviso de "pode digitar" para a thread principal.
+
+    O interpretador escreve a resposta e o proprio ``>`` no fim, sem quebra de
+    linha depois dele. Se esse ``>`` fosse escrito na tela, ficaria colado na
+    ultima linha da resposta -- e o readline, que redesenha a linha que o jogador
+    esta digitando, apagaria ele. Por isso o ``>`` final fica guardado em
+    ``_held`` (fora da tela e do log) e quem mostra o prompt e o
+    ``input(PROMPT_TEXT)``: o texto e escrito como prompt, ou seja, fora da area
+    de digitacao, e continua na tela junto com a linha que o jogador digita.
+
+    ``idle()`` marca o momento em que o jogo parou de escrever: com a resposta
+    inteira na tela, a thread principal pode mostrar o prompt.
+    """
+
+    def __init__(
+        self,
+        log: SessionLog,
+        interactive: bool = True,
+        quiet_seconds: float = GAME_QUIET_SECONDS,
+    ) -> None:
+        self.quiet_seconds = quiet_seconds
+        self._log = log
+        self._interactive = interactive
+        self._lock = threading.Lock()
+        self._held = ""
+        self._partial_line = ""
+        self._ready = threading.Event()
+        self._over = False
+
+    @property
+    def game_over(self) -> bool:
+        """True quando o dfrotz terminou (nao ha mais para quem enviar comando)."""
+        return self._over
+
+    def feed(self, text: str) -> None:
+        """Texto que chegou do jogo: vai para a tela e para o log."""
+        with self._lock:
+            self._ready.clear()
+            text = self._held + text
+            self._held = ""
+            if self._interactive and text.endswith(GAME_PROMPT_CHAR):
+                self._held = GAME_PROMPT_CHAR
+                text = text[: -len(GAME_PROMPT_CHAR)]
+            if text:
+                self._write(text)
+
+    def idle(self, quiet_for: float) -> None:
+        """O jogo esta ``quiet_for`` segundos sem escrever nada."""
+        with self._lock:
+            if self._held or quiet_for >= GAME_IDLE_FALLBACK:
+                self._ready.set()
+
+    def wait(self, timeout: float) -> bool:
+        """Espera a resposta do jogo chegar inteira; False se estourar o timeout."""
+        return self._ready.wait(timeout)
+
+    def begin_turn(self) -> None:
+        """Um comando foi enviado: descarta o prompt antigo e espera a resposta."""
+        with self._lock:
+            self._held = ""
+            self._ready.clear()
+
+    def finish(self) -> None:
+        """O dfrotz terminou: registra a ultima linha e acorda quem espera."""
+        with self._lock:
+            self._over = True
+            self._flush_partial_line()
+            self._ready.set()
+
+    def _write(self, text: str) -> None:
+        sys.stdout.write(text)
+        sys.stdout.flush()
+        self._partial_line += text
+        while "\n" in self._partial_line:
+            line, self._partial_line = self._partial_line.split("\n", 1)
+            self._log.write(f"[GAME] {line.rstrip(chr(13))}")
+
+    def _flush_partial_line(self) -> None:
+        if self._partial_line:
+            self._log.write(f"[GAME] {self._partial_line}")
+            self._partial_line = ""
 
 
 def _format_server_line(result: MatchResult) -> str:
@@ -125,59 +210,54 @@ def _format_server_line(result: MatchResult) -> str:
     return f"[SERVER] [PASSA] '{raw}'"
 
 
-def _start_reader_thread(proc: subprocess.Popen, log: SessionLog) -> threading.Thread:
-    """Repassa a saida do jogo para o terminal assim que o dfrotz a escreve.
+def _start_reader_thread(proc: subprocess.Popen, output: GameOutput) -> threading.Thread:
+    """Thread que escreve a saida do jogo na tela assim que ela chega.
 
-    O dfrotz (interface *dumb*) imprime o prompt ``>`` e da ``fflush`` ANTES de
-    ler o comando do jogador, mas esse prompt NAO termina com ``\\n``. Ler o
-    subprocesso com ``readline()`` (ou ``for line in proc.stdout``) deixa o
-    prompt preso no buffer de linha ate o proximo ``\\n`` chegar -- e esse
-    proximo ``\\n`` so chega depois que o jogador digita algo. Efeito visivel:
-    o ``>`` (a "seta" que avisa que e a vez do jogador) nunca aparece; o jogo
-    parece estar esperando entrada sem indicar nada.
+    O dfrotz escreve a resposta inteira de uma vez e da flush, mas a ultima linha
+    (o prompt ``>``) nao termina com quebra de linha: ler com ``readline()`` (ou
+    ``for line in proc.stdout``) prenderia essa linha no buffer de linha ate o
+    jogador digitar o proximo comando. Aqui os bytes crus sao lidos em pedacos e
+    repassados na hora.
 
-    Alem disso, o dfrotz escreve em blocos (buffer de stdio + flush a cada
-    prompt), entao aqui lemos os bytes crus em pedacos e escrevemos no stdout
-    imediatamente, inclusive linhas parciais como o prompt.
+    ``select`` e usado para perceber o silencio do jogo (o intervalo entre os
+    pedacos que chegam): a cada rodada sem nada, ``output.idle()`` e chamado, e e
+    isso que avisa a thread principal que a resposta acabou.
     """
 
-    binary_stream = getattr(proc.stdout, "buffer", None)
+    stream = getattr(proc.stdout, "buffer", proc.stdout)
+    read_fd = stream.fileno()
     decoder = codecs.getincrementaldecoder("utf-8")("replace")
 
-    def _reader():
-        pending = ""
+    def _reader() -> None:
+        quiet_rounds = 0
         while True:
             try:
-                if binary_stream is not None:
-                    chunk = binary_stream.read1(4096)
-                else:  # pragma: no cover - stream text-only (sem buffer binario)
-                    chunk = proc.stdout.read(1)
+                data_ready, _, _ = select.select(
+                    [read_fd], [], [], output.quiet_seconds
+                )
             except (OSError, ValueError):
                 break
 
+            if not data_ready:
+                quiet_rounds += 1
+                output.idle(quiet_rounds * output.quiet_seconds)
+                continue
+
+            quiet_rounds = 0
+            try:
+                chunk = stream.read1(READ_CHUNK)
+            except (OSError, ValueError):
+                break
             if not chunk:
                 break
 
-            text = decoder.decode(chunk) if binary_stream is not None else chunk
-            if not text:
-                continue
+            output.feed(decoder.decode(chunk))
 
-            # 1) terminal: escreve e da flush na hora (inclusive o '>')
-            sys.stdout.write(text)
-            sys.stdout.flush()
+        output.finish()
 
-            # 2) log: continua registrando linha a linha, como antes
-            pending += text
-            while "\n" in pending:
-                line, pending = pending.split("\n", 1)
-                _log_line(log, f"[GAME] {line.rstrip(chr(13))}")
-
-        if pending:  # ultima linha sem '\n' (ex.: jogo encerrado no prompt)
-            _log_line(log, f"[GAME] {pending}")
-
-    t = threading.Thread(target=_reader, daemon=True)
-    t.start()
-    return t
+    thread = threading.Thread(target=_reader, daemon=True)
+    thread.start()
+    return thread
 
 
 def _start_server_thread(game_words, strategy) -> threading.Thread:
@@ -186,14 +266,15 @@ def _start_server_thread(game_words, strategy) -> threading.Thread:
     Aqui o servidor apenas devolve o payload recebido: a decisao fica toda no
     matcher deste modulo (`src/matching/matchers.py`).
     """
-    t = threading.Thread(
+
+    thread = threading.Thread(
         target=run_server,
         args=(game_words, strategy),
         kwargs={"disable_algorithm": True},
         daemon=True,
     )
-    t.start()
-    return t
+    thread.start()
+    return thread
 
 
 def _build_verb_recommender(strategy, candidates: Iterable[str]):
@@ -213,7 +294,7 @@ def _build_verb_recommender(strategy, candidates: Iterable[str]):
 
 
 def _enable_verb_autocomplete(entries: Optional[Iterable[str]], strategy) -> bool:
-    """Liga o TAB na lista de palavras + sinonimos do lexico (so a 1a palavra)."""
+    """Liga o TAB nas palavras do lexico + sinonimos (so a primeira palavra)."""
     entries = tuple(entries or ())
     if not entries or not AUTOCOMPLETE_ENABLED:
         return False
@@ -231,8 +312,8 @@ def _enable_verb_autocomplete(entries: Optional[Iterable[str]], strategy) -> boo
     )
     if enabled:
         print(
-            "[AUTOCOMPLETE] TAB completa apenas o verbo (primeira palavra); "
-            f"{len(entries)} entradas carregadas (lexico + sinonimos)."
+            "[AUTOCOMPLETE] TAB lista as opcoes da primeira palavra "
+            f"({len(entries)} entradas: palavras do jogo + sinonimos)."
         )
     return enabled
 
@@ -257,16 +338,15 @@ def run_dfrotz_proxy(
     session_log = SessionLog(logs_dir / f"session_{session_ts}.txt")
     lexicon = lexicon or ActionLexicon()
 
-    _log_line(session_log, f"[META] dfrotz={dfrotz_path}")
-    _log_line(session_log, f"[META] game={game_file}")
-    _log_line(session_log, f"[META] started={session_ts}")
-    _log_line(session_log, f"[META] modo={mode}")
-    _log_line(
-        session_log,
-        f"[META] lexico={len(lexicon)} palavras, {len(lexicon.synonyms)} sinonimos",
+    session_log.write(f"[META] dfrotz={dfrotz_path}")
+    session_log.write(f"[META] game={game_file}")
+    session_log.write(f"[META] started={session_ts}")
+    session_log.write(f"[META] modo={mode}")
+    session_log.write(
+        f"[META] lexico={len(lexicon)} palavras, {len(lexicon.synonyms)} sinonimos"
     )
     for problem in lexicon.problems:
-        _log_line(session_log, f"[META] lexico-aviso={problem}")
+        session_log.write(f"[META] lexico-aviso={problem}")
 
     matcher = None
     if mode != "0":
@@ -283,23 +363,36 @@ def run_dfrotz_proxy(
         bufsize=1,
     )
 
-    reader = _start_reader_thread(proc, session_log)
+    interactive = sys.stdin.isatty()
+    output = GameOutput(session_log, interactive=interactive)
+    reader = _start_reader_thread(proc, output)
+    prompt = PROMPT_TEXT if interactive else ""
+
     autocomplete_on = _enable_verb_autocomplete(autocomplete_entries, strategy)
-    _log_line(
-        session_log,
+    session_log.write(
         "[META] autocomplete="
         + ("on" if autocomplete_on else "off")
         + (
             f" entradas={len(tuple(autocomplete_entries or ()))}"
             if autocomplete_on
             else ""
-        ),
+        )
     )
 
     try:
         while True:
+            answered = output.wait(GAME_REPLY_TIMEOUT)
+            if output.game_over:
+                session_log.write("[AVISO] o dfrotz terminou: sessao encerrada")
+                break
+            if not answered:
+                session_log.write(
+                    "[AVISO] o jogo nao respondeu em "
+                    f"{GAME_REPLY_TIMEOUT}s: o prompt foi mostrado mesmo assim"
+                )
+
             try:
-                user_input = input()
+                user_input = input(prompt)
             except EOFError:
                 break
 
@@ -316,29 +409,29 @@ def run_dfrotz_proxy(
 
             final_cmd = " ".join(result.matched_tokens).strip()
 
-            _log_line(session_log, f"[INPUT] {result.original_input}")
+            session_log.write(f"[INPUT] {result.original_input}")
             if result.sanitized_input != result.original_input:
-                _log_line(session_log, f"[SANITIZADO] '{result.sanitized_input}'")
+                session_log.write(f"[SANITIZADO] '{result.sanitized_input}'")
 
             server_line = _format_server_line(result)
-            _log_line(session_log, server_line)
+            session_log.write(server_line)
             if VERBOSE_SERVER_LINES:
                 print(server_line)
 
             if not final_cmd:
-                _log_line(
-                    session_log,
-                    "[AVISO] comando vazio depois da limpeza: nada foi enviado ao jogo",
+                session_log.write(
+                    "[AVISO] comando vazio depois da limpeza: nada foi enviado ao jogo"
                 )
                 continue
 
+            output.begin_turn()
             proc.stdin.write(final_cmd + "\n")
             proc.stdin.flush()
 
             if result.status == STATUS_SUGGEST and result.verb_matched:
                 suggestion = f"< Perhaps, do you mean '{result.verb_matched}'?"
                 print(suggestion)
-                _log_line(session_log, f"[GAME] {suggestion}")
+                session_log.write(f"[GAME] {suggestion}")
 
     finally:
         try:

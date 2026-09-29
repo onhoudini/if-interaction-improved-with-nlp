@@ -25,8 +25,6 @@ from src.paths import GAME_FILE, TOOLS_OUTPUT_DIR
 from src.utils.normalize import sanitize_line
 
 
-# -- Decod Z-characters --
-
 _ALPHABET = [
     "abcdefghijklmnopqrstuvwxyz",   # A0
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ",   # A1
@@ -79,13 +77,9 @@ def _decode_zchars(zchars: List[int]) -> str:
     return "".join(result).strip()
 
 
-# -- Filter words --
-
 def is_valid_word(word: str) -> bool:
     return re.fullmatch(r"[a-zA-Z]+([\'-][a-zA-Z]+)*", word) is not None
 
-
-# -- Read vocab --
 
 def extract_dictionary(game_path: str) -> Tuple[List[str], List[str]]:
     data = Path(game_path).read_bytes()
@@ -137,9 +131,6 @@ def _print_summary(words: List[str], separators: List[str], game_path: str) -> N
     print("\n")
 
 
-# --------------------------------------------------------------------------- #
-# De onde vem a lista de palavras (ponto comum dos scripts de tools/)
-# --------------------------------------------------------------------------- #
 def words_from_game(game_file: Path | str = GAME_FILE) -> List[str]:
     """Palavras que o jogo conhece, lidas do proprio arquivo .z3."""
     words, _ = extract_dictionary(str(game_file))

@@ -22,7 +22,7 @@ from src.lexicon.action_lexicon import ActionLexicon
 from src.similarity.base import SimilarityStrategy
 from src.utils.tokenizer import tokenize
 
-# -- status possiveis de um comando (aparecem no log da sessao) --
+# status possiveis de um comando (aparecem no log da sessao)
 STATUS_OK = "ok"             # palavra conhecida pelo jogo
 STATUS_SYNONYM = "sinonimo"  # trocada pela palavra do dicionario
 STATUS_SUGGEST = "sugestao"  # sugestao exibida; comando enviado como digitado
@@ -94,13 +94,12 @@ class VerbMatcher:
 
         verb = tokens[verb_index]
 
-        # 1) o jogo conhece a palavra: nada a fazer
         if verb in self.game_words:
             return MatchResult(
                 user_input, sanitized, tokens, STATUS_OK, verb, verb, 1.0
             )
 
-        # 2) tabela de sinonimos: troca silenciosa pela forma do dicionario
+        # o lexico troca, em silencio, pela forma que o dicionario do jogo entende
         canonical = self.lexicon.canonical_for(verb)
         if canonical:
             final_tokens = list(tokens)
@@ -115,14 +114,13 @@ class VerbMatcher:
                 1.0,
             )
 
-        # 3) sugestao (nunca troca o comando)
+        # sugestao: o comando segue como foi digitado
         suggestion, score = self._best_suggestion(verb)
         if suggestion and score >= self.suggestion_threshold:
             return MatchResult(
                 user_input, sanitized, tokens, STATUS_SUGGEST, verb, suggestion, score
             )
 
-        # 4) nada reconhecido: passa intacto (com a melhor nota para o log)
         return MatchResult(
             user_input, sanitized, tokens, STATUS_PASS, verb, suggestion, score
         )

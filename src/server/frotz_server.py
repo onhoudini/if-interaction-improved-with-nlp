@@ -1,5 +1,4 @@
-"""
-Acceptable struct:
+"""Payload trocado com o dfrotz (mesmo layout do struct do lado C):
 
     struct Payload {
         int   id;
@@ -7,6 +6,10 @@ Acceptable struct:
         char  msg[256];
         float temp;
     }
+
+`_process_payload` so reescreve ``msg`` -- e por ele que passa a linha que o
+jogador digitou. Com ``disable_algorithm=True`` o servidor apenas devolve o
+payload recebido: nesse caso quem decide e o `dfrotz_runner`.
 """
 
 import socket
@@ -99,6 +102,7 @@ def interpret(result: MatchResult, raw_tokens: list[str]) -> tuple[list[str], st
 
 
 def log(result: MatchResult, status: str) -> None:
+    """Linha de log da decisao tomada (usada so quando o servidor decide)."""
     raw = result.original_input
     score = result.score
 

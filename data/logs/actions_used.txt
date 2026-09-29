@@ -245,13 +245,13 @@ rap
 rape
 read
 red
-releas
+release
 remove
 repair
 repent
 reply
-restar
-restor
+restart
+restore
 ricket
 ring
 rocky
@@ -358,8 +358,8 @@ unscri
 untie
 up
 useles
-verbos
-versio
+verbose
+version
 viciou
 viscou
 vitreo

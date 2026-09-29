@@ -43,7 +43,6 @@ ACTION_ANCHOR_NAMES = {
 }
 
 
-# -- Entrada / saida --
 def save_word_list(path: Path, words: list[str]) -> None:
     unique_sorted = sorted(set(words))
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -61,7 +60,6 @@ def ensure_wordnet() -> None:
         wn.synsets("dog")
 
 
-# -- WordNet --
 def load_action_anchors() -> set:
     anchors = set()
     for name in ACTION_ANCHOR_NAMES:
@@ -154,7 +152,6 @@ def verb_score(word: str, action_anchors: set) -> tuple[float, str]:
     return score, lemma
 
 
-# -- Classificacao --
 def classify_words(words: list[str]) -> tuple[list[str], list[str], list[str]]:
     verbs, others, unknown = [], [], []
     action_anchors = load_action_anchors()

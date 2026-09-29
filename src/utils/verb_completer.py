@@ -1,16 +1,14 @@
-"""TAB completion restricted to the verb (first word) of the player's command.
+"""TAB completa a primeira palavra do comando do jogador (o verbo).
 
-The player types on the Python side (see ``src/server/dfrotz_runner.py``), before
-the line is matched/rewritten by the lexicon and forwarded to dfrotz. This module
-hooks GNU readline (or pyreadline3 on Windows) so TAB completes the *first* token
-of the line using the candidates handed over by the caller: as palavras do jogo
-e os sinonimos de ``data/lexicon/action.csv`` (ver ``src/main.py``).
+O jogador digita do lado do Python (ver `src/server/dfrotz_runner.py`), antes de a
+linha passar pelo lexico e ir para o dfrotz. Este modulo liga o readline para o
+TAB completar a *primeira* palavra da linha com os candidatos que o chamador
+entrega: as palavras do jogo e os sinonimos de `data/lexicon/action.csv` (ver
+`src/main.py`).
 
-Only the first word is completed:
-
-* the candidates are exactly the list handed over by the caller;
-* once the player types a space, the current word is no longer the first one, so
-  TAB does nothing (objects/nouns are never completed).
+So a primeira palavra e completada: depois do primeiro espaco a palavra atual nao
+e mais a primeira, entao o TAB nao faz nada (objetos/substantivos nao entram na
+lista).
 """
 
 from __future__ import annotations
@@ -18,16 +16,20 @@ from __future__ import annotations
 import sys
 from typing import Callable, Iterable, Optional, Sequence
 
-try:  # GNU readline (Linux/macOS); Windows needs the pyreadline3 package
+try:  # GNU readline (Linux/macOS); no Windows nativo precisa do pyreadline3
     import readline
-except ImportError:  # pragma: no cover - platform dependent
+except ImportError:  # pragma: no cover - depende da plataforma
     readline = None
 
 RecommendationFn = Callable[[str], Sequence[str]]
 
+# `show-all-if-ambiguous` faz o proprio TAB listar as opcoes na primeira vez que
+# ele e apertado; sem isso o readline so lista na segunda vez.
+READLINE_BINDINGS = ("tab: complete", "set show-all-if-ambiguous on")
+
 
 class VerbCompleter:
-    """readline completer that only answers for the first word of the line."""
+    """Completer do readline que so responde pela primeira palavra da linha."""
 
     def __init__(
         self,
@@ -55,7 +57,7 @@ class VerbCompleter:
         return self._verbs
 
     def matches(self, prefix: str) -> list[str]:
-        """Verbs starting with ``prefix`` (or similar ones, if ``recommend`` is given)."""
+        """Palavras que comecam com o prefixo (ou parecidas, se ha `recommend`)."""
         prefix = prefix.strip().lower()
         if len(prefix) < self._min_prefix:
             return []
@@ -64,12 +66,12 @@ class VerbCompleter:
         return found or self._recommendations(prefix)
 
     def is_verb_position(self, line: str, word_start: int) -> bool:
-        """True only when the current word is the first one (nothing before it)."""
+        """True so quando a palavra atual e a primeira (nada antes dela)."""
         word_start = max(0, word_start)
         return not line[:word_start].strip()
 
     def complete(self, text: str, state: int) -> Optional[str]:
-        """readline protocol: return the state-th candidate, or None when done."""
+        """Protocolo do readline: devolve o candidato numero `state`, ou None."""
         if state == 0:
             self._pending = self._matches_for_current_input(text)
         if 0 <= state < len(self._pending):
@@ -100,10 +102,10 @@ def enable_verb_autocomplete(
     max_recommendations: int = 5,
     stream=None,
 ) -> bool:
-    """Bind TAB to verb completion. Return False when completion is unavailable."""
+    """Liga o TAB na primeira palavra. False quando nao da para completar."""
     stream = sys.stdin if stream is None else stream
     if not getattr(stream, "isatty", lambda: False)():
-        return False  # redirected input (pipes/automated runs): TAB makes no sense
+        return False  # entrada redirecionada (pipes/execucoes automaticas)
 
     if readline is None:
         print(
@@ -121,5 +123,6 @@ def enable_verb_autocomplete(
         word_start_provider=readline.get_begidx,
     )
     readline.set_completer(completer.complete)
-    readline.parse_and_bind("tab: complete")
+    for binding in READLINE_BINDINGS:
+        readline.parse_and_bind(binding)
     return True

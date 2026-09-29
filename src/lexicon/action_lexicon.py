@@ -102,9 +102,6 @@ class ActionLexicon:
             for canonical in canonicals
         }
 
-    # ------------------------------------------------------------------ #
-    # Construcao
-    # ------------------------------------------------------------------ #
     @classmethod
     def from_csv(cls, path: str | Path) -> "ActionLexicon":
         """Carrega o CSV. Arquivo ausente ou so com cabecalho devolve lexico vazio."""
@@ -157,9 +154,6 @@ class ActionLexicon:
 
         return cls(entries, problems)
 
-    # ------------------------------------------------------------------ #
-    # Consulta
-    # ------------------------------------------------------------------ #
     def canonical_for(self, token: str) -> str | None:
         """Palavra do jogo correspondente ao token digitado (ou None)."""
         return self._canonical_of.get(normalize_token(token))

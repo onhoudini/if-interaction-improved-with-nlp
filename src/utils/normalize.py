@@ -1,7 +1,6 @@
 """Limpeza e normalizacao da entrada do jogador.
 
-Ha dois papeis diferentes (antes havia tres normalizacoes espalhadas pelo
-projeto, cada uma fazendo uma coisa diferente):
+Ha dois papeis diferentes:
 
 * ``sanitize_line``  -> o texto que vai ser ENVIADO ao dfrotz. A entrada vem do
   terminal, entao pode ter acento, emoji, caractere de controle, sequencia

@@ -187,9 +187,9 @@ Na primeira execução, o NLTK vai baixar automaticamente os pacotes `wordnet` e
 
 O jogo (Zork I) roda normalmente no terminal. Digitar o comando é tudo o que o jogador precisa fazer: quando o verbo digitado é um sinônimo cadastrado no léxico, o programa envia a palavra do dicionário no lugar dele **sem avisar ninguém** (nenhuma mensagem, nenhum atraso). A única mensagem que pode aparecer é a sugestão da camada 3 — `Perhaps, do you mean 'X'?` — e ela **não** altera o comando enviado.
 
-### A seta de prompt
+### O prompt `>`
 
-O `>` sozinho, no começo da linha, é o **prompt do interpretador (`dfrotz`)**: ele significa que o jogo terminou de responder e está esperando um comando. Digite o comando (o texto aparece logo depois do `>`) e pressione **Enter**:
+O `>` no começo da linha é o prompt que a ferramenta mostra quando o jogo terminou de responder e está esperando um comando. Digite o comando logo depois dele e pressione **Enter**:
 
 ```
 >open mailbox
@@ -198,9 +198,11 @@ Opening the small mailbox reveals a leaflet.
 >
 ```
 
-> Esse `>` é escrito pelo próprio `dfrotz` **sem quebra de linha** no final. O `src/server/dfrotz_runner.py` lê a saída do jogo em blocos e escreve na tela imediatamente, inclusive essa linha incompleta. Se estiver com uma versão antiga do código e o `>` não aparecer, atualize o repositório (`git pull`): sem esse ajuste o `>` fica preso no buffer do Python e só aparece depois que o jogador digita o próximo comando.
+> Quem escreve esse `> ` é o `input()` do `src/server/dfrotz_runner.py` (o texto está em `PROMPT_TEXT`, em `src/config.py`), e ele é escrito **como prompt**: não faz parte da linha digitada, então não entra no comando enviado ao jogo nem no autocomplete do TAB.
+>
+> O próprio `dfrotz` também escreve um `>` no fim da resposta, mas **sem quebra de linha** depois dele. Esse `>` nunca aparece na tela: a saída do jogo é lida em blocos crus e o `>` final fica guardado no `GameOutput` (ele não vai para a tela nem para o log), para o prompt do jogador não aparecer duplicado nem colado no fim da resposta. O prompt só é mostrado depois que a resposta inteira chegou (a thread que lê a saída avisa quando o jogo para de escrever).
 
-Pressione **TAB** enquanto digita para completar automaticamente o **verbo** (primeira palavra do comando); depois do primeiro espaço o TAB não faz nada. Detalhes na seção [Autocomplete de verbos](#autocomplete-de-verbos-tab).
+Pressione **TAB** enquanto digita para completar automaticamente o **verbo** (primeira palavra do comando): um TAB já lista todas as opções que começam com o que você digitou. Depois do primeiro espaço o TAB não faz nada. Detalhes na seção [Autocomplete de verbos](#autocomplete-de-verbos-tab).
 
 Ao encerrar a sessão, o histórico fica em `data/logs/session_<timestamp>.txt` (uma linha `[INPUT]` e uma `[SERVER]` por comando, mais a saída do jogo em `[GAME]`) e as palavras do léxico usadas naquela execução são salvas em `data/logs/actions_used.txt` (com cópia para `actions_used_<timestamp>.txt`). O `data/logs/` está no `.gitignore`.
 
@@ -255,8 +257,10 @@ Edite `src/config.py` para ajustar:
 | `SERVER_HOST`, `SERVER_PORT` | Endereço do servidor TCP que o `dfrotz` (com patch) exige (padrão `localhost:2300`) |
 | `SUGGESTION_THRESHOLD` | **Único limiar do projeto** (0–1): nota mínima para a camada 3 sugerir uma palavra parecida. Padrão `0.80` |
 | `VERBOSE_SERVER_LINES` | `True` também imprime as linhas `[SERVER]` na tela do jogador (útil para depurar). Padrão `False` |
+| `PROMPT_TEXT` | Texto do prompt mostrado antes de cada comando (escrito fora da área digitada). Padrão `"> "` |
+| `GAME_QUIET_SECONDS`, `GAME_IDLE_FALLBACK`, `GAME_REPLY_TIMEOUT` | Tempos (segundos) usados para decidir quando a resposta do jogo terminou e o prompt pode aparecer |
 | `AUTOCOMPLETE_ENABLED` | Liga/desliga o autocomplete via TAB (ver seção [Autocomplete de verbos](#autocomplete-de-verbos-tab)) |
-| `AUTOCOMPLETE_MIN_PREFIX` | Mínimo de letras digitadas para o TAB completar |
+| `AUTOCOMPLETE_MIN_PREFIX` | Mínimo de letras digitadas para o TAB responder |
 | `AUTOCOMPLETE_SIMILAR_SUGGESTIONS` | Sugere palavras parecidas (via estratégia de similaridade) quando nenhuma começa com o prefixo digitado |
 | `AUTOCOMPLETE_MAX_SUGGESTIONS` | Número máximo de sugestões parecidas exibidas |
 
@@ -307,9 +311,9 @@ Durante o jogo (modo `1`), pressionar **TAB** completa a **primeira palavra** do
 
 - **Só o verbo.** O TAB só age enquanto o jogador ainda está digitando a primeira palavra; depois do primeiro espaço ele não faz nada, ou seja, objetos/substantivos nunca são completados.
 - **Só o que está no léxico.** Os candidatos são exatamente as palavras e os sinônimos do `action.csv`; o que não estiver lá não aparece na lista.
-- **Nada é enviado ao jogo.** Comportamento padrão do `readline`: TAB completa ou lista os candidatos e o comando só vai para o `dfrotz` quando o jogador aperta Enter.
+- **Nada é enviado ao jogo.** Comportamento padrão do `readline`: o TAB lista os candidatos e, quando só existe um, completa a palavra; o comando só vai para o `dfrotz` quando o jogador aperta Enter. Por padrão o `readline` só listaria na **segunda** vez que o TAB fosse apertado — a lista sai no primeiro TAB porque o `verb_completer.py` liga a opção `show-all-if-ambiguous`.
 
-Exemplos: `op` + TAB → `open`; `ta` + TAB → lista `take`, `talk`, `tan`, `taste`, `taunt`.
+Exemplos: `ta` + TAB → lista `tail`, `take`, `talk`, `tally`, `tan`, `tap`, `taste`, `taunt`; `tak` + TAB → completa `take`.
 
 Implementação: `src/utils/verb_completer.py` (classe `VerbCompleter`) é ligada ao loop de entrada em `src/server/dfrotz_runner.py` (funções `_enable_verb_autocomplete` e `_build_verb_recommender`). No modo `0` (frotz puro / grupo de controle) o autocomplete fica **desligado**, para não interferir na comparação A/B.
 
@@ -318,7 +322,7 @@ Ajustes em `src/config.py`:
 | Variável | Descrição | Padrão |
 |---|---|---|
 | `AUTOCOMPLETE_ENABLED` | Liga/desliga o TAB (apenas no modo `1`) | `True` |
-| `AUTOCOMPLETE_MIN_PREFIX` | Mínimo de letras digitadas para o TAB completar | `2` |
+| `AUTOCOMPLETE_MIN_PREFIX` | Mínimo de letras digitadas para o TAB responder | `1` |
 | `AUTOCOMPLETE_SIMILAR_SUGGESTIONS` | Se nada começar com o prefixo digitado, sugere uma palavra parecida usando a mesma estratégia de similaridade (respeita `SUGGESTION_THRESHOLD`; mais lento) | `False` |
 | `AUTOCOMPLETE_MAX_SUGGESTIONS` | Número máximo de sugestões parecidas exibidas | `5` |
 
@@ -381,7 +385,7 @@ Sem o servidor no ar, o `dfrotz` encerra o jogo no primeiro comando enviado, com
 
 ### O jogo parece estar esperando um comando, mas não aparece nenhum sinal na tela
 
-O sinal de que é a sua vez é o `>` (ver [A seta de prompt](#a-seta-de-prompt)). Se ele não aparecer, verifique se o código está atualizado (`git pull`): versões antigas deixavam o `>` preso no buffer e ele só era exibido depois que o jogador digitava.
+O sinal de que é a sua vez é o `> ` (ver [O prompt](#o-prompt)). Ele é escrito pela própria ferramenta, sempre depois que a resposta do jogo terminou de aparecer — não depende do que o `dfrotz` manda.
 
 ---
 
