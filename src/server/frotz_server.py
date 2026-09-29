@@ -13,13 +13,14 @@ import socket
 from ctypes import Structure, c_int, c_char, c_float, sizeof
 from typing import Optional, Set
 
+from src.lexicon.action_lexicon import ActionLexicon
 from src.matching.matchers import build_matcher, MatchResult
+from src.paths import LEXICON_FILE
 from src.utils.tokenizer import tokenize
 from src.config import (
     SERVER_HOST,
     SERVER_PORT,
-    THRESHOLD_SUGGESTION,
-    THRESHOLD_AUTO_CORRECT,
+    SUGGESTION_THRESHOLD,
 )
 
 
@@ -87,52 +88,71 @@ def _process_payload(
 
 
 def interpret(result: MatchResult, raw_tokens: list[str]) -> tuple[list[str], str]:
-    if result.score == 1.0:
-        return result.matched_tokens, "pass"
-    if result.score >= THRESHOLD_AUTO_CORRECT:
-        return result.matched_tokens, "correct"
-    if result.score >= THRESHOLD_SUGGESTION:
-        return raw_tokens, "suggest"
-    return raw_tokens, "pass"
+    """O que deve ser enviado ao jogo e o status da decisao.
+
+    Espelha as camadas de `src/matching/matchers.py`: so a tabela de sinonimos
+    troca o comando (e o faz em silencio); sugestao nao troca nada.
+    """
+    if result.status in {"ok", "sinonimo"}:
+        return result.matched_tokens, result.status
+    return raw_tokens, result.status
 
 
 def log(result: MatchResult, status: str) -> None:
     raw = result.original_input
     score = result.score
-    if status == "pass" and result.verb_found == result.verb_matched:
-        print(f"  [OK]      '{raw}'  (verbo '{result.verb_found}' valido)")
-    elif status == "pass":
+
+    if status == "ok":
+        print(f"  [OK]       '{raw}'  (palavra '{result.verb_found}' que o jogo conhece)")
+    elif status == "sinonimo":
+        corrected_cmd = " ".join(result.matched_tokens)
         print(
-            f"  [IGNORA]  '{raw}'  '{result.verb_found}' -> '{result.verb_matched}'"
-            f"  score={score:.2f} (abaixo do limiar)"
+            f"  [SINONIMO] '{raw}'  '{result.verb_found}' -> '{result.verb_matched}'"
+            f"  cmd='{corrected_cmd}'"
         )
-    elif status == "suggest":
+    elif status == "sugestao":
         print(
-            f"  [SUGESTAO]  '{raw}'  '{result.verb_found}' -> '{result.verb_matched}'"
+            f"  [SUGESTAO] '{raw}'  '{result.verb_found}' -> '{result.verb_matched}'"
             f"  score={score:.2f}"
         )
     else:
-        corrected_cmd = " ".join(result.matched_tokens)
-        print(
-            f"  [CORRECAO] '{raw}'  '{result.verb_found}' -> '{result.verb_matched}'"
-            f"  cmd='{corrected_cmd}'  score={score:.2f}"
-        )
+        print(f"  [PASSA]    '{raw}'")
 
 
 def run_server(game_words: Set[str], strategy, disable_algorithm: bool = False) -> None:
     print(f"Palavras no dicionario : {len(game_words)}")
-    print(f"Limiar sugestao        : {THRESHOLD_SUGGESTION}")
-    print(f"Limiar correcao        : {THRESHOLD_AUTO_CORRECT}")
+    print(f"Limiar de sugestao     : {SUGGESTION_THRESHOLD}")
 
     if disable_algorithm:
-        print("\nModo puro: algoritmo desativado")
+        print("\nServidor em passthrough (a decisao fica no dfrotz_runner)")
     else:
         print("\nCarregando matcher...", end=" ", flush=True)
-        matcher = build_matcher(game_words, strategy)
+        matcher = build_matcher(
+            ActionLexicon.from_csv(LEXICON_FILE), game_words, strategy
+        )
         print("pronto!\n")
 
     payload_size = sizeof(Payload)
-    server = _build_server_socket()
+    try:
+        server = _build_server_socket()
+    except OSError as exc:
+        print(
+            f"\n[ERRO] Nao consegui abrir o servidor em {SERVER_HOST}:{SERVER_PORT}"
+            f" ({exc})."
+        )
+        print(
+            "       Ja existe outra sessao do jogo rodando (ou um processo antigo"
+            " ficou preso)."
+        )
+        print(
+            "       Feche a outra sessao (ou encerre o processo antigo) e rode"
+            " novamente."
+        )
+        print(
+            "       Sem o servidor o dfrotz encerra no primeiro comando enviado"
+            ' ("ERROR: Unable to connect to server").'
+        )
+        return
 
     try:
         print(f"Aguardando conexoes em {SERVER_HOST}:{SERVER_PORT}")

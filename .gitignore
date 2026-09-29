@@ -1,5 +1,15 @@
 .venv/
+venv/
 __pycache__/
 *.pyc
 .env
 .vscode/
+.idea/
+
+# Artefatos de compilacao do frotz (regenerados por "make dumb")
+*.o
+*.a
+
+# Saidas geradas: sessoes de jogo e relatorios dos scripts de tools/
+data/logs/
+tools/output/

@@ -1,0 +1,10 @@
+# Scripts que rodam no Linux/WSL precisam SEMPRE de finais de linha LF.
+# Sem isso, com core.autocrlf=true (padrao no Windows), o git converte o
+# run.sh para CRLF no checkout e o bash falha com "$\r: command not found".
+*.sh text eol=lf
+
+# Arquivos de lote do Windows usam CRLF.
+*.bat text eol=crlf
+
+# Tabela de sinonimos e demais dados: LF (diff limpo, o parser aceita os dois).
+*.csv text eol=lf

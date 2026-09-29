@@ -1,13 +1,14 @@
 """TAB completion restricted to the verb (first word) of the player's command.
 
 The player types on the Python side (see ``src/server/dfrotz_runner.py``), before
-the line is matched/corrected and forwarded to dfrotz. This module hooks GNU
-readline (or pyreadline3 on Windows) so TAB completes the *first* token of the
-line using the valid verbs loaded from ``data/dictionaries/actions.txt``.
+the line is matched/rewritten by the lexicon and forwarded to dfrotz. This module
+hooks GNU readline (or pyreadline3 on Windows) so TAB completes the *first* token
+of the line using the candidates handed over by the caller: as palavras do jogo
+e os sinonimos de ``data/lexicon/action.csv`` (ver ``src/main.py``).
 
-Only verbs are completed:
+Only the first word is completed:
 
-* the candidates are exactly the verb list handed over by the caller;
+* the candidates are exactly the list handed over by the caller;
 * once the player types a space, the current word is no longer the first one, so
   TAB does nothing (objects/nouns are never completed).
 """
