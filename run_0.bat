@@ -2,13 +2,11 @@
 setlocal
 cd /d "%~dp0"
 
-
 rem ---------------------------------------------------------------------------
 rem  Roda o jogo (Zork I) sempre no modo 0: frotz puro, sem processamento
 rem  (grupo de controle).
-rem  Este projeto roda SOMENTE no Linux: frotz-master\dfrotz e um binario ELF
-rem  de Linux, que o Windows nao executa. Por isso este .bat abre o jogo
-rem  dentro do WSL (Windows Subsystem for Linux), chamando o run_0.sh.
+rem  Tudo e feito por este .bat: cria o .venv (Linux) se faltar, instala as
+rem  dependencias, da permissao ao dfrotz e chama src/main.py 0 dentro do WSL.
 rem ---------------------------------------------------------------------------
 
 where wsl.exe >nul 2>nul
@@ -22,7 +20,9 @@ rem ("/mnt/c/caminho/do/projeto").
 for /f "usebackq delims=" %%p in (`wsl.exe wslpath "%RAIZ%"`) do set "RAIZ_WSL=%%p"
 if not defined RAIZ_WSL goto :semwsl
 
-wsl.exe bash -lc "cd '%RAIZ_WSL%' && bash run_0.sh"
+echo.
+
+wsl.exe bash -lc "cd '%RAIZ_WSL%' && if [ ! -x .venv/bin/python ]; then echo '[SETUP] criando .venv (Linux)...' && python3 -m venv .venv && .venv/bin/pip install -r requirements.txt; fi && chmod u+rwx frotz-master/dfrotz && .venv/bin/python src/main.py 0"
 set "STATUS=%ERRORLEVEL%"
 
 if not "%STATUS%"=="0" goto :falha
@@ -32,8 +32,8 @@ exit /b 0
 echo.
 echo [ERRO] A execucao dentro do WSL terminou com o codigo %STATUS%.
 echo.
-echo        Para ver a mensagem completa, rode no WSL:
-echo            wsl bash run_0.sh
+echo        Se faltou o Python no WSL, rode no Ubuntu:
+echo            sudo apt update ^&^& sudo apt install -y python3 python3-venv python3-pip
 echo.
 pause
 exit /b %STATUS%
