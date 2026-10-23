@@ -310,11 +310,6 @@ def _enable_verb_autocomplete(entries: Optional[Iterable[str]], strategy) -> boo
         recommend=recommend,
         max_recommendations=AUTOCOMPLETE_MAX_SUGGESTIONS,
     )
-    if enabled:
-        print(
-            "[AUTOCOMPLETE] TAB lista as opcoes da primeira palavra "
-            f"({len(entries)} entradas: palavras do jogo + sinonimos)."
-        )
     return enabled
 
 
@@ -355,7 +350,7 @@ def run_dfrotz_proxy(
     _start_server_thread(game_words, strategy)
 
     proc = subprocess.Popen(
-        [str(dfrotz_path), str(game_file)],
+        [str(dfrotz_path), "-q", str(game_file)],
         stdin=subprocess.PIPE,
         stdout=subprocess.PIPE,
         stderr=subprocess.STDOUT,

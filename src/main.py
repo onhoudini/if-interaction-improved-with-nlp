@@ -36,9 +36,7 @@ def parse_mode() -> str:
 
 def load_game_dictionary(game_file: Path) -> set[str]:
     """Palavras que o jogo conhece (extraidas do .z3 em tempo de execucao)."""
-    print("Extraindo dicionario do jogo...", end=" ", flush=True)
-    words, separators = extract_dictionary(str(game_file))
-    print(f"{len(words)} palavras (separadores: {separators})")
+    words, _separators = extract_dictionary(str(game_file))
     return set(words)
 
 
@@ -48,18 +46,6 @@ def load_lexicon(mode: str) -> ActionLexicon:
         return ActionLexicon()
 
     lexicon = ActionLexicon.from_csv(LEXICON_FILE)
-    print(f"Lexico     : {LEXICON_FILE}")
-    print(
-        f"             {len(lexicon)} palavras do jogo,"
-        f" {len(lexicon.synonyms)} sinonimos"
-    )
-    if lexicon.is_empty:
-        print(
-            "[AVISO] o lexico esta vazio (so o cabecalho): nenhum sinonimo vai"
-            " ser trocado."
-        )
-    for problem in lexicon.problems:
-        print(f"[AVISO] lexico: {problem}")
     return lexicon
 
 
@@ -81,14 +67,6 @@ def save_actions_used(canonicals: Iterable[str]) -> None:
 
 def main() -> None:
     mode = parse_mode()
-    label = (
-        "frotz puro (sem processamento)"
-        if mode == "0"
-        else "com tabela de sinonimos"
-    )
-
-    print(f"\nJogo : {GAME_FILE}")
-    print(f"Modo : {label}")
 
     if not GAME_FILE.exists():
         print(f"[ERROR] Archive '{GAME_FILE}' not found.")
@@ -104,7 +82,6 @@ def main() -> None:
     strategy = None
     if mode != "0":
         strategy = SIMILARITY_STRATEGY()
-        print(f"Similaridade: {strategy.__class__.__name__} (apenas sugestoes)\n")
         save_actions_used(lexicon.canonicals)
 
     run_dfrotz_proxy(

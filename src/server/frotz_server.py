@@ -124,17 +124,10 @@ def log(result: MatchResult, status: str) -> None:
 
 
 def run_server(game_words: Set[str], strategy, disable_algorithm: bool = False) -> None:
-    print(f"Palavras no dicionario : {len(game_words)}")
-    print(f"Limiar de sugestao     : {SUGGESTION_THRESHOLD}")
-
-    if disable_algorithm:
-        print("\nServidor em passthrough (a decisao fica no dfrotz_runner)")
-    else:
-        print("\nCarregando matcher...", end=" ", flush=True)
+    if not disable_algorithm:
         matcher = build_matcher(
             ActionLexicon.from_csv(LEXICON_FILE), game_words, strategy
         )
-        print("pronto!\n")
 
     payload_size = sizeof(Payload)
     try:
@@ -159,9 +152,6 @@ def run_server(game_words: Set[str], strategy, disable_algorithm: bool = False) 
         return
 
     try:
-        print(f"Aguardando conexoes em {SERVER_HOST}:{SERVER_PORT}")
-        print("=" * 60)
-
         while True:
             client, _ = server.accept()
             try:
