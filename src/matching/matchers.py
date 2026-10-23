@@ -114,6 +114,15 @@ class VerbMatcher:
                 1.0,
             )
 
+        # sugestao so quando o jogador nao chegou em nenhuma palavra conhecida
+        if any(
+            token in self.game_words or self.lexicon.canonical_for(token)
+            for token in tokens
+        ):
+            return MatchResult(
+                user_input, sanitized, tokens, STATUS_PASS, verb, "", 0.0
+            )
+
         # sugestao: o comando segue como foi digitado
         suggestion, score = self._best_suggestion(verb)
         if suggestion and score >= self.suggestion_threshold:
