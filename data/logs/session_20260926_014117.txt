@@ -1,3 +1,0 @@
-[META] dfrotz=C:\Users\gabri\OneDrive\Documents\if-interaction-with-pln\frotz-master\dfrotz
-[META] game=C:\Users\gabri\OneDrive\Documents\if-interaction-with-pln\frotz-master\games\zork1-r88-s840726.z3
-[META] started=20260926_014117
